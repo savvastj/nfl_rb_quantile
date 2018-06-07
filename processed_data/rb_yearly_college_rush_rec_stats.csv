@@ -1,0 +1,1672 @@
+Year,School,Conf,Class,Pos,G,Rush_Att,Rush_Yds,Rush_Avg,Rush_TD,Rec,Rec_Yds,Rec_Avg,Rec_TD,Plays,Scrim_Yds,Scrim_Avg,Scrim_TD,Sref_Cfb_ID,Stats_Incl_Bowl_Gm
+1996,Alabama,SEC,,RB,11,77,589,7.6,6,7,53,7.6,0,84,642,7.6,6,shaun-alexander-1,0
+1997,Alabama,SEC,,RB,9,90,415,4.6,3,4,37,9.3,0,94,452,4.8,3,shaun-alexander-1,0
+1998,Alabama,SEC,,RB,11,258,1178,4.6,13,26,385,14.8,4,284,1563,5.5,17,shaun-alexander-1,0
+1999,Alabama,SEC,,RB,11,302,1383,4.6,19,25,323,12.9,4,327,1706,5.2,23,shaun-alexander-1,0
+1996,Arizona,Pac-10,,WR,11,,,,,,,,,0,0,,0,trung-canidate-1,0
+1997,Arizona,Pac-10,,RB,8,138,804,5.8,4,3,24,8.0,0,141,828,5.9,4,trung-canidate-1,0
+1998,Arizona,Pac-10,,RB,11,167,1220,7.3,10,9,191,21.2,0,176,1411,8.0,10,trung-canidate-1,0
+1999,Arizona,Pac-10,,RB,12,253,1602,6.3,11,30,253,8.4,1,283,1855,6.6,12,trung-canidate-1,0
+1997,Marshall,MAC,,RB,13,176,1060,6.0,11,17,108,6.4,1,193,1168,6.1,12,doug-chapman-1,1
+1998,Marshall,MAC,,RB,13,278,1265,4.6,17,26,279,10.7,3,304,1544,5.1,20,doug-chapman-1,1
+1999,Marshall,MAC,,RB,12,164,686,4.2,12,24,321,13.4,1,188,1007,5.4,13,doug-chapman-1,0
+1996,Wisconsin,Big Ten,,RB,13,325,2109,6.5,21,14,133,9.5,0,339,2242,6.6,21,ron-dayne-1,1
+1997,Wisconsin,Big Ten,,RB,11,263,1457,5.5,15,10,117,11.7,0,273,1574,5.8,15,ron-dayne-1,1
+1998,Wisconsin,Big Ten,,RB,11,295,1525,5.2,15,6,45,7.5,0,301,1570,5.2,15,ron-dayne-1,1
+1999,Wisconsin,Big Ten,,RB,12,337,2034,6.0,20,1,9,9.0,0,338,2043,6.0,20,ron-dayne-1,0
+1998,Oregon,Pac-10,,RB,5,112,824,7.4,9,3,44,14.7,2,115,868,7.5,11,reuben-droughns-1,1
+1999,Oregon,Pac-10,,RB,12,277,1234,4.5,9,17,163,9.6,1,294,1397,4.8,10,reuben-droughns-1,1
+1996,South Carolina,SEC,,RB,11,43,281,6.5,5,,,,,43,281,6.5,5,troy-hambrick-1,0
+1997,South Carolina,SEC,,RB,11,115,604,5.3,5,18,143,7.9,0,133,747,5.6,5,troy-hambrick-1,0
+1998,South Carolina,SEC,,RB,10,144,701,4.9,4,22,166,7.5,0,166,867,5.2,4,troy-hambrick-1,0
+1996,Brigham Young,WAC,,RB,14,128,733,5.7,11,14,189,13.5,3,142,922,6.5,14,ronney-jenkins-1,0
+1998,Brigham Young,WAC,,RB,13,252,1307,5.2,13,34,349,10.3,2,286,1656,5.8,15,ronney-jenkins-1,0
+1996,Virginia,ACC,,RB,11,36,205,5.7,4,4,26,6.5,0,40,231,5.8,4,thomas-jones-1,0
+1997,Virginia,ACC,,RB,11,201,692,3.4,4,17,127,7.5,1,218,819,3.8,5,thomas-jones-1,0
+1998,Virginia,ACC,,RB,11,238,1303,5.5,13,28,179,6.4,2,266,1482,5.6,15,thomas-jones-1,0
+1999,Virginia,ACC,,RB,11,334,1798,5.4,16,22,239,10.9,1,356,2037,5.7,17,thomas-jones-1,0
+1995,West Virginia,Big East,,RB,7,28,136,4.9,0,,,,,28,136,4.9,0,curtis-keaton-1,0
+1997,West Virginia,Big East,,RB,11,60,268,4.5,3,,,,,60,268,4.5,3,curtis-keaton-1,1
+1997,Tennessee,SEC,,RB,12,232,1364,5.9,7,23,266,11.6,2,255,1630,6.4,9,jamal-lewis-2,0
+1998,Tennessee,SEC,,RB,5,73,497,6.8,3,1,16,16.0,1,74,513,6.9,4,jamal-lewis-2,0
+1999,Tennessee,SEC,,RB,10,182,816,4.5,7,15,193,12.9,1,197,1009,5.1,8,jamal-lewis-2,0
+1996,Colorado State,WAC,,RB,12,9,76,8.4,1,,,,,9,76,8.4,1,kevin-mcdougal-2,0
+1997,Colorado State,WAC,,RB,12,150,1111,7.4,13,12,100,8.3,1,162,1211,7.5,14,kevin-mcdougal-2,0
+1998,Colorado State,WAC,,RB,7,105,547,5.2,4,8,52,6.5,0,113,599,5.3,4,kevin-mcdougal-2,0
+1999,Colorado State,MWC,,RB,10,207,1164,5.6,8,8,58,7.3,0,215,1222,5.7,8,kevin-mcdougal-2,0
+1996,LSU,SEC,,RB,11,103,603,5.9,10,8,86,10.8,1,111,689,6.2,11,rondell-mealey-1,0
+1997,LSU,SEC,,RB,11,112,664,5.9,7,7,60,8.6,0,119,724,6.1,7,rondell-mealey-1,0
+1998,LSU,SEC,,RB,11,68,334,4.9,4,2,9,4.5,2,70,343,4.9,6,rondell-mealey-1,0
+1999,LSU,SEC,,RB,11,170,637,3.7,8,16,147,9.2,1,186,784,4.2,9,rondell-mealey-1,0
+1995,Louisville,Ind,,RB,6,96,416,4.3,2,,,,,96,416,4.3,2,frank-moreau-1,0
+1996,Louisville,CUSA,,RB,11,7,14,2.0,0,1,0,0.0,0,8,14,1.8,0,frank-moreau-1,0
+1997,Louisville,CUSA,,RB,11,120,573,4.8,5,10,45,4.5,0,130,618,4.8,5,frank-moreau-1,0
+1998,Louisville,CUSA,,RB,11,43,307,7.1,3,5,39,7.8,0,48,346,7.2,3,frank-moreau-1,0
+1999,Louisville,CUSA,,RB,10,233,1289,5.5,17,38,285,7.5,0,271,1574,5.8,17,frank-moreau-1,0
+1996,USC,Pac-10,,RB,12,26,171,6.6,2,2,24,12.0,0,28,195,7.0,2,chad-morton-1,0
+1997,USC,Pac-10,,RB,11,30,214,7.1,1,1,17,17.0,0,31,231,7.5,1,chad-morton-1,0
+1998,USC,Pac-10,,RB,11,199,985,4.9,6,18,136,7.6,1,217,1121,5.2,7,chad-morton-1,1
+1999,USC,Pac-10,,RB,12,262,1141,4.4,15,17,79,4.6,0,279,1220,4.4,15,chad-morton-1,0
+1996,Miami (OH),MAC,,RB,11,123,601,4.9,12,1,7,7.0,0,124,608,4.9,12,travis-prentice-1,0
+1997,Miami (OH),MAC,,RB,11,296,1549,5.2,25,23,138,6.0,0,319,1687,5.3,25,travis-prentice-1,0
+1998,Miami (OH),MAC,,RB,11,365,1787,4.9,19,11,107,9.7,1,376,1894,5.0,20,travis-prentice-1,0
+1999,Miami (OH),MAC,,RB,11,354,1659,4.7,17,19,270,14.2,4,373,1929,5.2,21,travis-prentice-1,0
+1996,Arizona State,Pac-10,,RB,11,63,301,4.8,2,9,197,21.9,2,72,498,6.9,4,jr-redmond-1,0
+1997,Arizona State,Pac-10,,RB,10,142,865,6.1,7,15,186,12.4,1,157,1051,6.7,8,jr-redmond-1,0
+1998,Arizona State,Pac-10,,RB,10,166,883,5.3,11,22,194,8.8,0,188,1077,5.7,11,jr-redmond-1,0
+1999,Arizona State,Pac-10,,RB,11,241,1174,4.9,12,15,100,6.7,1,256,1274,5.0,13,jr-redmond-1,1
+1996,Virginia Tech,Big East,,RB,11,89,474,5.3,5,4,26,6.5,0,93,500,5.4,5,shyrone-stith-1,0
+1998,Virginia Tech,Big East,,RB,11,133,699,5.3,3,5,42,8.4,0,138,741,5.4,3,shyrone-stith-1,0
+1999,Virginia Tech,Big East,,RB,12,237,1187,5.0,13,4,48,12.0,0,241,1235,5.1,13,shyrone-stith-1,1
+1996,Ohio State,Big Ten,,RB,10,23,176,7.7,1,6,194,32.3,3,29,370,12.8,4,michael-wiley-1,1
+1997,Ohio State,Big Ten,,RB,13,105,588,5.6,6,9,83,9.2,0,114,671,5.9,6,michael-wiley-1,1
+1998,Ohio State,Big Ten,,RB,12,198,1235,6.2,10,27,200,7.4,1,225,1435,6.4,11,michael-wiley-1,1
+1999,Ohio State,Big Ten,,RB,12,183,952,5.2,10,14,153,10.9,1,197,1105,5.6,11,michael-wiley-1,0
+1997,Kansas State,Big 12,,RB,9,1,12,12.0,0,2,47,23.5,1,3,59,19.7,1,david-allen-1,0
+1998,Kansas State,Big 12,,RB,12,31,177,5.7,1,,,,,31,177,5.7,1,david-allen-1,0
+1999,Kansas State,Big 12,,RB,10,74,364,4.9,6,4,40,10.0,1,78,404,5.2,7,david-allen-1,0
+2000,Kansas State,Big 12,SR,RB,9,62,230,3.7,1,6,55,9.2,0,68,285,4.2,1,david-allen-1,0
+1997,Pitt,Big East,,RB,7,27,108,4.0,2,6,140,23.3,1,33,248,7.5,3,kevan-barlow-1,0
+1998,Pitt,Big East,,RB,9,121,533,4.4,4,11,140,12.7,1,132,673,5.1,5,kevan-barlow-1,0
+1999,Pitt,Big East,,RB,10,141,630,4.5,6,6,94,15.7,1,147,724,4.9,7,kevan-barlow-1,0
+2000,Pitt,Big East,SR,RB,11,197,1053,5.3,8,13,134,10.3,1,210,1187,5.7,9,kevan-barlow-1,0
+1999,Wisconsin,Big Ten,,RB,12,57,298,5.2,4,1,29,29.0,0,58,327,5.6,4,michael-bennett-1,0
+2000,Wisconsin,Big Ten,JR,RB,11,310,1681,5.4,11,4,23,5.8,0,314,1704,5.4,11,michael-bennett-1,0
+1997,Nebraska,Big 12,,RB,11,54,311,5.8,6,3,6,2.0,0,57,317,5.6,6,correll-buckhalter-1,0
+1998,Nebraska,Big 12,,RB,12,142,799,5.6,8,13,88,6.8,0,155,887,5.7,8,correll-buckhalter-1,0
+1999,Nebraska,Big 12,,RB,11,111,662,6.0,6,3,21,7.0,0,114,683,6.0,6,correll-buckhalter-1,0
+2000,Nebraska,Big 12,SR,RB,11,106,750,7.1,7,5,85,17.0,1,111,835,7.5,8,correll-buckhalter-1,0
+1997,Florida State,ACC,,KR,11,,,,,,,,,0,0,,0,jeff-chaney-1,0
+1998,Florida State,ACC,,RB,12,120,573,4.8,5,1,3,3.0,0,121,576,4.8,5,jeff-chaney-1,0
+1999,Florida State,ACC,,RB,10,43,157,3.7,2,6,90,15.0,1,49,247,5.0,3,jeff-chaney-1,0
+2000,Florida State,ACC,SR,RB,11,71,346,4.9,3,17,196,11.5,1,88,542,6.2,4,jeff-chaney-1,0
+1997,Ohio State,Big Ten,,RB,11,25,82,3.3,0,,,,,25,82,3.3,0,derek-combs-1,1
+1998,Ohio State,Big Ten,,RB,9,31,88,2.8,1,1,1,1.0,0,32,89,2.8,1,derek-combs-1,1
+1999,Ohio State,Big Ten,,RB,9,43,173,4.0,3,1,16,16.0,0,44,189,4.3,3,derek-combs-1,0
+2000,Ohio State,Big Ten,SR,RB,11,175,888,5.1,5,9,78,8.7,0,184,966,5.3,5,derek-combs-1,1
+1997,Tennessee,SEC,,RB,7,2,4,2.0,0,,,,,2,4,2.0,0,travis-henry-1,0
+1998,Tennessee,SEC,,RB,11,176,970,5.5,7,4,31,7.8,0,180,1001,5.6,7,travis-henry-1,0
+1999,Tennessee,SEC,,RB,11,125,790,6.3,8,3,3,1.0,0,128,793,6.2,8,travis-henry-1,0
+2000,Tennessee,SEC,SR,RB,11,253,1314,5.2,11,13,65,5.0,0,266,1379,5.2,11,travis-henry-1,0
+1997,Kentucky,SEC,,RB,11,88,502,5.7,1,31,364,11.7,2,119,866,7.3,3,derek-homer-1,0
+1998,Kentucky,SEC,,RB,11,137,716,5.2,7,41,239,5.8,0,178,955,5.4,7,derek-homer-1,0
+1999,Kentucky,SEC,,RB,11,94,332,3.5,3,19,108,5.7,0,113,440,3.9,3,derek-homer-1,0
+2000,Kentucky,SEC,SR,RB,11,34,139,4.1,0,38,341,9.0,0,72,480,6.7,0,derek-homer-1,0
+1996,Miami (FL),Big East,,RB,2,8,22,2.8,0,1,7,7.0,0,9,29,3.2,0,james-jackson-1,1
+1997,Miami (FL),Big East,,RB,9,81,595,7.3,6,10,52,5.2,0,91,647,7.1,6,james-jackson-1,0
+1998,Miami (FL),Big East,,RB,11,82,545,6.6,5,5,30,6.0,0,87,575,6.6,5,james-jackson-1,0
+1999,Miami (FL),Big East,,RB,9,169,782,4.6,9,13,133,10.2,1,182,915,5.0,10,james-jackson-1,0
+2000,Miami (FL),Big East,SR,RB,11,201,1006,5.0,11,9,56,6.2,2,210,1062,5.1,13,james-jackson-1,0
+2000,Auburn,SEC,JR,RB,12,324,1567,4.8,13,9,70,7.8,0,333,1637,4.9,13,rudi-johnson-1,0
+1997,Maryland,ACC,,RB,11,159,689,4.3,3,22,155,7.0,0,181,844,4.7,3,lamont-jordan-1,0
+1998,Maryland,ACC,,RB,10,169,906,5.4,6,14,87,6.2,0,183,993,5.4,6,lamont-jordan-1,0
+1999,Maryland,ACC,,RB,11,266,1632,6.1,16,19,208,10.9,1,285,1840,6.5,17,lamont-jordan-1,0
+2000,Maryland,ACC,SR,RB,11,213,920,4.3,11,21,287,13.7,0,234,1207,5.2,11,lamont-jordan-1,0
+1997,Ole Miss,SEC,,RB,11,94,402,4.3,4,7,71,10.1,0,101,473,4.7,4,deuce-mcallister-1,0
+1998,Ole Miss,SEC,,RB,11,212,1082,5.1,7,18,154,8.6,0,230,1236,5.4,7,deuce-mcallister-1,0
+1999,Ole Miss,SEC,,RB,11,168,930,5.5,13,23,256,11.1,1,191,1186,6.2,14,deuce-mcallister-1,1
+2000,Ole Miss,SEC,SR,RB,11,159,767,4.8,14,18,190,10.6,2,177,957,5.4,16,deuce-mcallister-1,0
+1997,Florida State,ACC,,RB,11,112,623,5.6,9,27,207,7.7,2,139,830,6.0,11,travis-minor-1,0
+1998,Florida State,ACC,,RB,10,191,857,4.5,7,21,189,9.0,1,212,1046,4.9,8,travis-minor-1,0
+1999,Florida State,ACC,,RB,11,180,815,4.5,7,16,102,6.4,0,196,917,4.7,7,travis-minor-1,0
+2000,Florida State,ACC,SR,RB,12,181,923,5.1,5,42,333,7.9,0,223,1256,5.6,5,travis-minor-1,0
+1997,Texas,Big 12,,RB,10,14,92,6.6,1,2,14,7.0,0,16,106,6.6,1,hodges-mitchell-1,0
+1998,Texas,Big 12,,RB,11,23,111,4.8,2,,,,,23,111,4.8,2,hodges-mitchell-1,0
+1999,Texas,Big 12,,RB,13,256,1343,5.2,9,32,343,10.7,1,288,1686,5.9,10,hodges-mitchell-1,1
+2000,Texas,Big 12,SR,RB,11,224,1118,5.0,8,37,386,10.4,3,261,1504,5.8,11,hodges-mitchell-1,0
+1997,Michigan,Big Ten,,RB,11,130,529,4.1,5,21,205,9.8,0,151,734,4.9,5,anthony-thomas-2,0
+1998,Michigan,Big Ten,,RB,11,146,761,5.2,12,15,140,9.3,0,161,901,5.6,12,anthony-thomas-2,0
+1999,Michigan,Big Ten,,RB,11,283,1257,4.4,16,29,166,5.7,0,312,1423,4.6,16,anthony-thomas-2,0
+2000,Michigan,Big Ten,SR,RB,11,287,1551,5.4,16,13,239,18.4,1,300,1790,6.0,17,anthony-thomas-2,0
+1997,Texas Christian,WAC,,RB,11,126,538,4.3,6,11,109,9.9,0,137,647,4.7,6,ladainian-tomlinson-1,0
+1998,Texas Christian,WAC,,RB,11,144,717,5.0,8,6,34,5.7,0,150,751,5.0,8,ladainian-tomlinson-1,0
+1999,Texas Christian,WAC,,RB,12,304,1974,6.5,20,16,84,5.3,0,320,2058,6.4,20,ladainian-tomlinson-1,1
+2000,Texas Christian,WAC,SR,RB,11,369,2158,5.8,22,10,40,4.0,0,379,2198,5.8,22,ladainian-tomlinson-1,0
+1998,Oklahoma State,Big 12,,RB,11,19,71,3.7,2,1,-1,-1.0,0,20,70,3.5,2,reggie-white-1,0
+1999,Oklahoma State,Big 12,,RB,11,38,176,4.6,0,,,,,38,176,4.6,0,reggie-white-1,0
+2000,Oklahoma State,Big 12,JR,RB,11,210,1049,5.0,4,16,123,7.7,0,226,1172,5.2,4,reggie-white-1,0
+1998,Arkansas State,Ind,,RB,10,88,317,3.6,0,3,10,3.3,0,91,327,3.6,0,jonathan-adams-1,0
+1999,Arkansas State,Big West,,RB,10,145,680,4.7,6,2,32,16.0,0,147,712,4.8,6,jonathan-adams-1,0
+2000,Arkansas State,Big West,JR,RB,11,202,1004,5.0,6,15,126,8.4,1,217,1130,5.2,7,jonathan-adams-1,0
+2001,Arkansas State,Sun Belt,SR,RB,11,233,1004,4.3,5,10,103,10.3,0,243,1107,4.6,5,jonathan-adams-1,0
+1998,Stanford,Pac-10,,RB,11,76,154,2.0,0,5,19,3.8,0,81,173,2.1,0,brian-allen-2,0
+1999,Stanford,Pac-10,,RB,11,115,604,5.3,4,4,39,9.8,0,119,643,5.4,4,brian-allen-2,0
+2000,Stanford,Pac-10,JR,RB,11,117,460,3.9,0,10,105,10.5,0,127,565,4.4,0,brian-allen-2,0
+2001,Stanford,Pac-10,SR,RB,11,174,899,5.2,9,4,63,15.8,0,178,962,5.4,9,brian-allen-2,0
+1998,Northwestern,Big Ten,,RB,12,164,537,3.3,4,10,79,7.9,0,174,616,3.5,4,damien-anderson-1,0
+1999,Northwestern,Big Ten,,RB,11,306,1128,3.7,3,16,184,11.5,0,322,1312,4.1,3,damien-anderson-1,0
+2000,Northwestern,Big Ten,SR,RB,12,311,2063,6.6,23,19,132,6.9,0,330,2195,6.7,23,damien-anderson-1,1
+2001,Northwestern,Big Ten,SR,RB,8,172,757,4.4,8,13,107,8.2,0,185,864,4.7,8,damien-anderson-1,0
+1998,Iowa,Big Ten,,RB,11,188,679,3.6,5,20,259,13.0,0,208,938,4.5,5,ladell-betts-1,0
+1999,Iowa,Big Ten,,RB,11,189,857,4.5,5,20,195,9.8,1,209,1052,5.0,6,ladell-betts-1,0
+2000,Iowa,Big Ten,JR,RB,12,233,1090,4.7,5,17,111,6.5,0,250,1201,4.8,5,ladell-betts-1,0
+2001,Iowa,Big Ten,SR,RB,12,222,1060,4.8,10,15,137,9.1,1,237,1197,5.1,11,ladell-betts-1,1
+1998,Georgia Tech,ACC,,RB,11,98,474,4.8,5,13,94,7.2,0,111,568,5.1,5,joe-burns-1,0
+1999,Georgia Tech,ACC,,RB,10,14,87,6.2,0,7,96,13.7,1,21,183,8.7,1,joe-burns-1,0
+2000,Georgia Tech,ACC,SO,RB,11,220,908,4.1,12,26,242,9.3,1,246,1150,4.7,13,joe-burns-1,0
+2001,Georgia Tech,ACC,JR,RB,12,282,1165,4.1,14,28,249,8.9,1,310,1414,4.6,15,joe-burns-1,0
+2001,Troy,Ind,,RB,11,160,801,5.0,8,24,194,8.1,4,184,995,5.4,12,demontray-carter-2,0
+2000,Kansas State,Big 12,,RB,12,46,278,6.0,5,5,78,15.6,0,51,356,7.0,5,rod-cartwright-1,0
+2001,Kansas State,Big 12,,RB,11,66,292,4.4,2,15,108,7.2,0,81,400,4.9,2,rod-cartwright-1,0
+1998,Nebraska,Big 12,,QB,8,96,459,4.8,5,,,,,96,459,4.8,5,eric-crouch-1,0
+1999,Nebraska,Big 12,,QB,12,180,889,4.9,16,2,46,23.0,1,182,935,5.1,17,eric-crouch-1,0
+2000,Nebraska,Big 12,JR,QB,11,169,971,5.7,20,,,,,169,971,5.7,20,eric-crouch-1,0
+2001,Nebraska,Big 12,SR,QB,12,203,1115,5.5,18,1,63,63.0,1,204,1178,5.8,19,eric-crouch-1,0
+1999,Michigan State,Big Ten,,RB,12,118,606,5.1,10,2,32,16.0,0,120,638,5.3,10,tj-duckett-1,1
+2000,Michigan State,Big Ten,SO,RB,11,240,1353,5.6,7,8,39,4.9,0,248,1392,5.6,7,tj-duckett-1,0
+2001,Michigan State,Big Ten,JR,RB,12,263,1420,5.4,12,12,80,6.7,1,275,1500,5.5,13,tj-duckett-1,1
+1998,Notre Dame,Ind,,RB,11,18,75,4.2,0,,,,,18,75,4.2,0,tony-fisher-1,1
+1999,Notre Dame,Ind,,RB,12,156,783,5.0,5,18,296,16.4,2,174,1079,6.2,7,tony-fisher-1,0
+2000,Notre Dame,Ind,JR,RB,11,132,607,4.6,6,12,106,8.8,3,144,713,5.0,9,tony-fisher-1,0
+2001,Notre Dame,Ind,SR,RB,9,78,384,4.9,4,3,-4,-1.3,0,81,380,4.7,4,tony-fisher-1,0
+1998,Michigan State,Big Ten,,RB,11,8,69,8.6,0,,,,,8,69,8.6,0,little-john-flowers-1,0
+1999,Michigan State,Big Ten,,RB,12,25,135,5.4,0,12,43,3.6,0,37,178,4.8,0,little-john-flowers-1,1
+2000,Michigan State,Big Ten,JR,RB,10,54,281,5.2,2,13,93,7.2,0,67,374,5.6,2,little-john-flowers-1,0
+2001,Michigan State,Big Ten,SR,RB,11,64,285,4.5,1,25,299,12.0,2,89,584,6.6,3,little-john-flowers-1,1
+1999,Arizona State,Pac-10,,RB,12,80,512,6.4,5,6,105,17.5,1,86,617,7.2,6,delvon-flowers-1,1
+2001,Arizona State,Pac-10,SR,RB,11,188,1041,5.5,11,4,10,2.5,0,192,1051,5.5,11,delvon-flowers-1,0
+1998,UCLA,Pac-10,,RB,12,126,673,5.3,10,16,163,10.2,2,142,836,5.9,12,deshaun-foster-1,1
+1999,UCLA,Pac-10,,RB,9,111,375,3.4,6,17,114,6.7,0,128,489,3.8,6,deshaun-foster-1,0
+2000,UCLA,Pac-10,JR,RB,10,243,930,3.8,11,16,142,8.9,1,259,1072,4.1,12,deshaun-foster-1,0
+2001,UCLA,Pac-10,SR,RB,8,216,1109,5.1,12,9,129,14.3,1,225,1238,5.5,13,deshaun-foster-1,0
+1999,Boston College,Big East,,RB,10,49,251,5.1,4,2,5,2.5,0,51,256,5.0,4,william-green-1,0
+2000,Boston College,Big East,SO,RB,11,187,1164,6.2,14,6,78,13.0,1,193,1242,6.4,15,william-green-1,0
+2001,Boston College,Big East,JR,RB,10,265,1559,5.9,15,23,260,11.3,2,288,1819,6.3,17,william-green-1,0
+1998,Iowa State,Big 12,,RB,10,30,178,5.9,2,5,23,4.6,0,35,201,5.7,2,ennis-haywood-1,0
+1999,Iowa State,Big 12,,RB,11,55,278,5.1,3,10,176,17.6,0,65,454,7.0,3,ennis-haywood-1,0
+2000,Iowa State,Big 12,JR,RB,10,229,1237,5.4,8,25,211,8.4,0,254,1448,5.7,8,ennis-haywood-1,0
+2001,Iowa State,Big 12,SR,RB,11,258,1169,4.5,14,20,138,6.9,0,278,1307,4.7,14,ennis-haywood-1,0
+1998,East Carolina,CUSA,,RB,10,125,634,5.1,4,2,18,9.0,0,127,652,5.1,4,leonard-henry-1,0
+1999,East Carolina,CUSA,,RB,11,77,312,4.1,1,8,64,8.0,0,85,376,4.4,1,leonard-henry-1,0
+2000,East Carolina,CUSA,JR,RB,11,133,711,5.3,8,18,137,7.6,1,151,848,5.6,9,leonard-henry-1,0
+2001,East Carolina,CUSA,SR,RB,11,184,1432,7.8,16,26,210,8.1,2,210,1642,7.8,18,leonard-henry-1,0
+2000,Utah,MWC,JR,RB,10,89,339,3.8,1,1,-4,-4.0,0,90,335,3.7,1,dameon-hunter-1,0
+2001,Utah,MWC,SR,RB,11,257,1396,5.4,9,6,70,11.7,0,263,1466,5.6,9,dameon-hunter-1,0
+1998,Penn State,Big Ten,,RB,11,127,822,6.5,3,6,35,5.8,1,133,857,6.4,4,eric-mccoo-1,0
+1999,Penn State,Big Ten,,RB,12,148,739,5.0,4,22,249,11.3,1,170,988,5.8,5,eric-mccoo-1,0
+2000,Penn State,Big Ten,JR,RB,12,140,692,4.9,5,26,288,11.1,4,166,980,5.9,9,eric-mccoo-1,0
+2001,Penn State,Big Ten,SR,RB,11,82,265,3.2,6,16,154,9.6,3,98,419,4.3,9,eric-mccoo-1,0
+1998,Mississippi State,SEC,,RB,12,55,290,5.3,1,1,28,28.0,1,56,318,5.7,2,dicenzo-miller-1,0
+1999,Mississippi State,SEC,,RB,9,56,238,4.3,2,5,23,4.6,1,61,261,4.3,3,dicenzo-miller-1,0
+2000,Mississippi State,SEC,JR,RB,11,161,996,6.2,10,24,344,14.3,2,185,1340,7.2,12,dicenzo-miller-1,0
+2001,Mississippi State,SEC,SR,RB,9,132,676,5.1,4,19,337,17.7,3,151,1013,6.7,7,dicenzo-miller-1,0
+2000,Washington State,Pac-10,,RB,11,165,754,4.6,4,9,55,6.1,0,174,809,4.6,4,dave-minnich-1,0
+2001,Washington State,Pac-10,SR,RB,9,192,815,4.2,6,18,169,9.4,2,210,984,4.7,8,dave-minnich-1,1
+2000,Oregon,Pac-10,JR,RB,12,286,1188,4.2,8,23,208,9.0,2,309,1396,4.5,10,maurice-morris-1,1
+2001,Oregon,Pac-10,SR,RB,11,180,1049,5.8,9,12,99,8.3,1,192,1148,6.0,10,maurice-morris-1,1
+1998,San Diego State,WAC,,RB,9,153,762,5.0,4,4,21,5.3,0,157,783,5.0,4,larry-ned-1,0
+1999,San Diego State,MWC,,RB,11,162,894,5.5,11,13,161,12.4,0,175,1055,6.0,11,larry-ned-1,0
+2000,San Diego State,MWC,SR,RB,6,139,357,2.6,6,6,23,3.8,0,145,380,2.6,6,larry-ned-1,0
+2001,San Diego State,MWC,SR,RB,11,311,1549,5.0,15,16,138,8.6,0,327,1687,5.2,15,larry-ned-1,0
+1999,Miami (FL),Big East,,RB,10,143,838,5.9,8,4,44,11.0,2,147,882,6.0,10,clinton-portis-1,0
+2000,Miami (FL),Big East,SO,RB,8,77,485,6.3,2,5,103,20.6,0,82,588,7.2,2,clinton-portis-1,0
+2001,Miami (FL),Big East,JR,RB,11,220,1200,5.5,10,12,125,10.4,1,232,1325,5.7,11,clinton-portis-1,0
+1999,Minnesota,Big Ten,,RB,11,8,22,2.8,1,,,,,8,22,2.8,1,tellis-redmon-1,1
+2000,Minnesota,Big Ten,SO,RB,11,251,1122,4.5,6,29,318,11.0,2,280,1440,5.1,8,tellis-redmon-1,0
+2001,Minnesota,Big Ten,JR,RB,11,185,1091,5.9,6,15,83,5.5,0,200,1174,5.9,6,tellis-redmon-1,0
+2000,Kansas State,Big 12,JR,RB,13,169,718,4.2,16,4,29,7.3,0,173,747,4.3,16,josh-scobey-1,0
+2001,Kansas State,Big 12,SR,RB,11,240,1263,5.3,15,9,52,5.8,0,249,1315,5.3,15,josh-scobey-1,0
+1999,Brigham Young,MWC,,RB,8,92,432,4.7,10,26,339,13.0,3,118,771,6.5,13,luke-staley-1,0
+2000,Brigham Young,MWC,SO,RB,11,130,479,3.7,7,28,327,11.7,0,158,806,5.1,7,luke-staley-1,0
+2001,Brigham Young,MWC,JR,RB,11,196,1596,8.1,24,32,334,10.4,4,228,1930,8.5,28,luke-staley-1,0
+1997,Tennessee,SEC,,RB,7,9,36,4.0,0,,,,,9,36,4.0,0,travis-stephens-1,0
+1998,Tennessee,SEC,,RB,12,107,477,4.5,4,2,3,1.5,0,109,480,4.4,4,travis-stephens-1,0
+2000,Tennessee,SEC,JR,RB,11,81,359,4.4,7,6,28,4.7,0,87,387,4.4,7,travis-stephens-1,0
+2001,Tennessee,SEC,SR,RB,12,291,1464,5.0,10,19,169,8.9,1,310,1633,5.3,11,travis-stephens-1,0
+1998,Toledo,MAC,,RB,10,103,570,5.5,5,10,136,13.6,1,113,706,6.2,6,chester-taylor-1,0
+1999,Toledo,MAC,,RB,11,182,1176,6.5,12,8,47,5.9,0,190,1223,6.4,12,chester-taylor-1,0
+2000,Toledo,MAC,SR,RB,11,250,1470,5.9,18,17,129,7.6,1,267,1599,6.0,19,chester-taylor-1,0
+2001,Toledo,MAC,JR,RB,11,268,1430,5.3,20,26,242,9.3,3,294,1672,5.7,23,chester-taylor-1,0
+1998,Vanderbilt,SEC,,RB,10,66,286,4.3,1,4,24,6.0,0,70,310,4.4,1,lew-thomas-1,0
+1999,Vanderbilt,SEC,,RB,7,19,66,3.5,0,9,115,12.8,0,28,181,6.5,0,lew-thomas-1,0
+2000,Vanderbilt,SEC,JR,RB,7,4,11,2.8,0,5,40,8.0,0,9,51,5.7,0,lew-thomas-1,0
+2001,Vanderbilt,SEC,SR,RB,7,105,675,6.4,5,10,80,8.0,0,115,755,6.6,5,lew-thomas-1,0
+1998,Ohio State,Big Ten,,RB,12,41,197,4.8,2,1,11,11.0,0,42,208,5.0,2,jonathan-wells-1,1
+1999,Ohio State,Big Ten,,RB,12,51,292,5.7,3,5,17,3.4,0,56,309,5.5,3,jonathan-wells-1,0
+2000,Ohio State,Big Ten,JR,RB,12,136,598,4.4,6,9,88,9.8,0,145,686,4.7,6,jonathan-wells-1,1
+2001,Ohio State,Big Ten,SR,RB,11,232,1257,5.4,15,11,117,10.6,0,243,1374,5.7,15,jonathan-wells-1,0
+1998,Indiana,Big Ten,,WR,9,6,56,9.3,0,15,323,21.5,2,21,379,18.0,2,levron-williams-1,0
+1999,Indiana,Big Ten,,RB,11,118,817,6.9,4,33,360,10.9,3,151,1177,7.8,7,levron-williams-1,0
+2000,Indiana,Big Ten,SR,RB,10,116,821,7.1,10,20,116,5.8,0,136,937,6.9,10,levron-williams-1,0
+2001,Indiana,Big Ten,SR,RB,11,212,1401,6.6,17,26,289,11.1,2,238,1690,7.1,19,levron-williams-1,0
+1997,Texas Tech,Big 12,,RB,11,201,894,4.4,3,10,130,13.0,0,211,1024,4.9,3,ricky-williams-2,0
+1998,Texas Tech,Big 12,,RB,11,306,1582,5.2,13,18,176,9.8,0,324,1758,5.4,13,ricky-williams-2,0
+1999,Texas Tech,Big 12,,RB,1,13,33,2.5,1,,,,,13,33,2.5,1,ricky-williams-2,0
+2000,Texas Tech,Big 12,SR,RB,12,127,421,3.3,5,52,228,4.4,2,179,649,3.6,7,ricky-williams-2,0
+2001,Texas Tech,Big 12,SR,RB,11,142,726,5.1,14,92,617,6.7,4,234,1343,5.7,18,ricky-williams-2,0
+1999,Michigan,Big Ten,,RB,11,23,70,3.0,1,3,4,1.3,0,26,74,2.8,1,bj-askew-1,0
+2000,Michigan,Big Ten,SO,RB,11,11,40,3.6,0,15,231,15.4,2,26,271,10.4,2,bj-askew-1,0
+2001,Michigan,Big Ten,JR,RB,11,190,831,4.4,10,24,213,8.9,1,214,1044,4.9,11,bj-askew-1,0
+2002,Michigan,Big Ten,SR,RB,13,110,568,5.2,6,36,280,7.8,1,146,848,5.8,7,bj-askew-1,1
+1999,Alabama,SEC,,RB,11,,,,,,,,,0,0,,0,santonio-beard-1,0
+2001,Alabama,SEC,JR,RB,8,77,633,8.2,4,1,8,8.0,0,78,641,8.2,4,santonio-beard-1,0
+2002,Alabama,SEC,JR,RB,13,165,811,4.9,12,5,74,14.8,0,170,885,5.2,12,santonio-beard-1,0
+2001,Colorado,Big 12,SO,RB,12,190,946,5.0,16,6,36,6.0,0,196,982,5.0,16,chris-brown-1,0
+2002,Colorado,Big 12,JR,RB,12,303,1841,6.1,19,5,40,8.0,0,308,1881,6.1,19,chris-brown-1,1
+1999,Stanford,Pac-10,,RB,10,87,330,3.8,6,2,15,7.5,0,89,345,3.9,6,kerry-carter-1,0
+2000,Stanford,Pac-10,SO,RB,11,179,729,4.1,6,4,93,23.3,1,183,822,4.5,7,kerry-carter-1,0
+2001,Stanford,Pac-10,JR,RB,7,123,456,3.7,9,11,158,14.4,1,134,614,4.6,10,kerry-carter-1,0
+2002,Stanford,Pac-10,SR,RB,10,149,524,3.5,2,8,36,4.5,0,157,560,3.6,2,kerry-carter-1,0
+1999,West Virginia,Big East,,RB,10,224,1138,5.1,10,16,126,7.9,0,240,1264,5.3,10,avon-cobourne-1,0
+2000,West Virginia,Big East,SO,RB,9,197,893,4.5,7,5,63,12.6,0,202,956,4.7,7,avon-cobourne-1,0
+2001,West Virginia,Big East,JR,RB,11,267,1298,4.9,9,23,124,5.4,0,290,1422,4.9,9,avon-cobourne-1,0
+2002,West Virginia,Big East,SR,RB,13,335,1710,5.1,17,15,146,9.7,0,350,1856,5.3,17,avon-cobourne-1,1
+1999,Nebraska,Big 12,,RB,12,57,303,5.3,2,1,9,9.0,0,58,312,5.4,2,dahrran-diedrick-1,0
+2000,Nebraska,Big 12,SO,RB,11,33,212,6.4,3,1,12,12.0,0,34,224,6.6,3,dahrran-diedrick-1,0
+2001,Nebraska,Big 12,JR,RB,11,233,1299,5.6,15,1,-5,-5.0,0,234,1294,5.5,15,dahrran-diedrick-1,0
+2002,Nebraska,Big 12,SR,RB,14,179,931,5.2,6,4,19,4.8,0,183,950,5.2,6,dahrran-diedrick-1,1
+1998,Michigan,Big Ten,,RB,10,77,277,3.6,1,1,5,5.0,0,78,282,3.6,1,justin-fargas-1,0
+2000,Michigan,Big Ten,SO,RB,11,18,85,4.7,0,,,,,18,85,4.7,0,justin-fargas-1,0
+2002,USC,Pac-10,SR,RB,12,161,715,4.4,7,8,101,12.6,0,169,816,4.8,7,justin-fargas-1,1
+1999,Alabama,SEC,,RB,12,7,33,4.7,0,,,,,7,33,4.7,0,ahmaad-galloway-1,0
+2000,Alabama,SEC,SO,RB,11,137,659,4.8,7,4,48,12.0,0,141,707,5.0,7,ahmaad-galloway-1,0
+2001,Alabama,SEC,JR,RB,11,174,881,5.1,6,3,20,6.7,0,177,901,5.1,6,ahmaad-galloway-1,0
+2002,Alabama,SEC,SR,RB,4,58,257,4.4,4,1,5,5.0,0,59,262,4.4,4,ahmaad-galloway-1,0
+1998,Florida,SEC,,RB,2,6,20,3.3,0,,,,,6,20,3.3,0,earnest-graham-1,0
+1999,Florida,SEC,,RB,9,117,654,5.6,5,6,37,6.2,0,123,691,5.6,5,earnest-graham-1,0
+2000,Florida,SEC,SO,RB,12,121,676,5.6,8,19,143,7.5,0,140,819,5.9,8,earnest-graham-1,0
+2001,Florida,SEC,JR,RB,9,125,650,5.2,9,12,129,10.8,0,137,779,5.7,9,earnest-graham-1,0
+2002,Florida,SEC,SR,RB,13,240,1085,4.5,11,22,93,4.2,0,262,1178,4.5,11,earnest-graham-1,1
+1999,Oklahoma,Big 12,,RB,4,44,285,6.5,3,11,107,9.7,1,55,392,7.1,4,quentin-griffin-1,0
+2000,Oklahoma,Big 12,SO,RB,13,200,823,4.1,17,51,429,8.4,0,251,1252,5.0,17,quentin-griffin-1,1
+2001,Oklahoma,Big 12,JR,RB,12,182,804,4.4,9,55,440,8.0,2,237,1244,5.2,11,quentin-griffin-1,0
+2002,Oklahoma,Big 12,SR,RB,14,287,1884,6.6,15,35,264,7.5,3,322,2148,6.7,18,quentin-griffin-1,1
+1999,Middle Tennessee State,Ind,,RB,9,39,182,4.7,3,5,18,3.6,0,44,200,4.5,3,dwone-hicks-1,0
+2000,Middle Tennessee State,Ind,SO,RB,11,186,1277,6.9,19,19,181,9.5,2,205,1458,7.1,21,dwone-hicks-1,0
+2001,Middle Tennessee State,Sun Belt,JR,RB,11,191,1143,6.0,20,18,230,12.8,4,209,1373,6.6,24,dwone-hicks-1,0
+2002,Middle Tennessee State,Sun Belt,SR,RB,10,184,1011,5.5,11,15,250,16.7,0,199,1261,6.3,11,dwone-hicks-1,0
+1999,Penn State,Big Ten,,RB,12,43,171,4.0,1,4,74,18.5,1,47,245,5.2,2,larry-johnson-1,0
+2000,Penn State,Big Ten,SO,RB,12,75,358,4.8,3,9,122,13.6,1,84,480,5.7,4,larry-johnson-1,0
+2001,Penn State,Big Ten,JR,RB,11,71,337,4.7,2,11,136,12.4,2,82,473,5.8,4,larry-johnson-1,0
+2002,Penn State,Big Ten,SR,RB,13,271,2087,7.7,20,41,349,8.5,3,312,2436,7.8,23,larry-johnson-1,1
+1997,USC,Pac-10,,RB,11,96,332,3.5,3,5,22,4.4,0,101,354,3.5,3,malaefou-mackenzie-1,0
+1998,USC,Pac-10,,RB,1,7,28,4.0,0,,,,,7,28,4.0,0,malaefou-mackenzie-1,1
+1999,USC,Pac-10,,RB,8,25,121,4.8,3,5,40,8.0,0,30,161,5.4,3,malaefou-mackenzie-1,0
+2000,USC,Pac-10,JR,RB,12,41,284,6.9,0,27,249,9.2,0,68,533,7.8,0,malaefou-mackenzie-1,0
+2002,USC,Pac-10,SR,RB,13,47,174,3.7,2,39,365,9.4,7,86,539,6.3,9,malaefou-mackenzie-1,1
+1999,Florida State,ACC,,RB,10,29,111,3.8,0,5,34,6.8,0,34,145,4.3,0,nick-maddox-1,0
+2000,Florida State,ACC,SO,WR,12,7,70,10.0,0,7,135,19.3,1,14,205,14.6,1,nick-maddox-1,0
+2001,Florida State,ACC,JR,RB,11,98,438,4.5,3,26,262,10.1,1,124,700,5.6,4,nick-maddox-1,0
+2002,Florida State,ACC,SR,RB,12,106,602,5.7,4,23,197,8.6,1,129,799,6.2,5,nick-maddox-1,1
+1999,USC,Pac-10,,RB,12,90,413,4.6,1,1,6,6.0,0,91,419,4.6,1,sultan-mccullough-1,0
+2000,USC,Pac-10,SO,RB,12,227,1163,5.1,6,9,25,2.8,0,236,1188,5.0,6,sultan-mccullough-1,0
+2001,USC,Pac-10,JR,RB,6,115,410,3.6,5,6,100,16.7,1,121,510,4.2,6,sultan-mccullough-1,1
+2002,USC,Pac-10,SR,RB,13,179,814,4.5,8,12,69,5.8,0,191,883,4.6,8,sultan-mccullough-1,1
+2001,Miami (FL),Big East,FR,RB,8,67,314,4.7,3,1,-7,-7.0,0,68,307,4.5,3,willis-mcgahee-1,0
+2002,Miami (FL),Big East,SO,RB,13,282,1753,6.2,28,27,355,13.1,0,309,2108,6.8,28,willis-mcgahee-1,1
+1999,Kentucky,SEC,,RB,4,16,62,3.9,0,,,,,16,62,3.9,0,artose-pinner-1,0
+2000,Kentucky,SEC,SO,RB,8,39,188,4.8,0,9,28,3.1,0,48,216,4.5,0,artose-pinner-1,0
+2001,Kentucky,SEC,JR,RB,11,100,441,4.4,4,12,115,9.6,0,112,556,5.0,4,artose-pinner-1,0
+2002,Kentucky,SEC,SR,RB,12,283,1414,5.0,13,37,264,7.1,2,320,1678,5.2,15,artose-pinner-1,0
+1999,Colorado State,MWC,,RB,3,6,40,6.7,1,,,,,6,40,6.7,1,cecil-sapp-1,0
+2000,Colorado State,MWC,SO,RB,11,151,841,5.6,10,3,47,15.7,1,154,888,5.8,11,cecil-sapp-1,0
+2002,Colorado State,MWC,SR,RB,14,347,1601,4.6,17,12,63,5.3,0,359,1664,4.6,17,cecil-sapp-1,1
+2000,Georgia,SEC,FR,RB,9,75,330,4.4,5,2,-7,-3.5,0,77,323,4.2,5,musa-smith-1,0
+2001,Georgia,SEC,SO,RB,9,119,548,4.6,6,10,87,8.7,0,129,635,4.9,6,musa-smith-1,0
+2002,Georgia,SEC,JR,RB,13,260,1324,5.1,8,15,107,7.1,0,275,1431,5.2,8,musa-smith-1,1
+1999,Tennessee,SEC,,RB,8,31,189,6.1,4,2,25,12.5,1,33,214,6.5,5,onterrio-smith-1,0
+2001,Oregon,Pac-10,SO,RB,12,175,1058,6.0,7,11,71,6.5,2,186,1129,6.1,9,onterrio-smith-1,1
+2002,Oregon,Pac-10,JR,RB,10,244,1141,4.7,12,13,78,6.0,0,257,1219,4.7,12,onterrio-smith-1,1
+1999,Virginia Tech,Big East,,RB,12,44,136,3.1,2,1,1,1.0,0,45,137,3.0,2,lee-suggs-1,1
+2000,Virginia Tech,Big East,SO,RB,11,222,1207,5.4,27,3,44,14.7,1,225,1251,5.6,28,lee-suggs-1,0
+2001,Virginia Tech,Big East,JR,RB,1,12,99,8.3,2,,,,,12,99,8.3,2,lee-suggs-1,0
+2002,Virginia Tech,Big East,SR,RB,14,257,1325,5.2,22,11,126,11.5,2,268,1451,5.4,24,lee-suggs-1,1
+2000,LSU,SEC,FR,RB,10,165,682,4.1,5,7,44,6.3,0,172,726,4.2,5,labrandon-toefield-1,0
+2001,LSU,SEC,SO,RB,12,230,992,4.3,19,13,148,11.4,0,243,1140,4.7,19,labrandon-toefield-1,0
+2002,LSU,SEC,JR,RB,9,116,475,4.1,2,5,41,8.2,1,121,516,4.3,3,labrandon-toefield-1,1
+1999,LSU,SEC,,RB,11,64,274,4.3,3,13,94,7.2,0,77,368,4.8,3,domanick-davis-1,0
+2000,LSU,SEC,SO,RB,11,123,445,3.6,5,9,120,13.3,0,132,565,4.3,5,domanick-davis-1,0
+2001,LSU,SEC,JR,RB,12,75,406,5.4,5,3,49,16.3,1,78,455,5.8,6,domanick-davis-1,0
+2002,LSU,SEC,SR,RB,13,193,931,4.8,7,16,130,8.1,0,209,1061,5.1,7,domanick-davis-1,1
+2000,Washington,Pac-10,FR,RB,11,118,738,6.3,9,5,38,7.6,0,123,776,6.3,9,rich-alexis-1,0
+2001,Washington,Pac-10,SO,RB,11,125,391,3.1,5,12,109,9.1,0,137,500,3.6,5,rich-alexis-1,0
+2002,Washington,Pac-10,JR,RB,11,202,688,3.4,10,27,266,9.9,0,229,954,4.2,10,rich-alexis-1,1
+2003,Washington,Pac-10,SR,RB,8,138,566,4.1,4,15,163,10.9,0,153,729,4.8,4,rich-alexis-1,0
+2000,Oklahoma State,Big 12,FR,RB,9,49,251,5.1,1,5,42,8.4,0,54,293,5.4,1,tatum-bell-1,0
+2001,Oklahoma State,Big 12,SO,RB,10,197,776,3.9,6,18,97,5.4,0,215,873,4.1,6,tatum-bell-1,0
+2002,Oklahoma State,Big 12,JR,RB,11,175,1096,6.3,11,4,59,14.8,2,179,1155,6.5,13,tatum-bell-1,1
+2003,Oklahoma State,Big 12,SR,RB,11,213,1286,6.0,16,9,60,6.7,0,222,1346,6.1,16,tatum-bell-1,1
+2000,Florida,SEC,FR,RB,12,10,33,3.3,0,2,44,22.0,0,12,77,6.4,0,ran-carthon-1,0
+2001,Florida,SEC,SO,RB,11,36,162,4.5,0,13,145,11.2,0,49,307,6.3,0,ran-carthon-1,0
+2002,Florida,SEC,JR,RB,13,105,563,5.4,5,20,137,6.9,0,125,700,5.6,5,ran-carthon-1,1
+2003,Florida,SEC,SR,RB,12,119,595,5.0,6,21,185,8.8,1,140,780,5.6,7,ran-carthon-1,1
+1999,Arkansas,SEC,,RB,11,116,668,5.8,3,11,60,5.5,1,127,728,5.7,4,cedric-cobbs-1,0
+2000,Arkansas,SEC,SO,RB,3,70,291,4.2,4,2,26,13.0,0,72,317,4.4,4,cedric-cobbs-1,0
+2001,Arkansas,SEC,JR,RB,9,102,340,3.3,7,2,-2,-1.0,0,104,338,3.3,7,cedric-cobbs-1,0
+2002,Arkansas,SEC,JR,RB,11,74,399,5.4,2,3,20,6.7,0,77,419,5.4,2,cedric-cobbs-1,1
+2003,Arkansas,SEC,SR,RB,12,227,1320,5.8,10,8,34,4.3,0,235,1354,5.8,10,cedric-cobbs-1,1
+2000,Nebraska,Big 12,FR,RB,3,1,3,3.0,0,,,,,1,3,3.0,0,josh-davis-2,0
+2001,Nebraska,Big 12,SO,RB,12,8,61,7.6,1,,,,,8,61,7.6,1,josh-davis-2,0
+2002,Nebraska,Big 12,JR,RB,13,25,162,6.5,1,10,58,5.8,0,35,220,6.3,1,josh-davis-2,1
+2003,Nebraska,Big 12,SR,RB,13,138,600,4.3,2,4,21,5.3,0,142,621,4.4,2,josh-davis-2,1
+2003,California,Pac-10,,RB,13,238,1195,5.0,13,22,185,8.4,0,260,1380,5.3,13,adimchinobi-echemandu-1,1
+2000,Arizona,Pac-10,FR,RB,10,138,666,4.8,5,6,25,4.2,0,144,691,4.8,5,clarence-farmer-1,0
+2001,Arizona,Pac-10,SO,RB,11,209,1229,5.9,10,4,42,10.5,1,213,1271,6.0,11,clarence-farmer-1,0
+2002,Arizona,Pac-10,JR,RB,4,84,309,3.7,2,7,68,9.7,0,91,377,4.1,2,clarence-farmer-1,0
+2003,Arizona,Pac-10,SR,RB,8,90,326,3.6,2,9,73,8.1,1,99,399,4.0,3,clarence-farmer-1,0
+2001,Oregon State,Pac-10,FR,RB,11,74,390,5.3,5,5,45,9.0,1,79,435,5.5,6,steven-jackson-3,0
+2002,Oregon State,Pac-10,SO,RB,13,319,1690,5.3,15,17,165,9.7,2,336,1855,5.5,17,steven-jackson-3,1
+2003,Oregon State,Pac-10,JR,RB,13,350,1545,4.4,19,44,470,10.7,3,394,2015,5.1,22,steven-jackson-3,1
+2001,Virginia Tech,Big East,FR,RB,11,175,957,5.5,5,6,47,7.8,0,181,1004,5.5,5,kevin-jones-3,0
+2002,Virginia Tech,Big East,SO,RB,13,160,871,5.4,9,4,21,5.3,0,164,892,5.4,9,kevin-jones-3,1
+2003,Virginia Tech,Big East,JR,RB,13,281,1647,5.9,21,14,161,11.5,0,295,1808,6.1,21,kevin-jones-3,1
+1999,Notre Dame,Ind,,RB,12,75,375,5.0,3,3,90,30.0,0,78,465,6.0,3,julius-jones-1,0
+2000,Notre Dame,Ind,SO,RB,10,162,657,4.1,7,6,50,8.3,0,168,707,4.2,7,julius-jones-1,0
+2001,Notre Dame,Ind,JR,RB,11,168,718,4.3,6,9,57,6.3,1,177,775,4.4,7,julius-jones-1,0
+2003,Notre Dame,Ind,SR,RB,12,229,1268,5.5,10,10,53,5.3,0,239,1321,5.5,10,julius-jones-1,0
+2000,Florida State,ACC,FR,RB,10,41,266,6.5,2,2,16,8.0,0,43,282,6.6,2,greg-jones-1,0
+2001,Florida State,ACC,SO,RB,11,134,713,5.3,6,3,11,3.7,0,137,724,5.3,6,greg-jones-1,0
+2002,Florida State,ACC,JR,RB,10,161,938,5.8,8,10,74,7.4,0,171,1012,5.9,8,greg-jones-1,1
+2003,Florida State,ACC,SR,RB,13,144,618,4.3,7,9,52,5.8,0,153,670,4.4,7,greg-jones-1,1
+2000,Boston College,Big East,FR,RB,11,52,235,4.5,1,,,,,52,235,4.5,1,derrick-knight-1,0
+2001,Boston College,Big East,SO,RB,9,76,337,4.4,1,9,101,11.2,0,85,438,5.2,1,derrick-knight-1,0
+2002,Boston College,Big East,JR,RB,13,259,1432,5.5,12,37,372,10.1,2,296,1804,6.1,14,derrick-knight-1,1
+2003,Boston College,Big East,SR,RB,13,321,1721,5.4,11,26,227,8.7,0,347,1948,5.6,11,derrick-knight-1,1
+2000,Tulane,CUSA,FR,RB,10,174,890,5.1,2,33,350,10.6,1,207,1240,6.0,3,mewelde-moore-1,0
+2001,Tulane,CUSA,SO,RB,12,262,1421,5.4,8,65,756,11.6,7,327,2177,6.7,15,mewelde-moore-1,0
+2002,Tulane,CUSA,JR,RB,13,288,1138,4.0,6,52,545,10.5,3,340,1683,5.0,9,mewelde-moore-1,1
+2003,Tulane,CUSA,SR,RB,9,185,915,4.9,5,39,408,10.5,4,224,1323,5.9,9,mewelde-moore-1,0
+1999,Miami (FL),Big East,,RB,7,53,262,4.9,1,6,48,8.0,0,59,310,5.3,1,jarrett-payton-1,0
+2001,Miami (FL),Big East,SO,RB,8,14,26,1.9,2,3,19,6.3,0,17,45,2.6,2,jarrett-payton-1,0
+2002,Miami (FL),Big East,JR,RB,12,50,223,4.5,0,2,23,11.5,0,52,246,4.7,0,jarrett-payton-1,1
+2003,Miami (FL),Big East,SR,RB,13,182,985,5.4,7,17,136,8.0,1,199,1121,5.6,8,jarrett-payton-1,1
+2000,Michigan,Big Ten,FR,RB,9,77,417,5.4,5,,,,,77,417,5.4,5,chris-perry-1,0
+2001,Michigan,Big Ten,SO,RB,10,112,456,4.1,2,6,46,7.7,0,118,502,4.3,2,chris-perry-1,0
+2002,Michigan,Big Ten,JR,RB,13,267,1110,4.2,14,14,156,11.1,0,281,1266,4.5,14,chris-perry-1,1
+2003,Michigan,Big Ten,SR,RB,13,338,1674,5.0,18,44,367,8.3,2,382,2041,5.3,20,chris-perry-1,1
+2000,Iowa,Big Ten,FR,RB,12,,,,,,,,,0,0,,0,fred-russell-1,0
+2001,Iowa,Big Ten,SO,RB,9,21,141,6.7,1,1,28,28.0,0,22,169,7.7,1,fred-russell-1,1
+2002,Iowa,Big Ten,JR,RB,11,220,1264,5.7,9,1,11,11.0,0,221,1275,5.8,9,fred-russell-1,1
+2003,Iowa,Big Ten,SR,RB,13,282,1355,4.8,7,6,6,1.0,0,288,1361,4.7,7,fred-russell-1,1
+2000,Northern Illinois,MAC,FR,RB,11,200,983,4.9,7,4,45,11.3,0,204,1028,5.0,7,michael-turner-2,0
+2001,Northern Illinois,MAC,SO,RB,10,92,395,4.3,3,10,76,7.6,0,102,471,4.6,3,michael-turner-2,0
+2002,Northern Illinois,MAC,JR,RB,12,338,1915,5.7,19,10,100,10.0,0,348,2015,5.8,19,michael-turner-2,0
+2003,Northern Illinois,MAC,SR,RB,12,310,1648,5.3,14,19,230,12.1,3,329,1878,5.7,17,michael-turner-2,0
+1999,Texas Tech,Big 12,,RB,10,112,658,5.9,7,6,54,9.0,0,118,712,6.0,7,shaud-williams-1,0
+2000,Texas Tech,Big 12,SO,RB,12,55,223,4.1,2,48,299,6.2,0,103,522,5.1,2,shaud-williams-1,0
+2002,Alabama,SEC,JR,RB,13,130,921,7.1,5,21,228,10.9,0,151,1149,7.6,5,shaud-williams-1,0
+2003,Alabama,SEC,SR,RB,13,280,1367,4.9,14,24,161,6.7,1,304,1528,5.0,15,shaud-williams-1,0
+1999,West Virginia,Big East,,RB,10,27,146,5.4,1,1,8,8.0,0,28,154,5.5,1,quincy-wilson-1,0
+2001,West Virginia,Big East,SO,RB,9,25,181,7.2,1,1,8,8.0,0,26,189,7.3,1,quincy-wilson-1,0
+2002,West Virginia,Big East,JR,RB,13,140,901,6.4,6,8,36,4.5,0,148,937,6.3,6,quincy-wilson-1,1
+2003,West Virginia,Big East,SR,RB,12,282,1380,4.9,12,15,95,6.3,1,297,1475,5.0,13,quincy-wilson-1,1
+2000,Oklahoma,Big 12,FR,RB,11,89,393,4.4,5,15,103,6.9,1,104,496,4.8,6,renaldo-works-1,1
+2001,Oklahoma,Big 12,SO,RB,10,46,293,6.4,6,9,62,6.9,0,55,355,6.5,6,renaldo-works-1,0
+2002,Oklahoma,Big 12,JR,RB,13,34,152,4.5,2,5,98,19.6,1,39,250,6.4,3,renaldo-works-1,1
+2003,Oklahoma,Big 12,SR,RB,12,146,716,4.9,8,17,150,8.8,0,163,866,5.3,8,renaldo-works-1,1
+2000,Northwestern,Big Ten,FR,KR,10,,,,,2,12,6.0,0,2,12,6.0,0,jason-wright-1,1
+2001,Northwestern,Big Ten,SO,WR,11,3,3,1.0,0,7,48,6.9,1,10,51,5.1,1,jason-wright-1,0
+2002,Northwestern,Big Ten,JR,RB,12,219,1234,5.6,12,27,266,9.9,0,246,1500,6.1,12,jason-wright-1,0
+2003,Northwestern,Big Ten,SR,RB,13,267,1388,5.2,20,18,251,13.9,1,285,1639,5.8,21,jason-wright-1,1
+2003,California,Pac-10,JR,RB,13,107,607,5.7,5,21,178,8.5,3,128,785,6.1,8,jj-arrington-1,1
+2004,California,Pac-10,SR,RB,12,289,2018,7.0,15,21,121,5.8,0,310,2139,6.9,15,jj-arrington-1,1
+2001,Minnesota,Big Ten,FR,RB,11,118,742,6.3,7,2,19,9.5,0,120,761,6.3,7,marion-barber-iii-1,0
+2002,Minnesota,Big Ten,SO,RB,2,19,69,3.6,0,3,25,8.3,0,22,94,4.3,0,marion-barber-iii-1,1
+2003,Minnesota,Big Ten,SO,RB,13,207,1196,5.8,17,13,119,9.2,0,220,1315,6.0,17,marion-barber-iii-1,1
+2004,Minnesota,Big Ten,JR,RB,12,231,1269,5.5,11,3,27,9.0,0,234,1296,5.5,11,marion-barber-iii-1,1
+2001,Texas,Big 12,FR,RB,12,223,1053,4.7,12,17,203,11.9,1,240,1256,5.2,13,cedric-benson-1,0
+2002,Texas,Big 12,SO,RB,13,305,1293,4.2,12,21,119,5.7,0,326,1412,4.3,12,cedric-benson-1,1
+2003,Texas,Big 12,JR,RB,12,258,1360,5.3,21,9,120,13.3,1,267,1480,5.5,22,cedric-benson-1,1
+2004,Texas,Big 12,SR,RB,12,326,1834,5.6,19,22,179,8.1,1,348,2013,5.8,20,cedric-benson-1,1
+2001,Arkansas,SEC,,RB,11,24,87,3.6,1,6,47,7.8,0,30,134,4.5,1,decori-birmingham-1,0
+2002,Arkansas,SEC,SO,RB,14,10,59,5.9,0,17,184,10.8,3,27,243,9.0,3,decori-birmingham-1,1
+2003,Arkansas,SEC,JR,RB,13,88,549,6.2,3,17,186,10.9,2,105,735,7.0,5,decori-birmingham-1,1
+2004,Arkansas,SEC,SR,RB,11,111,456,4.1,3,17,175,10.3,1,128,631,4.9,4,decori-birmingham-1,0
+2000,Auburn,SEC,,RB,3,6,10,1.7,0,,,,,6,10,1.7,0,ronnie-brown-1,0
+2001,Auburn,SEC,FR,RB,10,84,330,3.9,2,7,109,15.6,0,91,439,4.8,2,ronnie-brown-1,0
+2002,Auburn,SEC,SO,RB,12,175,1008,5.8,13,9,166,18.4,1,184,1174,6.4,14,ronnie-brown-1,1
+2003,Auburn,SEC,JR,RB,11,95,446,4.7,5,8,80,10.0,0,103,526,5.1,5,ronnie-brown-1,1
+2004,Auburn,SEC,SR,RB,12,153,913,6.0,8,34,313,9.2,1,187,1226,6.6,9,ronnie-brown-1,1
+2003,Michigan State,Big Ten,JR,RB,12,38,172,4.5,0,8,79,9.9,0,46,251,5.5,0,deandra-cobb-1,1
+2004,Michigan State,Big Ten,SR,RB,12,96,728,7.6,4,7,10,1.4,0,103,738,7.2,4,deandra-cobb-1,0
+2001,Wisconsin,Big Ten,FR,RB,11,291,1466,5.0,11,,,,,291,1466,5.0,11,anthony-davis-3,0
+2002,Wisconsin,Big Ten,SO,RB,13,300,1555,5.2,13,6,48,8.0,0,306,1603,5.2,13,anthony-davis-3,1
+2003,Wisconsin,Big Ten,JR,RB,8,116,682,5.9,7,3,54,18.0,0,119,736,6.2,7,anthony-davis-3,1
+2004,Wisconsin,Big Ten,SR,RB,8,201,973,4.8,11,13,96,7.4,0,214,1069,5.0,11,anthony-davis-3,1
+2002,Florida,SEC,,RB,13,9,27,3.0,1,,,,,9,27,3.0,1,ciatrick-fason-1,1
+2003,Florida,SEC,SO,RB,13,84,583,6.9,3,11,142,12.9,3,95,725,7.6,6,ciatrick-fason-1,1
+2004,Florida,SEC,JR,RB,12,222,1267,5.7,10,35,266,7.6,2,257,1533,6.0,12,ciatrick-fason-1,1
+2001,Louisville,CUSA,FR,RB,3,30,87,2.9,1,1,1,1.0,0,31,88,2.8,1,lionel-gates-1,0
+2002,Louisville,CUSA,SO,RB,12,72,209,2.9,1,4,29,7.3,0,76,238,3.1,1,lionel-gates-1,1
+2003,Louisville,CUSA,JR,RB,13,141,817,5.8,11,25,368,14.7,0,166,1185,7.1,11,lionel-gates-1,1
+2004,Louisville,CUSA,SR,RB,9,76,373,4.9,7,10,71,7.1,2,86,444,5.2,9,lionel-gates-1,1
+2001,Miami (FL),Big East,FR,RB,11,62,562,9.1,5,1,14,14.0,0,63,576,9.1,5,frank-gore-1,0
+2003,Miami (FL),Big East,SO,RB,5,89,468,5.3,4,12,105,8.8,0,101,573,5.7,4,frank-gore-1,1
+2004,Miami (FL),ACC,JR,RB,12,197,945,4.8,8,10,106,10.6,0,207,1051,5.1,8,frank-gore-1,1
+2001,Notre Dame,Ind,FR,RB,5,29,110,3.8,1,2,7,3.5,0,31,117,3.8,1,ryan-grant-1,0
+2002,Notre Dame,Ind,SO,RB,13,261,1085,4.2,9,9,22,2.4,0,270,1107,4.1,9,ryan-grant-1,1
+2003,Notre Dame,Ind,JR,RB,12,143,510,3.6,3,9,64,7.1,0,152,574,3.8,3,ryan-grant-1,0
+2004,Notre Dame,Ind,SR,RB,9,127,515,4.1,5,6,51,8.5,0,133,566,4.3,5,ryan-grant-1,1
+2003,West Virginia,Big East,JR,RB,12,91,524,5.8,4,5,111,22.2,0,96,635,6.6,4,kay-jay-harris-1,1
+2004,West Virginia,Big East,SR,RB,11,165,959,5.8,10,20,181,9.1,3,185,1140,6.2,13,kay-jay-harris-1,1
+2001,UCF,Ind,FR,RB,9,140,690,4.9,9,14,143,10.2,0,154,833,5.4,9,alex-haynes-1,0
+2002,UCF,MAC,SO,RB,11,204,1038,5.1,8,24,132,5.5,1,228,1170,5.1,9,alex-haynes-1,0
+2003,UCF,MAC,JR,RB,12,183,774,4.2,5,32,264,8.3,0,215,1038,4.8,5,alex-haynes-1,0
+2004,UCF,MAC,SR,RB,9,215,854,4.0,5,18,123,6.8,0,233,977,4.2,5,alex-haynes-1,0
+2001,Northwestern,Big Ten,SO,KR,8,3,39,13.0,0,2,18,9.0,0,5,57,11.4,0,noah-herron-1,0
+2002,Northwestern,Big Ten,SO,RB,12,66,365,5.5,7,15,184,12.3,0,81,549,6.8,7,noah-herron-1,0
+2003,Northwestern,Big Ten,JR,RB,13,119,739,6.2,5,19,228,12.0,1,138,967,7.0,6,noah-herron-1,1
+2004,Northwestern,Big Ten,SR,RB,12,274,1381,5.0,14,36,351,9.8,1,310,1732,5.6,15,noah-herron-1,0
+2001,Tennessee,SEC,FR,RB,12,18,106,5.9,1,,,,,18,106,5.9,1,cedric-houston-1,0
+2002,Tennessee,SEC,SO,RB,12,153,779,5.1,6,9,55,6.1,0,162,834,5.1,6,cedric-houston-1,1
+2003,Tennessee,SEC,JR,RB,12,149,744,5.0,2,14,134,9.6,0,163,878,5.4,2,cedric-houston-1,1
+2004,Tennessee,SEC,SR,RB,13,181,1005,5.6,8,16,180,11.3,1,197,1185,6.0,9,cedric-houston-1,1
+2001,Alabama,SEC,FR,RB,11,37,205,5.5,1,1,26,26.0,0,38,231,6.1,1,ray-hudson-2,0
+2002,Alabama,SEC,SO,RB,13,49,306,6.2,1,3,50,16.7,1,52,356,6.8,2,ray-hudson-2,0
+2003,Alabama,SEC,JR,RB,12,100,490,4.9,1,15,179,11.9,1,115,669,5.8,2,ray-hudson-2,0
+2004,Alabama,SEC,SR,RB,6,92,638,6.9,4,11,78,7.1,1,103,716,7.0,5,ray-hudson-2,1
+2002,North Carolina State,ACC,FR,RB,13,245,1101,4.5,18,42,354,8.4,0,287,1455,5.1,18,ta-mclendon-1,1
+2003,North Carolina State,ACC,SO,RB,9,130,608,4.7,9,40,368,9.2,2,170,976,5.7,11,ta-mclendon-1,1
+2004,North Carolina State,ACC,JR,RB,10,167,770,4.6,6,11,136,12.4,1,178,906,5.1,7,ta-mclendon-1,0
+2002,Louisiana Tech,WAC,FR,RB,10,12,38,3.2,0,6,74,12.3,0,18,112,6.2,0,ryan-moats-1,0
+2003,Louisiana Tech,WAC,SO,RB,12,199,1300,6.5,10,27,251,9.3,1,226,1551,6.9,11,ryan-moats-1,0
+2004,Louisiana Tech,WAC,JR,RB,12,288,1774,6.2,18,15,116,7.7,1,303,1890,6.2,19,ryan-moats-1,0
+2002,Oklahoma State,Big 12,,RB,6,58,269,4.6,3,2,-2,-1.0,0,60,267,4.5,3,vernand-morency-1,1
+2003,Oklahoma State,Big 12,FR,RB,13,135,918,6.8,8,4,20,5.0,0,139,938,6.7,8,vernand-morency-1,1
+2004,Oklahoma State,Big 12,JR,RB,11,258,1474,5.7,12,5,101,20.2,1,263,1575,6.0,13,vernand-morency-1,1
+2001,Virginia,ACC,FR,RB,12,88,371,4.2,1,25,283,11.3,3,113,654,5.8,4,alvin-pearman-1,0
+2002,Virginia,ACC,SO,RB,9,83,343,4.1,4,21,193,9.2,0,104,536,5.2,4,alvin-pearman-1,1
+2003,Virginia,ACC,JR,RB,13,134,643,4.8,4,63,518,8.2,4,197,1161,5.9,8,alvin-pearman-1,1
+2004,Virginia,ACC,SR,RB,12,195,1037,5.3,10,29,402,13.9,1,224,1439,6.4,11,alvin-pearman-1,1
+2000,Colorado,Big 12,FR,RB,5,45,177,3.9,0,,,,,45,177,3.9,0,bobby-purify-1,0
+2001,Colorado,Big 12,SO,RB,12,157,916,5.8,5,11,92,8.4,0,168,1008,6.0,5,bobby-purify-1,0
+2002,Colorado,Big 12,JR,RB,13,132,739,5.6,3,21,224,10.7,1,153,963,6.3,4,bobby-purify-1,1
+2003,Colorado,Big 12,JR,RB,3,52,167,3.2,3,4,27,6.8,0,56,194,3.5,3,bobby-purify-1,0
+2004,Colorado,Big 12,SR,RB,13,231,1097,4.7,9,20,206,10.3,0,251,1303,5.2,9,bobby-purify-1,1
+2001,Syracuse,Big East,FR,RB,11,42,139,3.3,1,,,,,42,139,3.3,1,walter-reyes-1,0
+2002,Syracuse,Big East,SO,RB,12,182,1135,6.2,17,7,62,8.9,0,189,1197,6.3,17,walter-reyes-1,0
+2003,Syracuse,Big East,JR,RB,12,253,1347,5.3,20,38,375,9.9,1,291,1722,5.9,21,walter-reyes-1,0
+2004,Syracuse,Big East,SR,RB,9,148,803,5.4,7,14,113,8.1,0,162,916,5.7,7,walter-reyes-1,1
+2001,Florida State,ACC,FR,RB,11,29,130,4.5,0,,,,,29,130,4.5,0,eric-shelton-1,0
+2003,Louisville,CUSA,SO,RB,10,166,790,4.8,10,1,19,19.0,0,167,809,4.8,10,eric-shelton-1,1
+2004,Louisville,CUSA,JR,RB,12,146,938,6.4,20,6,35,5.8,0,152,973,6.4,20,eric-shelton-1,1
+2001,Kansas State,Big 12,,RB,6,28,210,7.5,1,,,,,28,210,7.5,1,darren-sproles-1,0
+2002,Kansas State,Big 12,SO,RB,13,237,1465,6.2,17,9,99,11.0,0,246,1564,6.4,17,darren-sproles-1,1
+2003,Kansas State,Big 12,JR,RB,15,306,1986,6.5,16,25,287,11.5,2,331,2273,6.9,18,darren-sproles-1,1
+2004,Kansas State,Big 12,SR,RB,11,244,1318,5.4,11,32,223,7.0,0,276,1541,5.6,11,darren-sproles-1,0
+2001,Auburn,SEC,FR,RB,9,120,614,5.1,6,13,140,10.8,0,133,754,5.7,6,carnell-williams-1,0
+2002,Auburn,SEC,SO,RB,7,141,745,5.3,10,6,30,5.0,0,147,775,5.3,10,carnell-williams-1,1
+2003,Auburn,SEC,JR,RB,13,241,1307,5.4,17,5,20,4.0,0,246,1327,5.4,17,carnell-williams-1,1
+2004,Auburn,SEC,SR,RB,13,239,1165,4.9,12,21,152,7.2,1,260,1317,5.1,13,carnell-williams-1,1
+2001,LSU,SEC,FR,RB,2,8,27,3.4,0,,,,,8,27,3.4,0,joseph-addai-1,0
+2002,LSU,SEC,FR,RB,12,80,438,5.5,4,6,81,13.5,0,86,519,6.0,4,joseph-addai-1,1
+2003,LSU,SEC,SO,RB,12,114,520,4.6,2,14,86,6.1,1,128,606,4.7,3,joseph-addai-1,1
+2004,LSU,SEC,JR,RB,12,101,680,6.7,3,26,294,11.3,4,127,974,7.7,7,joseph-addai-1,1
+2005,LSU,SEC,SR,RB,13,187,911,4.9,9,20,180,9.0,1,207,1091,5.3,10,joseph-addai-1,1
+2002,Arizona,Pac-10,FR,RB,12,106,341,3.2,1,13,136,10.5,1,119,477,4.0,2,mike-bell-1,0
+2003,Arizona,Pac-10,SO,RB,12,168,920,5.5,6,6,53,8.8,0,174,973,5.6,6,mike-bell-1,0
+2004,Arizona,Pac-10,JR,RB,11,205,941,4.6,5,19,79,4.2,0,224,1020,4.6,5,mike-bell-1,0
+2005,Arizona,Pac-10,SR,RB,11,200,952,4.8,5,18,197,10.9,0,218,1149,5.3,5,mike-bell-1,0
+2003,USC,Pac-10,FR,RB,13,90,521,5.8,3,15,314,20.9,4,105,835,8.0,7,reggie-bush-1,1
+2004,USC,Pac-10,SO,RB,13,143,908,6.3,6,43,509,11.8,7,186,1417,7.6,13,reggie-bush-1,1
+2005,USC,Pac-10,JR,RB,13,200,1740,8.7,16,37,478,12.9,2,237,2218,9.4,18,reggie-bush-1,1
+2002,Georgia Tech,ACC,FR,RB,12,72,255,3.5,2,5,57,11.4,0,77,312,4.1,2,pj-daniels-1,1
+2003,Georgia Tech,ACC,SO,RB,13,283,1447,5.1,10,19,88,4.6,1,302,1535,5.1,11,pj-daniels-1,1
+2004,Georgia Tech,ACC,JR,RB,8,154,714,4.6,8,11,50,4.5,1,165,764,4.6,9,pj-daniels-1,1
+2005,Georgia Tech,ACC,SR,RB,11,198,930,4.7,3,21,174,8.3,1,219,1104,5.0,4,pj-daniels-1,1
+2004,Utah,MWC,JR,RB,12,109,654,6.0,2,7,49,7.0,1,116,703,6.1,3,quinton-ganther-1,1
+2005,Utah,MWC,SR,RB,11,205,1120,5.5,7,25,314,12.6,1,230,1434,6.2,8,quinton-ganther-1,1
+2004,Houston,CUSA,JR,RB,10,84,332,4.0,3,16,178,11.1,2,100,510,5.1,5,ryan-gilbert-1,0
+2005,Houston,CUSA,SR,RB,12,170,1037,6.1,9,21,237,11.3,1,191,1274,6.7,10,ryan-gilbert-1,1
+2002,Virginia,ACC,FR,QB,14,31,102,3.3,2,1,4,4.0,0,32,106,3.3,2,marques-hagans-1,1
+2003,Virginia,ACC,SO,QB,13,16,96,6.0,2,28,262,9.4,0,44,358,8.1,2,marques-hagans-1,1
+2004,Virginia,ACC,JR,QB,12,77,394,5.1,4,,,,,77,394,5.1,4,marques-hagans-1,1
+2005,Virginia,ACC,SR,QB,12,115,310,2.7,3,1,7,7.0,0,116,317,2.7,3,marques-hagans-1,1
+2004,South Florida,CUSA,JR,RB,11,210,1357,6.5,11,18,149,8.3,1,228,1506,6.6,12,andre-hall-1,0
+2005,South Florida,Big East,SR,RB,12,270,1374,5.1,13,26,321,12.3,2,296,1695,5.7,15,andre-hall-1,1
+2004,Washington State,Pac-10,JR,RB,11,174,900,5.2,9,10,69,6.9,0,184,969,5.3,9,jerome-harrison-1,0
+2005,Washington State,Pac-10,SR,RB,11,308,1900,6.2,16,24,206,8.6,1,332,2106,6.3,17,jerome-harrison-1,0
+2002,Texas Tech,Big 12,FR,RB,14,153,793,5.2,7,98,633,6.5,6,251,1426,5.7,13,taurean-henderson-1,1
+2003,Texas Tech,Big 12,SO,RB,13,124,736,5.9,10,78,611,7.8,6,202,1347,6.7,16,taurean-henderson-1,1
+2004,Texas Tech,Big 12,JR,RB,12,162,840,5.2,16,60,286,4.8,2,222,1126,5.1,18,taurean-henderson-1,1
+2005,Texas Tech,Big 12,SR,RB,12,148,872,5.9,17,67,528,7.9,5,215,1400,6.5,22,taurean-henderson-1,1
+2002,Virginia Tech,Big East,FR,RB,12,16,68,4.3,0,7,76,10.9,0,23,144,6.3,0,cedric-humes-1,1
+2003,Virginia Tech,Big East,SO,RB,13,65,380,5.8,5,4,31,7.8,0,69,411,6.0,5,cedric-humes-1,1
+2004,Virginia Tech,ACC,JR,RB,13,130,605,4.7,5,8,46,5.8,0,138,651,4.7,5,cedric-humes-1,1
+2005,Virginia Tech,ACC,SR,RB,12,162,752,4.6,11,10,71,7.1,0,172,823,4.8,11,cedric-humes-1,1
+2003,UCLA,Pac-10,FR,RB,13,135,582,4.3,5,15,104,6.9,0,150,686,4.6,5,maurice-drew-1,1
+2004,UCLA,Pac-10,SO,RB,11,160,1007,6.3,8,18,262,14.6,3,178,1269,7.1,11,maurice-drew-1,1
+2005,UCLA,Pac-10,JR,RB,12,186,914,4.9,13,31,453,14.6,4,217,1367,6.3,17,maurice-drew-1,1
+2002,Virginia,ACC,FR,RB,14,196,826,4.2,6,58,435,7.5,4,254,1261,5.0,10,wali-lundy-1,1
+2003,Virginia,ACC,SO,RB,12,227,929,4.1,10,29,253,8.7,4,256,1182,4.6,14,wali-lundy-1,1
+2004,Virginia,ACC,JR,RB,12,175,864,4.9,17,12,145,12.1,0,187,1009,5.4,17,wali-lundy-1,1
+2005,Virginia,ACC,SR,RB,11,144,574,4.0,10,15,62,4.1,1,159,636,4.0,11,wali-lundy-1,1
+2003,Minnesota,Big Ten,FR,RB,13,162,1121,6.9,10,1,11,11.0,0,163,1132,6.9,10,laurence-maroney-1,1
+2004,Minnesota,Big Ten,SO,RB,12,217,1348,6.2,12,3,16,5.3,0,220,1364,6.2,12,laurence-maroney-1,1
+2005,Minnesota,Big Ten,JR,RB,11,281,1464,5.2,10,17,170,10.0,1,298,1634,5.5,11,laurence-maroney-1,1
+2002,UCLA,Pac-10,FR,RB,9,18,50,2.8,0,,,,,18,50,2.8,0,wendell-mathis-1,1
+2004,Fresno State,WAC,JR,RB,11,146,995,6.8,12,4,59,14.8,0,150,1054,7.0,12,wendell-mathis-1,1
+2005,Fresno State,WAC,SR,RB,13,248,1313,5.3,15,19,156,8.2,1,267,1469,5.5,16,wendell-mathis-1,1
+2002,New Mexico,MWC,FR,RB,12,231,1117,4.8,13,20,126,6.3,2,251,1243,5.0,15,dontrell-moore-1,0
+2003,New Mexico,MWC,SO,RB,13,276,1450,5.3,19,11,149,13.5,2,287,1599,5.6,21,dontrell-moore-1,1
+2004,New Mexico,MWC,JR,RB,11,232,1091,4.7,5,27,198,7.3,1,259,1289,5.0,6,dontrell-moore-1,1
+2005,New Mexico,MWC,SR,RB,11,275,1298,4.7,14,31,371,12.0,3,306,1669,5.5,17,dontrell-moore-1,0
+2002,Mississippi State,SEC,FR,RB,12,66,394,6.0,0,5,47,9.4,0,71,441,6.2,0,jerious-norwood-1,0
+2003,Mississippi State,SEC,SO,RB,12,121,642,5.3,2,8,6,0.8,0,129,648,5.0,2,jerious-norwood-1,0
+2004,Mississippi State,SEC,JR,RB,11,195,1050,5.4,7,11,37,3.4,0,206,1087,5.3,7,jerious-norwood-1,0
+2005,Mississippi State,SEC,SR,RB,11,191,1136,5.9,6,19,96,5.1,2,210,1232,5.9,8,jerious-norwood-1,0
+2002,Tennessee,SEC,,RB,9,17,49,2.9,0,2,12,6.0,0,19,61,3.2,0,gerald-riggs-2,1
+2003,Tennessee,SEC,,RB,8,46,207,4.5,1,,,,,46,207,4.5,1,gerald-riggs-2,1
+2004,Tennessee,SEC,,RB,13,193,1107,5.7,6,8,37,4.6,0,201,1144,5.7,6,gerald-riggs-2,1
+2005,Tennessee,SEC,,RB,6,127,530,4.2,3,10,74,7.4,0,137,604,4.4,3,gerald-riggs-2,0
+2002,Nebraska,Big 12,FR,RB,12,35,184,5.3,2,5,39,7.8,0,40,223,5.6,2,cory-ross-1,1
+2003,Nebraska,Big 12,SO,RB,13,130,575,4.4,4,2,36,18.0,0,132,611,4.6,4,cory-ross-1,1
+2004,Nebraska,Big 12,JR,RB,11,207,1102,5.3,6,21,262,12.5,2,228,1364,6.0,8,cory-ross-1,0
+2005,Nebraska,Big 12,SR,RB,12,225,882,3.9,5,43,392,9.1,3,268,1274,4.8,8,cory-ross-1,0
+2002,Florida State,ACC,,RB,14,60,273,4.6,1,6,34,5.7,0,66,307,4.7,1,leon-washington-1,1
+2003,Florida State,ACC,SO,RB,9,74,387,5.2,1,10,90,9.0,0,84,477,5.7,1,leon-washington-1,1
+2004,Florida State,ACC,JR,RB,10,138,951,6.9,7,14,90,6.4,0,152,1041,6.8,7,leon-washington-1,1
+2005,Florida State,ACC,SR,RB,11,97,430,4.4,3,25,267,10.7,1,122,697,5.7,4,leon-washington-1,1
+2003,USC,Pac-10,FR,RB,13,141,754,5.3,13,6,15,2.5,1,147,769,5.2,14,lendale-white-1,1
+2004,USC,Pac-10,SO,RB,13,203,1103,5.4,15,11,97,8.8,2,214,1200,5.6,17,lendale-white-1,1
+2005,USC,Pac-10,JR,RB,13,197,1302,6.6,24,14,219,15.6,2,211,1521,7.2,26,lendale-white-1,1
+2002,Oregon,Pac-10,FR,RB,11,63,272,4.3,2,10,91,9.1,1,73,363,5.0,3,terrence-whitehead-1,1
+2003,Oregon,Pac-10,SO,RB,12,192,737,3.8,6,28,253,9.0,1,220,990,4.5,7,terrence-whitehead-1,1
+2004,Oregon,Pac-10,JR,RB,11,200,1144,5.7,6,44,405,9.2,2,244,1549,6.3,8,terrence-whitehead-1,0
+2005,Oregon,Pac-10,SR,RB,11,156,679,4.4,4,52,490,9.4,4,208,1169,5.6,8,terrence-whitehead-1,1
+2002,Memphis,CUSA,FR,RB,10,103,684,6.6,5,5,51,10.2,0,108,735,6.8,5,deangelo-williams-1,0
+2003,Memphis,CUSA,SO,RB,11,243,1430,5.9,10,35,384,11.0,3,278,1814,6.5,13,deangelo-williams-1,1
+2004,Memphis,CUSA,JR,RB,12,313,1948,6.2,22,18,210,11.7,1,331,2158,6.5,23,deangelo-williams-1,1
+2005,Memphis,CUSA,SR,RB,11,310,1964,6.3,18,12,78,6.5,1,322,2042,6.3,19,deangelo-williams-1,1
+2003,Florida State,ACC,FR,RB,10,62,334,5.4,3,19,86,4.5,0,81,420,5.2,3,lorenzo-booker-1,1
+2004,Florida State,ACC,SO,RB,12,173,887,5.1,4,24,160,6.7,0,197,1047,5.3,4,lorenzo-booker-1,1
+2005,Florida State,ACC,JR,RB,13,119,552,4.6,4,38,329,8.7,2,157,881,5.6,6,lorenzo-booker-1,1
+2006,Florida State,ACC,SR,RB,13,143,616,4.3,4,33,420,12.7,0,176,1036,5.9,4,lorenzo-booker-1,1
+2004,Marshall,MAC,FR,RB,10,95,462,4.9,3,14,187,13.4,2,109,649,6.0,5,ahmad-bradshaw-1,1
+2005,Marshall,CUSA,SO,RB,11,214,997,4.7,9,56,381,6.8,1,270,1378,5.1,10,ahmad-bradshaw-1,0
+2006,Marshall,CUSA,JR,RB,12,249,1523,6.1,19,17,129,7.6,2,266,1652,6.2,21,ahmad-bradshaw-1,0
+2003,Louisville,CUSA,FR,RB,13,81,503,6.2,6,17,240,14.1,1,98,743,7.6,7,michael-bush-1,1
+2004,Louisville,CUSA,SO,RB,12,132,734,5.6,7,11,155,14.1,0,143,889,6.2,7,michael-bush-1,1
+2005,Louisville,Big East,JR,RB,10,205,1143,5.6,23,21,253,12.0,1,226,1396,6.2,24,michael-bush-1,1
+2006,Louisville,Big East,SR,RB,1,17,128,7.5,3,1,3,3.0,0,18,131,7.3,3,michael-bush-1,1
+2002,Florida State,ACC,,RB,4,13,45,3.5,0,1,7,7.0,0,14,52,3.7,0,thomas-clayton-1,1
+2004,Kansas State,Big 12,,RB,10,15,71,4.7,0,,,,,15,71,4.7,0,thomas-clayton-1,0
+2005,Kansas State,Big 12,JR,RB,9,137,637,4.6,4,12,73,6.1,1,149,710,4.8,5,thomas-clayton-1,0
+2006,Kansas State,Big 12,SR,RB,6,67,322,4.8,3,9,45,5.0,0,76,367,4.8,3,thomas-clayton-1,1
+2002,Kansas,Big 12,FR,RB,1,,,,,,,,,0,0,,0,jon-cornish-1,0
+2003,Kansas,Big 12,SO,RB,13,1,3,3.0,0,,,,,1,3,3.0,0,jon-cornish-1,1
+2004,Kansas,Big 12,SO,RB,10,2,5,2.5,0,1,12,12.0,0,3,17,5.7,0,jon-cornish-1,0
+2005,Kansas,Big 12,JR,RB,12,134,780,5.8,9,15,138,9.2,2,149,918,6.2,11,jon-cornish-1,1
+2006,Kansas,Big 12,SR,RB,12,250,1457,5.8,8,24,194,8.1,1,274,1651,6.0,9,jon-cornish-1,0
+2003,Alabama,SEC,,RB,10,34,185,5.4,0,3,4,1.3,0,37,189,5.1,0,kenneth-darby-1,0
+2004,Alabama,SEC,,RB,12,219,1062,4.8,8,15,74,4.9,1,234,1136,4.9,9,kenneth-darby-1,1
+2005,Alabama,SEC,,RB,12,239,1242,5.2,3,29,132,4.6,0,268,1374,5.1,3,kenneth-darby-1,1
+2006,Alabama,SEC,,RB,13,210,835,4.0,0,23,130,5.7,1,233,965,4.1,1,kenneth-darby-1,1
+2003,Arizona,Pac-10,FR,RB,2,14,33,2.4,0,1,14,14.0,0,15,47,3.1,0,chris-henry-1,0
+2004,Arizona,Pac-10,FR,RB,11,56,159,2.8,2,2,-3,-1.5,0,58,156,2.7,2,chris-henry-1,0
+2005,Arizona,Pac-10,SO,RB,11,34,119,3.5,0,2,-3,-1.5,0,36,116,3.2,0,chris-henry-1,0
+2006,Arizona,Pac-10,JR,RB,11,165,581,3.5,7,21,197,9.4,1,186,778,4.2,8,chris-henry-1,0
+2003,Penn State,Big Ten,FR,RB,9,34,110,3.2,1,2,0,0.0,0,36,110,3.1,1,tony-hunt-1,0
+2004,Penn State,Big Ten,SO,RB,11,169,777,4.6,7,39,334,8.6,0,208,1111,5.3,7,tony-hunt-1,0
+2005,Penn State,Big Ten,JR,RB,12,174,1047,6.0,6,20,206,10.3,0,194,1253,6.5,6,tony-hunt-1,1
+2006,Penn State,Big Ten,SR,RB,13,277,1386,5.0,11,27,259,9.6,3,304,1645,5.4,14,tony-hunt-1,1
+2002,Hawaii,WAC,FR,WR,12,6,56,9.3,1,46,532,11.6,3,52,588,11.3,4,nate-ilaoa-1,1
+2003,Hawaii,WAC,SO,WR,1,,,,,2,51,25.5,0,2,51,25.5,0,nate-ilaoa-1,1
+2005,Hawaii,WAC,SR,RB,12,85,643,7.6,6,36,274,7.6,1,121,917,7.6,7,nate-ilaoa-1,0
+2006,Hawaii,WAC,SR,RB,13,131,990,7.6,13,67,837,12.5,5,198,1827,9.2,18,nate-ilaoa-1,1
+2002,South Carolina,SEC,FR,RB,9,47,201,4.3,0,4,63,15.8,1,51,264,5.2,1,kenny-irons-1,0
+2003,South Carolina,SEC,SO,RB,5,19,51,2.7,1,2,8,4.0,0,21,59,2.8,1,kenny-irons-1,0
+2005,Auburn,SEC,JR,RB,12,256,1293,5.1,13,14,164,11.7,0,270,1457,5.4,13,kenny-irons-1,1
+2006,Auburn,SEC,SR,RB,11,198,893,4.5,4,10,78,7.8,0,208,971,4.7,4,kenny-irons-1,1
+2004,Nebraska,Big 12,FR,RB,10,85,390,4.6,6,,,,,85,390,4.6,6,brandon-jackson-2,0
+2005,Nebraska,Big 12,SO,RB,9,18,52,2.9,0,1,5,5.0,0,19,57,3.0,0,brandon-jackson-2,0
+2006,Nebraska,Big 12,JR,RB,14,188,989,5.3,8,33,313,9.5,2,221,1302,5.9,10,brandon-jackson-2,1
+2003,Rutgers,Big East,SO,RB,12,213,880,4.1,9,53,488,9.2,5,266,1368,5.1,14,brian-leonard-1,0
+2004,Rutgers,Big East,JR,RB,10,199,732,3.7,7,61,518,8.5,2,260,1250,4.8,9,brian-leonard-1,0
+2005,Rutgers,Big East,JR,RB,12,173,740,4.3,11,55,568,10.3,6,228,1308,5.7,17,brian-leonard-1,1
+2006,Rutgers,Big East,SR,RB,13,93,423,4.5,5,38,294,7.7,0,131,717,5.5,5,brian-leonard-1,1
+2004,California,Pac-10,FR,RB,12,71,628,8.8,8,19,147,7.7,2,90,775,8.6,10,marshawn-lynch-1,1
+2005,California,Pac-10,SO,RB,10,196,1246,6.4,10,15,125,8.3,0,211,1371,6.5,10,marshawn-lynch-1,1
+2006,California,Pac-10,JR,RB,13,223,1356,6.1,11,34,328,9.6,4,257,1684,6.6,15,marshawn-lynch-1,1
+2003,North Carolina,ACC,FR,RB,12,128,654,5.1,7,7,54,7.7,0,135,708,5.2,7,ronnie-mcgill-1,0
+2004,North Carolina,ACC,SO,RB,7,79,419,5.3,5,2,19,9.5,1,81,438,5.4,6,ronnie-mcgill-1,1
+2005,North Carolina,ACC,JR,RB,7,130,530,4.1,5,15,99,6.6,0,145,629,4.3,5,ronnie-mcgill-1,0
+2006,North Carolina,ACC,SR,RB,12,192,790,4.1,7,15,148,9.9,1,207,938,4.5,8,ronnie-mcgill-1,0
+2003,Miami (FL),Big East,FR,RB,11,107,511,4.8,5,1,-2,-2.0,0,108,509,4.7,5,tyrone-moss-1,1
+2004,Miami (FL),ACC,SO,RB,12,102,445,4.4,6,,,,,102,445,4.4,6,tyrone-moss-1,1
+2005,Miami (FL),ACC,JR,RB,8,137,701,5.1,12,1,17,17.0,0,138,718,5.2,12,tyrone-moss-1,1
+2006,Miami (FL),ACC,SR,RB,8,66,285,4.3,3,6,30,5.0,0,72,315,4.4,3,tyrone-moss-1,1
+2004,Oklahoma,Big 12,FR,RB,13,339,1925,5.7,15,5,12,2.4,0,344,1937,5.6,15,adrian-peterson-1,1
+2005,Oklahoma,Big 12,SO,RB,11,221,1104,5.0,14,9,50,5.6,0,230,1154,5.0,14,adrian-peterson-1,1
+2006,Oklahoma,Big 12,JR,RB,7,188,1012,5.4,12,10,136,13.6,1,198,1148,5.8,13,adrian-peterson-1,1
+2004,Ohio State,Big Ten,FR,RB,11,72,381,5.3,1,6,26,4.3,0,78,407,5.2,1,antonio-pittman-1,1
+2005,Ohio State,Big Ten,SO,RB,12,243,1331,5.5,7,17,161,9.5,0,260,1492,5.7,7,antonio-pittman-1,1
+2006,Ohio State,Big Ten,JR,RB,13,242,1233,5.1,14,14,127,9.1,0,256,1360,5.3,14,antonio-pittman-1,1
+2004,Minnesota,Big Ten,FR,RB,8,24,144,6.0,0,,,,,24,144,6.0,0,gary-russell-1,1
+2005,Minnesota,Big Ten,SO,RB,12,186,1130,6.1,18,16,168,10.5,1,202,1298,6.4,19,gary-russell-1,1
+2003,Louisville,CUSA,FR,RB,12,18,131,7.3,1,3,51,17.0,0,21,182,8.7,1,kolby-smith-1,1
+2004,Louisville,CUSA,SO,RB,11,37,347,9.4,4,11,117,10.6,1,48,464,9.7,5,kolby-smith-1,1
+2005,Louisville,Big East,JR,RB,10,107,523,4.9,6,18,196,10.9,1,125,719,5.8,7,kolby-smith-1,1
+2006,Louisville,Big East,SR,RB,13,154,862,5.6,7,24,217,9.0,0,178,1079,6.1,7,kolby-smith-1,1
+2004,Notre Dame,Ind,FR,RB,11,185,786,4.2,7,10,74,7.4,0,195,860,4.4,7,darius-walker-1,1
+2005,Notre Dame,Ind,SO,RB,12,253,1196,4.7,9,43,351,8.2,2,296,1547,5.2,11,darius-walker-1,1
+2006,Notre Dame,Ind,JR,RB,13,255,1267,5.0,7,56,391,7.0,1,311,1658,5.3,8,darius-walker-1,1
+2004,Northern Illinois,MAC,SO,RB,11,256,1656,6.5,18,10,117,11.7,3,266,1773,6.7,21,garrett-wolfe-1,1
+2005,Northern Illinois,MAC,JR,RB,9,242,1580,6.5,16,20,222,11.1,1,262,1802,6.9,17,garrett-wolfe-1,0
+2006,Northern Illinois,MAC,SR,RB,13,309,1928,6.2,18,28,249,8.9,1,337,2177,6.5,19,garrett-wolfe-1,1
+2003,Fresno State,WAC,JR,RB,14,190,1038,5.5,3,19,143,7.5,1,209,1181,5.7,4,dwayne-wright-1,1
+2004,Fresno State,WAC,JR,RB,4,50,183,3.7,2,3,65,21.7,0,53,248,4.7,2,dwayne-wright-1,1
+2006,Fresno State,WAC,JR,RB,12,261,1462,5.6,11,29,221,7.6,1,290,1683,5.8,12,dwayne-wright-1,0
+2003,Florida,SEC,FR,RB,13,115,540,4.7,7,12,82,6.8,1,127,622,4.9,8,deshawn-wynn-1,1
+2004,Florida,SEC,SO,RB,8,58,217,3.7,5,5,75,15.0,0,63,292,4.6,5,deshawn-wynn-1,1
+2005,Florida,SEC,JR,RB,11,130,621,4.8,7,12,161,13.4,2,142,782,5.5,9,deshawn-wynn-1,1
+2006,Florida,SEC,SR,RB,14,143,699,4.9,6,6,58,9.7,0,149,757,5.1,6,deshawn-wynn-1,1
+2002,Texas,Big 12,FR,RB,13,85,408,4.8,5,,,,,85,408,4.8,5,selvin-young-1,1
+2003,Texas,Big 12,SO,RB,11,35,151,4.3,3,6,29,4.8,0,41,180,4.4,3,selvin-young-1,1
+2004,Texas,Big 12,JR,RB,2,12,102,8.5,2,3,32,10.7,0,15,134,8.9,2,selvin-young-1,1
+2005,Texas,Big 12,JR,RB,11,96,461,4.8,8,5,21,4.2,0,101,482,4.8,8,selvin-young-1,1
+2006,Texas,Big 12,SR,RB,12,137,591,4.3,7,23,132,5.7,1,160,723,4.5,8,selvin-young-1,1
+2005,Houston,CUSA,SO,RB,12,9,39,4.3,0,13,295,22.7,3,22,334,15.2,3,anthony-alridge-1,1
+2006,Houston,CUSA,JR,RB,14,95,959,10.1,8,19,274,14.4,1,114,1233,10.8,9,anthony-alridge-1,1
+2007,Houston,CUSA,SR,RB,13,259,1597,6.2,14,42,428,10.2,5,301,2025,6.7,19,anthony-alridge-1,0
+2004,Oregon State,Pac-10,FR,RB,10,6,20,3.3,0,2,19,9.5,0,8,39,4.9,0,yvenson-bernard-1,1
+2005,Oregon State,Pac-10,SO,RB,11,299,1321,4.4,13,37,316,8.5,1,336,1637,4.9,14,yvenson-bernard-1,0
+2006,Oregon State,Pac-10,JR,RB,13,296,1307,4.4,12,43,276,6.4,1,339,1583,4.7,13,yvenson-bernard-1,1
+2007,Oregon State,Pac-10,SR,RB,11,275,1214,4.4,13,36,179,5.0,1,311,1393,4.5,14,yvenson-bernard-1,1
+2003,South Carolina,SEC,FR,RB,11,58,232,4.0,3,11,145,13.2,1,69,377,5.5,4,cory-boyd-1,0
+2004,South Carolina,SEC,SO,RB,11,62,309,5.0,3,35,347,9.9,1,97,656,6.8,4,cory-boyd-1,0
+2006,South Carolina,SEC,JR,RB,12,164,823,5.0,8,35,406,11.6,2,199,1229,6.2,10,cory-boyd-1,1
+2007,South Carolina,SEC,SR,RB,12,180,903,5.0,9,36,405,11.3,1,216,1308,6.1,10,cory-boyd-1,0
+2004,Georgia,SEC,FR,RB,11,172,875,5.1,8,16,150,9.4,0,188,1025,5.5,8,thomas-brown-1,1
+2005,Georgia,SEC,SO,RB,12,147,736,5.0,4,6,67,11.2,0,153,803,5.2,4,thomas-brown-1,1
+2006,Georgia,SEC,JR,RB,7,62,256,4.1,1,7,71,10.1,0,69,327,4.7,1,thomas-brown-1,1
+2007,Georgia,SEC,SR,RB,10,148,779,5.3,10,10,84,8.4,2,158,863,5.5,12,thomas-brown-1,1
+2005,Texas,Big 12,FR,RB,13,119,878,7.4,11,14,157,11.2,2,133,1035,7.8,13,jamaal-charles-1,1
+2006,Texas,Big 12,SO,RB,12,156,831,5.3,7,18,183,10.2,1,174,1014,5.8,8,jamaal-charles-1,1
+2007,Texas,Big 12,JR,RB,13,258,1619,6.3,18,17,199,11.7,0,275,1818,6.6,18,jamaal-charles-1,1
+2004,Oklahoma,Big 12,FR,RB,8,22,100,4.5,0,1,7,7.0,0,23,107,4.7,0,tashard-choice-1,1
+2005,Georgia Tech,ACC,JR,RB,12,117,513,4.4,6,14,76,5.4,0,131,589,4.5,6,tashard-choice-1,1
+2006,Georgia Tech,ACC,JR,RB,14,297,1473,5.0,12,12,98,8.2,0,309,1571,5.1,12,tashard-choice-1,1
+2007,Georgia Tech,ACC,SR,RB,12,261,1379,5.3,10,14,107,7.6,0,275,1486,5.4,10,tashard-choice-1,1
+2004,Louisiana-Monroe,Sun Belt,,RB,11,35,98,2.8,0,1,33,33.0,0,36,131,3.6,0,calvin-dawson-1,0
+2005,Louisiana-Monroe,Sun Belt,SO,RB,11,134,656,4.9,7,21,130,6.2,0,155,786,5.1,7,calvin-dawson-1,0
+2006,Louisiana-Monroe,Sun Belt,JR,RB,12,213,1210,5.7,11,21,155,7.4,0,234,1365,5.8,11,calvin-dawson-1,0
+2007,Louisiana-Monroe,Sun Belt,SR,RB,12,281,1414,5.0,12,29,262,9.0,0,310,1676,5.4,12,calvin-dawson-1,0
+2004,California,Pac-10,FR,RB,11,11,49,4.5,1,,,,,11,49,4.5,1,justin-forsett-1,1
+2005,California,Pac-10,SO,RB,12,132,999,7.6,6,7,68,9.7,0,139,1067,7.7,6,justin-forsett-1,1
+2006,California,Pac-10,JR,RB,13,119,626,5.3,4,12,116,9.7,1,131,742,5.7,5,justin-forsett-1,1
+2007,California,Pac-10,SR,RB,13,305,1546,5.1,15,22,202,9.2,0,327,1748,5.3,15,justin-forsett-1,1
+2004,Tulane,CUSA,FR,RB,11,140,624,4.5,4,20,180,9.0,2,160,804,5.0,6,matt-forte-1,0
+2005,Tulane,CUSA,SO,RB,11,169,655,3.9,4,23,163,7.1,1,192,818,4.3,5,matt-forte-1,0
+2006,Tulane,CUSA,JR,RB,9,163,859,5.3,8,28,360,12.9,2,191,1219,6.4,10,matt-forte-1,0
+2007,Tulane,CUSA,SR,RB,12,361,2127,5.9,23,32,282,8.8,0,393,2409,6.1,23,matt-forte-1,0
+2003,Indiana,Big Ten,FR,RB,12,225,938,4.2,7,15,168,11.2,1,240,1106,4.6,8,benjarvus-green-ellis-1,0
+2004,Indiana,Big Ten,SO,RB,11,231,794,3.4,5,14,80,5.7,0,245,874,3.6,5,benjarvus-green-ellis-1,0
+2006,Ole Miss,SEC,JR,RB,12,234,1000,4.3,7,8,43,5.4,0,242,1043,4.3,7,benjarvus-green-ellis-1,0
+2007,Ole Miss,SEC,SR,RB,12,230,1137,4.9,6,2,25,12.5,0,232,1162,5.0,6,benjarvus-green-ellis-1,0
+2004,Michigan,Big Ten,FR,RB,12,282,1455,5.2,9,26,237,9.1,1,308,1692,5.5,10,michael-hart-1,1
+2005,Michigan,Big Ten,SO,RB,8,150,662,4.4,4,16,154,9.6,1,166,816,4.9,5,michael-hart-1,1
+2006,Michigan,Big Ten,JR,RB,13,318,1562,4.9,14,17,125,7.4,0,335,1687,5.0,14,michael-hart-1,1
+2007,Michigan,Big Ten,SR,RB,10,265,1361,5.1,14,8,50,6.3,0,273,1411,5.2,14,michael-hart-1,1
+2004,East Carolina,CUSA,FR,RB,11,134,561,4.2,5,32,236,7.4,2,166,797,4.8,7,chris-johnson-1,0
+2005,East Carolina,CUSA,SO,RB,11,176,684,3.9,6,35,356,10.2,2,211,1040,4.9,8,chris-johnson-1,0
+2006,East Carolina,CUSA,JR,RB,12,78,314,4.0,4,21,176,8.4,0,99,490,4.9,4,chris-johnson-1,1
+2007,East Carolina,CUSA,SR,RB,13,236,1423,6.0,17,37,528,14.3,6,273,1951,7.1,23,chris-johnson-1,1
+2005,Arkansas,SEC,FR,RB,11,99,626,6.3,3,8,100,12.5,0,107,726,6.8,3,felix-jones-1,0
+2006,Arkansas,SEC,SO,RB,14,154,1168,7.6,6,15,107,7.1,3,169,1275,7.5,9,felix-jones-1,1
+2007,Arkansas,SEC,JR,RB,13,133,1162,8.7,11,16,176,11.0,0,149,1338,9.0,11,felix-jones-1,1
+2004,Kentucky,SEC,FR,RB,9,53,265,5.0,1,12,136,11.3,1,65,401,6.2,2,rafael-little-1,0
+2005,Kentucky,SEC,SO,RB,11,197,1045,5.3,9,46,449,9.8,0,243,1494,6.1,9,rafael-little-1,0
+2006,Kentucky,SEC,JR,RB,9,140,673,4.8,3,31,392,12.6,2,171,1065,6.2,5,rafael-little-1,1
+2007,Kentucky,SEC,SR,RB,10,190,1013,5.3,3,42,347,8.3,1,232,1360,5.9,4,rafael-little-1,1
+2003,Georgia,SEC,FR,RB,12,112,523,4.7,6,14,93,6.6,1,126,616,4.9,7,kregg-lumpkin-1,1
+2005,Georgia,SEC,SO,RB,13,66,335,5.1,3,5,12,2.4,0,71,347,4.9,3,kregg-lumpkin-1,1
+2006,Georgia,SEC,JR,RB,13,162,798,4.9,6,17,116,6.8,1,179,914,5.1,7,kregg-lumpkin-1,1
+2007,Georgia,SEC,SR,RB,6,12,44,3.7,0,2,13,6.5,0,14,57,4.1,0,kregg-lumpkin-1,1
+2005,Arkansas,SEC,FR,RB,11,176,1113,6.3,11,14,52,3.7,0,190,1165,6.1,11,darren-mcfadden-1,0
+2006,Arkansas,SEC,SO,RB,14,284,1647,5.8,14,11,149,13.5,1,295,1796,6.1,15,darren-mcfadden-1,1
+2007,Arkansas,SEC,JR,RB,13,325,1830,5.6,16,21,164,7.8,1,346,1994,5.8,17,darren-mcfadden-1,1
+2004,Ohio,MAC,FR,RB,11,142,559,3.9,4,13,172,13.2,2,155,731,4.7,6,kalvin-mcrae-1,0
+2005,Ohio,MAC,SO,RB,11,209,1153,5.5,7,13,97,7.5,0,222,1250,5.6,7,kalvin-mcrae-1,0
+2006,Ohio,MAC,JR,RB,14,258,1252,4.9,15,29,280,9.7,1,287,1532,5.3,16,kalvin-mcrae-1,1
+2007,Ohio,MAC,SR,RB,12,294,1434,4.9,19,29,275,9.5,1,323,1709,5.3,20,kalvin-mcrae-1,0
+2005,Illinois,Big Ten,FR,RB,10,48,218,4.5,0,13,82,6.3,2,61,300,4.9,2,rashard-mendenhall-1,0
+2006,Illinois,Big Ten,SO,RB,12,78,640,8.2,5,12,164,13.7,1,90,804,8.9,6,rashard-mendenhall-1,0
+2007,Illinois,Big Ten,JR,RB,13,262,1681,6.4,17,34,318,9.4,2,296,1999,6.8,19,rashard-mendenhall-1,1
+2004,Toledo,MAC,FR,RB,9,42,183,4.4,3,4,24,6.0,0,46,207,4.5,3,jalen-parmele-1,1
+2005,Toledo,MAC,SO,RB,11,64,294,4.6,3,4,41,10.3,0,68,335,4.9,3,jalen-parmele-1,1
+2006,Toledo,MAC,JR,RB,12,207,1131,5.5,8,16,128,8.0,0,223,1259,5.6,8,jalen-parmele-1,0
+2007,Toledo,MAC,SR,RB,12,276,1511,5.5,14,17,157,9.2,1,293,1668,5.7,15,jalen-parmele-1,0
+2005,Oklahoma,Big 12,FR,RB,11,25,136,5.4,2,4,8,2.0,0,29,144,5.0,2,allen-patrick-1,1
+2006,Oklahoma,Big 12,JR,RB,12,169,761,4.5,4,,,,,169,761,4.5,4,allen-patrick-1,1
+2007,Oklahoma,Big 12,SR,RB,13,173,1009,5.8,8,10,56,5.6,1,183,1065,5.8,9,allen-patrick-1,1
+2005,Rutgers,Big East,FR,RB,12,195,1120,5.7,5,8,65,8.1,0,203,1185,5.8,5,ray-rice-1,1
+2006,Rutgers,Big East,SO,RB,13,335,1794,5.4,20,4,30,7.5,0,339,1824,5.4,20,ray-rice-1,1
+2007,Rutgers,Big East,JR,RB,13,380,2012,5.3,24,25,239,9.6,1,405,2251,5.6,25,ray-rice-1,1
+2006,Oklahoma State,Big 12,JR,RB,11,126,820,6.5,8,8,48,6.0,0,134,868,6.5,8,dantrell-savage-1,1
+2007,Oklahoma State,Big 12,SR,RB,11,223,1272,5.7,9,27,259,9.6,2,250,1531,6.1,11,dantrell-savage-1,1
+2004,South Florida,CUSA,,RB,2,1,-3,-3.0,0,,,,,1,-3,-3.0,0,chad-simpson-1,0
+2005,South Florida,Big East,SO,RB,11,16,89,5.6,0,,,,,16,89,5.6,0,chad-simpson-1,1
+2005,West Virginia,Big East,FR,RB,10,205,1128,5.5,17,12,95,7.9,2,217,1223,5.6,19,steve-slaton-1,1
+2006,West Virginia,Big East,SO,RB,13,248,1744,7.0,16,27,360,13.3,2,275,2104,7.7,18,steve-slaton-1,1
+2007,West Virginia,Big East,JR,RB,13,211,1051,5.0,17,26,350,13.5,1,237,1401,5.9,18,steve-slaton-1,1
+2005,UCF,CUSA,FR,RB,13,249,1178,4.7,9,8,44,5.5,0,257,1222,4.8,9,kevin-smith-1,1
+2006,UCF,CUSA,SO,RB,9,206,934,4.5,7,23,158,6.9,0,229,1092,4.8,7,kevin-smith-1,0
+2007,UCF,CUSA,JR,RB,14,450,2567,5.7,29,24,242,10.1,1,474,2809,5.9,30,kevin-smith-1,1
+2005,Oregon,Pac-10,FR,RB,10,53,188,3.5,6,7,45,6.4,1,60,233,3.9,7,jonathan-stewart-1,1
+2006,Oregon,Pac-10,SO,RB,13,183,981,5.4,10,20,144,7.2,1,203,1125,5.5,11,jonathan-stewart-1,1
+2007,Oregon,Pac-10,JR,RB,13,280,1722,6.2,11,22,145,6.6,2,302,1867,6.2,13,jonathan-stewart-1,1
+2004,UTEP,WAC,FR,RB,10,37,145,3.9,0,3,7,2.3,0,40,152,3.8,0,marcus-thomas-2,1
+2005,UTEP,CUSA,SO,RB,11,149,791,5.3,5,32,440,13.8,3,181,1231,6.8,8,marcus-thomas-2,1
+2006,UTEP,CUSA,JR,RB,11,156,513,3.3,5,39,242,6.2,1,195,755,3.9,6,marcus-thomas-2,0
+2007,UTEP,CUSA,SR,RB,11,227,1166,5.1,16,20,268,13.4,2,247,1434,5.8,18,marcus-thomas-2,0
+2006,Arizona State,Pac-10,JR,RB,13,223,1229,5.5,7,18,205,11.4,3,241,1434,6.0,10,ryan-torain-1,1
+2007,Arizona State,Pac-10,SR,RB,6,110,553,5.0,5,7,100,14.3,2,117,653,5.6,7,ryan-torain-1,1
+2003,USC,Pac-10,FR,RB,7,19,65,3.4,0,1,6,6.0,0,20,71,3.6,0,chauncey-washington-1,1
+2006,USC,Pac-10,JR,RB,13,157,744,4.7,9,9,93,10.3,0,166,837,5.0,9,chauncey-washington-1,1
+2007,USC,Pac-10,SR,RB,12,195,969,5.0,10,7,59,8.4,2,202,1028,5.1,12,chauncey-washington-1,1
+2005,UCLA,Pac-10,FR,RB,12,52,310,6.0,3,,,,,52,310,6.0,3,kahlil-bell-1,1
+2006,UCLA,Pac-10,SO,RB,7,60,239,4.0,2,6,38,6.3,0,66,277,4.2,2,kahlil-bell-1,1
+2007,UCLA,Pac-10,JR,RB,8,142,795,5.6,5,13,93,7.2,0,155,888,5.7,5,kahlil-bell-1,1
+2008,UCLA,Pac-10,SR,RB,10,141,397,2.8,7,10,65,6.5,1,151,462,3.1,8,kahlil-bell-1,0
+2006,Connecticut,Big East,FR,RB,12,161,896,5.6,7,13,66,5.1,2,174,962,5.5,9,donald-brown-1,0
+2007,Connecticut,Big East,SO,RB,12,170,821,4.8,8,14,85,6.1,0,184,906,4.9,8,donald-brown-1,1
+2008,Connecticut,Big East,JR,RB,13,367,2083,5.7,18,21,125,6.0,0,388,2208,5.7,18,donald-brown-1,1
+2005,North Carolina State,ACC,FR,RB,11,129,667,5.2,6,7,76,10.9,0,136,743,5.5,6,andre-brown-1,1
+2006,North Carolina State,ACC,SO,RB,12,124,658,5.3,4,9,52,5.8,0,133,710,5.3,4,andre-brown-1,0
+2007,North Carolina State,ACC,JR,RB,8,95,447,4.7,5,25,194,7.8,0,120,641,5.3,5,andre-brown-1,0
+2008,North Carolina State,ACC,SR,RB,13,175,767,4.4,7,29,309,10.7,2,204,1076,5.3,9,andre-brown-1,1
+2005,Alabama,SEC,,RB,12,48,179,3.7,0,8,91,11.4,1,56,270,4.8,1,glen-coffee-1,1
+2007,Alabama,SEC,SO,RB,9,129,545,4.2,4,18,142,7.9,0,147,687,4.7,4,glen-coffee-1,1
+2008,Alabama,SEC,JR,RB,14,233,1383,5.9,10,16,118,7.4,1,249,1501,6.0,11,glen-coffee-1,1
+2005,Clemson,ACC,FR,RB,11,165,879,5.3,9,19,152,8.0,0,184,1031,5.6,9,james-davis-1,1
+2006,Clemson,ACC,SO,RB,13,203,1187,5.8,17,6,115,19.2,0,209,1302,6.2,17,james-davis-1,1
+2007,Clemson,ACC,JR,RB,13,214,1064,5.0,10,12,51,4.3,2,226,1115,4.9,12,james-davis-1,1
+2008,Clemson,ACC,SR,RB,13,171,751,4.4,11,14,123,8.8,0,185,874,4.7,11,james-davis-1,1
+2005,Tennessee,SEC,FR,RB,11,183,879,4.8,5,14,148,10.6,0,197,1027,5.2,5,arian-foster-1,0
+2006,Tennessee,SEC,SO,RB,11,91,322,3.5,5,11,88,8.0,0,102,410,4.0,5,arian-foster-1,1
+2007,Tennessee,SEC,JR,RB,14,245,1193,4.9,12,39,340,8.7,2,284,1533,5.4,14,arian-foster-1,1
+2008,Tennessee,SEC,SR,RB,11,131,570,4.4,1,19,166,8.7,0,150,736,4.9,1,arian-foster-1,0
+2006,Texas A&M,Big 12,FR,RB,13,127,847,6.7,4,17,113,6.6,0,144,960,6.7,4,mike-goodson-1,1
+2007,Texas A&M,Big 12,SO,RB,13,153,711,4.6,4,36,361,10.0,4,189,1072,5.7,8,mike-goodson-1,1
+2008,Texas A&M,Big 12,JR,RB,10,94,406,4.3,5,37,386,10.4,3,131,792,6.0,8,mike-goodson-1,0
+2005,Iowa,Big Ten,FR,RB,11,37,173,4.7,1,,,,,37,173,4.7,1,shonn-greene-1,1
+2006,Iowa,Big Ten,SO,RB,10,32,205,6.4,1,3,23,7.7,0,35,228,6.5,1,shonn-greene-1,1
+2008,Iowa,Big Ten,JR,RB,13,307,1850,6.0,20,8,49,6.1,0,315,1899,6.0,20,shonn-greene-1,1
+2006,Wisconsin,Big Ten,FR,RB,13,311,1569,5.0,15,18,197,10.9,1,329,1766,5.4,16,pj-hill-1,1
+2007,Wisconsin,Big Ten,SO,RB,11,233,1212,5.2,14,14,89,6.4,1,247,1301,5.3,15,pj-hill-1,1
+2008,Wisconsin,Big Ten,JR,RB,13,226,1161,5.1,13,7,72,10.3,0,233,1233,5.3,13,pj-hill-1,1
+2005,Oregon,Pac-10,FR,RB,8,24,147,6.1,2,4,30,7.5,0,28,177,6.3,2,jeremiah-johnson-1,1
+2006,Oregon,Pac-10,SO,RB,13,103,644,6.3,10,17,100,5.9,0,120,744,6.2,10,jeremiah-johnson-1,1
+2007,Oregon,Pac-10,JR,RB,6,54,344,6.4,5,7,98,14.0,1,61,442,7.2,6,jeremiah-johnson-1,1
+2008,Oregon,Pac-10,SR,RB,13,168,1201,7.1,13,8,75,9.4,0,176,1276,7.3,13,jeremiah-johnson-1,1
+2005,Boise State,WAC,FR,RB,13,119,663,5.6,4,5,46,9.2,0,124,709,5.7,4,ian-johnson-1,1
+2006,Boise State,WAC,SO,RB,12,277,1713,6.2,25,8,55,6.9,0,285,1768,6.2,25,ian-johnson-1,1
+2007,Boise State,WAC,JR,RB,11,207,1041,5.0,16,25,312,12.5,1,232,1353,5.8,17,ian-johnson-1,1
+2008,Boise State,WAC,SR,RB,13,150,766,5.1,13,22,229,10.4,0,172,995,5.8,13,ian-johnson-1,1
+2004,Colorado State,MWC,,RB,2,2,12,6.0,0,1,-2,-2.0,0,3,10,3.3,0,gartrell-johnson-1,0
+2005,Colorado State,MWC,,RB,3,11,26,2.4,0,,,,,11,26,2.4,0,gartrell-johnson-1,1
+2007,Colorado State,MWC,,RB,12,181,957,5.3,6,12,103,8.6,2,193,1060,5.5,8,gartrell-johnson-1,0
+2008,Colorado State,MWC,,RB,13,278,1476,5.3,12,32,295,9.2,0,310,1771,5.7,12,gartrell-johnson-1,1
+2005,Stanford,Pac-10,SO,RB,9,66,244,3.7,2,14,145,10.4,2,80,389,4.9,4,anthony-kimble-1,0
+2006,Stanford,Pac-10,JR,RB,11,114,470,4.1,2,19,156,8.2,0,133,626,4.7,2,anthony-kimble-1,0
+2007,Stanford,Pac-10,JR,RB,7,115,509,4.4,8,12,64,5.3,0,127,573,4.5,8,anthony-kimble-1,0
+2008,Stanford,Pac-10,SR,RB,12,120,717,6.0,6,15,120,8.0,1,135,837,6.2,7,anthony-kimble-1,0
+2005,Nebraska,Big 12,FR,RB,12,43,129,3.0,0,2,3,1.5,0,45,132,2.9,0,marlon-lucky-1,0
+2006,Nebraska,Big 12,SO,RB,14,141,728,5.2,6,32,383,12.0,0,173,1111,6.4,6,marlon-lucky-1,1
+2007,Nebraska,Big 12,JR,RB,12,206,1019,4.9,9,75,705,9.4,3,281,1724,6.1,12,marlon-lucky-1,0
+2008,Nebraska,Big 12,SR,RB,12,125,517,4.1,7,26,288,11.1,1,151,805,5.3,8,marlon-lucky-1,1
+2007,Pitt,Big East,FR,RB,12,276,1328,4.8,14,33,244,7.4,1,309,1572,5.1,15,lesean-mccoy-1,0
+2008,Pitt,Big East,SO,RB,13,308,1488,4.8,21,32,305,9.5,0,340,1793,5.3,21,lesean-mccoy-1,1
+2007,Georgia,SEC,FR,RB,13,248,1334,5.4,14,20,253,12.7,0,268,1587,5.9,14,knowshon-moreno-1,1
+2008,Georgia,SEC,SO,RB,13,250,1400,5.6,16,33,392,11.9,2,283,1792,6.3,18,knowshon-moreno-1,1
+2005,Texas,Big 12,FR,RB,8,22,76,3.5,1,1,3,3.0,0,23,79,3.4,1,chris-ogbonnaya-1,1
+2006,Texas,Big 12,SO,RB,13,18,82,4.6,1,7,45,6.4,0,25,127,5.1,1,chris-ogbonnaya-1,1
+2007,Texas,Big 12,JR,RB,13,26,66,2.5,2,21,204,9.7,0,47,270,5.7,2,chris-ogbonnaya-1,1
+2008,Texas,Big 12,SR,RB,13,74,373,5.0,4,46,540,11.7,3,120,913,7.6,7,chris-ogbonnaya-1,1
+2005,Virginia,ACC,FR,RB,12,70,237,3.4,3,3,14,4.7,1,73,251,3.4,4,cedric-peerman-1,1
+2006,Virginia,ACC,SO,RB,12,46,153,3.3,0,7,38,5.4,0,53,191,3.6,0,cedric-peerman-1,0
+2007,Virginia,ACC,JR,RB,6,113,585,5.2,5,12,99,8.3,0,125,684,5.5,5,cedric-peerman-1,1
+2008,Virginia,ACC,SR,RB,11,153,774,5.1,7,44,193,4.4,0,197,967,4.9,7,cedric-peerman-1,0
+2005,Michigan State,Big Ten,FR,RB,11,122,817,6.7,5,19,138,7.3,0,141,955,6.8,5,javon-ringer-1,0
+2006,Michigan State,Big Ten,SO,RB,8,86,497,5.8,1,14,96,6.9,1,100,593,5.9,2,javon-ringer-1,0
+2007,Michigan State,Big Ten,JR,RB,13,245,1447,5.9,6,35,295,8.4,0,280,1742,6.2,6,javon-ringer-1,1
+2008,Michigan State,Big Ten,SR,RB,13,390,1637,4.2,22,28,190,6.8,0,418,1827,4.4,22,javon-ringer-1,1
+2005,Purdue,Big Ten,FR,RB,11,104,571,5.5,10,13,132,10.2,0,117,703,6.0,10,kory-sheets-1,0
+2006,Purdue,Big Ten,SO,RB,14,158,780,4.9,11,28,213,7.6,2,186,993,5.3,13,kory-sheets-1,1
+2007,Purdue,Big Ten,JR,RB,13,168,859,5.1,11,30,216,7.2,2,198,1075,5.4,13,kory-sheets-1,1
+2008,Purdue,Big Ten,SR,RB,12,234,1131,4.8,16,37,253,6.8,1,271,1384,5.1,17,kory-sheets-1,0
+2005,Northwestern,Big Ten,FR,RB,12,250,1474,5.9,16,44,396,9.0,2,294,1870,6.4,18,tyrell-sutton-1,1
+2006,Northwestern,Big Ten,SO,RB,12,189,1000,5.3,5,40,261,6.5,2,229,1261,5.5,7,tyrell-sutton-1,0
+2007,Northwestern,Big Ten,JR,RB,7,108,522,4.8,4,30,282,9.4,0,138,804,5.8,4,tyrell-sutton-1,0
+2008,Northwestern,Big Ten,SR,RB,9,184,890,4.8,6,35,305,8.7,2,219,1195,5.5,8,tyrell-sutton-1,1
+2006,Ohio State,Big Ten,FR,RB,13,104,576,5.5,7,2,16,8.0,0,106,592,5.6,7,chris-wells-1,1
+2007,Ohio State,Big Ten,SO,RB,13,274,1609,5.9,15,5,21,4.2,0,279,1630,5.8,15,chris-wells-1,1
+2008,Ohio State,Big Ten,JR,RB,10,207,1197,5.8,8,8,47,5.9,0,215,1244,5.8,8,chris-wells-1,1
+2007,California,Pac-10,FR,RB,10,29,221,7.6,2,13,74,5.7,1,42,295,7.0,3,jahvid-best-1,1
+2008,California,Pac-10,SO,RB,12,194,1580,8.1,15,27,246,9.1,1,221,1826,8.3,16,jahvid-best-1,1
+2009,California,Pac-10,JR,RB,9,141,867,6.1,12,22,213,9.7,4,163,1080,6.6,16,jahvid-best-1,1
+2008,Oregon,Pac-10,JR,RB,13,137,1002,7.3,17,2,2,1.0,0,139,1004,7.2,17,legarrette-blount-1,1
+2009,Oregon,Pac-10,SR,RB,3,22,82,3.7,2,2,13,6.5,0,24,95,4.0,2,legarrette-blount-1,1
+2006,Oklahoma,Big 12,FR,RB,5,70,343,4.9,6,,,,,70,343,4.9,6,chris-brown-4,1
+2007,Oklahoma,Big 12,SO,RB,13,158,611,3.9,9,10,83,8.3,1,168,694,4.1,10,chris-brown-4,1
+2008,Oklahoma,Big 12,JR,RB,14,217,1220,5.6,20,15,109,7.3,1,232,1329,5.7,21,chris-brown-4,1
+2009,Oklahoma,Big 12,SR,RB,13,182,749,4.1,7,19,131,6.9,1,201,880,4.4,8,chris-brown-4,1
+2006,Mississippi State,SEC,FR,RB,12,169,668,4.0,9,4,42,10.5,0,173,710,4.1,9,anthony-dixon-1,0
+2007,Mississippi State,SEC,SO,RB,13,287,1066,3.7,14,14,167,11.9,2,301,1233,4.1,16,anthony-dixon-1,1
+2008,Mississippi State,SEC,JR,RB,12,197,869,4.4,7,20,117,5.9,2,217,986,4.5,9,anthony-dixon-1,0
+2009,Mississippi State,SEC,SR,RB,11,257,1391,5.4,12,18,123,6.8,0,275,1514,5.5,12,anthony-dixon-1,0
+2006,Connecticut,Big East,FR,RB,4,,,,,,,,,0,0,,0,andre-dixon-1,0
+2007,Connecticut,Big East,SO,RB,11,167,828,5.0,3,24,280,11.7,1,191,1108,5.8,4,andre-dixon-1,1
+2008,Connecticut,Big East,JR,RB,10,9,37,4.1,0,2,8,4.0,0,11,45,4.1,0,andre-dixon-1,1
+2009,Connecticut,Big East,SR,RB,13,239,1093,4.6,14,11,112,10.2,1,250,1205,4.8,15,andre-dixon-1,1
+2007,Georgia Tech,ACC,FR,RB,13,82,436,5.3,9,2,17,8.5,0,84,453,5.4,9,jonathan-dwyer-1,1
+2008,Georgia Tech,ACC,SO,RB,13,200,1395,7.0,12,8,209,26.1,1,208,1604,7.7,13,jonathan-dwyer-1,1
+2009,Georgia Tech,ACC,JR,RB,14,235,1395,5.9,14,5,37,7.4,0,240,1432,6.0,14,jonathan-dwyer-1,1
+2006,Stanford,Pac-10,FR,RB,12,106,375,3.5,0,15,124,8.3,0,121,499,4.1,0,toby-gerhart-1,0
+2007,Stanford,Pac-10,SO,RB,1,12,140,11.7,1,,,,,12,140,11.7,1,toby-gerhart-1,0
+2008,Stanford,Pac-10,JR,RB,12,210,1136,5.4,15,13,114,8.8,0,223,1250,5.6,15,toby-gerhart-1,0
+2009,Stanford,Pac-10,SR,RB,13,343,1871,5.5,28,11,157,14.3,0,354,2028,5.7,28,toby-gerhart-1,1
+2005,Tennessee,SEC,FR,RB,2,6,18,3.0,0,,,,,6,18,3.0,0,montario-hardesty-1,0
+2006,Tennessee,SEC,FR,RB,13,107,384,3.6,4,6,54,9.0,0,113,438,3.9,4,montario-hardesty-1,1
+2007,Tennessee,SEC,SO,RB,10,89,373,4.2,3,3,25,8.3,0,92,398,4.3,3,montario-hardesty-1,1
+2008,Tennessee,SEC,JR,RB,11,76,271,3.6,6,4,24,6.0,0,80,295,3.7,6,montario-hardesty-1,0
+2009,Tennessee,SEC,SR,RB,13,282,1345,4.8,13,25,302,12.1,1,307,1647,5.4,14,montario-hardesty-1,1
+2006,Miami (FL),ACC,FR,RB,13,175,802,4.6,4,17,200,11.8,1,192,1002,5.2,5,javarris-james-1,1
+2007,Miami (FL),ACC,SO,RB,12,159,582,3.7,4,14,100,7.1,0,173,682,3.9,4,javarris-james-1,0
+2008,Miami (FL),ACC,JR,RB,9,68,286,4.2,4,11,118,10.7,0,79,404,5.1,4,javarris-james-1,1
+2009,Miami (FL),ACC,SR,RB,12,103,492,4.8,6,13,85,6.5,0,116,577,5.0,6,javarris-james-1,1
+2006,Florida,SEC,FR,RB,13,3,1,0.3,0,,,,,3,1,0.3,0,brandon-james-1,1
+2007,Florida,SEC,SO,RB,11,24,133,5.5,0,8,69,8.6,0,32,202,6.3,0,brandon-james-1,1
+2008,Florida,SEC,JR,RB,14,14,59,4.2,2,11,95,8.6,1,25,154,6.2,3,brandon-james-1,1
+2009,Florida,SEC,SR,RB,13,20,109,5.5,0,24,215,9.0,1,44,324,7.4,1,brandon-james-1,1
+2006,USC,Pac-10,FR,RB,3,3,17,5.7,0,,,,,3,17,5.7,0,stafon-johnson-1,1
+2007,USC,Pac-10,SO,RB,11,98,673,6.9,5,4,15,3.8,0,102,688,6.7,5,stafon-johnson-1,1
+2008,USC,Pac-10,JR,RB,13,138,705,5.1,9,7,48,6.9,0,145,753,5.2,9,stafon-johnson-1,1
+2009,USC,Pac-10,SR,RB,4,32,157,4.9,5,1,2,2.0,0,33,159,4.8,5,stafon-johnson-1,1
+2007,Marshall,CUSA,FR,RB,12,123,631,5.1,3,14,119,8.5,0,137,750,5.5,3,darius-marshall-1,0
+2008,Marshall,CUSA,SO,RB,12,224,1095,4.9,5,16,98,6.1,0,240,1193,5.0,5,darius-marshall-1,0
+2009,Marshall,CUSA,JR,RB,10,227,1131,5.0,11,12,27,2.3,0,239,1158,4.8,11,darius-marshall-1,1
+2007,Fresno State,WAC,FR,RB,11,145,866,6.0,14,,,,,145,866,6.0,14,ryan-mathews-1,1
+2008,Fresno State,WAC,SO,RB,8,113,606,5.4,6,8,146,18.3,2,121,752,6.2,8,ryan-mathews-1,1
+2009,Fresno State,WAC,JR,RB,12,276,1808,6.6,19,11,122,11.1,0,287,1930,6.7,19,ryan-mathews-1,1
+2007,USC,Pac-10,FR,RB,13,94,540,5.7,3,23,203,8.8,1,117,743,6.4,4,joe-mcknight-1,1
+2008,USC,Pac-10,SO,RB,11,89,659,7.4,2,21,193,9.2,1,110,852,7.7,3,joe-mcknight-1,1
+2009,USC,Pac-10,JR,RB,12,164,1014,6.2,8,22,146,6.6,0,186,1160,6.2,8,joe-mcknight-1,1
+2007,Miami (FL),ACC,FR,RB,8,20,90,4.5,1,,,,,20,90,4.5,1,shawnbrey-mcneal-1,0
+2008,Miami (FL),ACC,SO,RB,7,13,62,4.8,2,,,,,13,62,4.8,2,shawnbrey-mcneal-1,1
+2009,SMU,CUSA,JR,RB,13,236,1188,5.0,12,31,283,9.1,2,267,1471,5.5,14,shawnbrey-mcneal-1,1
+2006,Fresno State,WAC,FR,RB,10,54,287,5.3,2,3,30,10.0,0,57,317,5.6,2,lonyae-miller-1,0
+2007,Fresno State,WAC,SO,RB,10,132,609,4.6,7,2,23,11.5,0,134,632,4.7,7,lonyae-miller-1,1
+2008,Fresno State,WAC,JR,RB,12,120,812,6.8,7,,,,,120,812,6.8,7,lonyae-miller-1,1
+2009,Fresno State,WAC,SR,RB,13,68,354,5.2,4,9,38,4.2,0,77,392,5.1,4,lonyae-miller-1,1
+2006,Michigan,Big Ten,FR,RB,11,42,238,5.7,2,1,9,9.0,0,43,247,5.7,2,brandon-minor-1,1
+2007,Michigan,Big Ten,SO,RB,12,90,385,4.3,1,3,1,0.3,0,93,386,4.2,1,brandon-minor-1,1
+2008,Michigan,Big Ten,JR,RB,11,103,533,5.2,9,5,59,11.8,2,108,592,5.5,11,brandon-minor-1,0
+2009,Michigan,Big Ten,SR,RB,9,96,502,5.2,8,1,1,1.0,0,97,503,5.2,8,brandon-minor-1,0
+2006,LSU,SEC,FR,RB,7,46,277,6.0,5,3,24,8.0,0,49,301,6.1,5,charles-scott-1,1
+2007,LSU,SEC,SO,RB,14,45,324,7.2,5,12,115,9.6,2,57,439,7.7,7,charles-scott-1,1
+2008,LSU,SEC,JR,RB,13,217,1174,5.4,18,8,67,8.4,0,225,1241,5.5,18,charles-scott-1,1
+2009,LSU,SEC,SR,RB,9,116,542,4.7,4,8,54,6.8,1,124,596,4.8,5,charles-scott-1,1
+2006,Clemson,ACC,FR,RB,13,129,938,7.3,10,19,210,11.1,2,148,1148,7.8,12,cj-spiller-1,1
+2007,Clemson,ACC,SO,RB,13,145,768,5.3,3,34,271,8.0,2,179,1039,5.8,5,cj-spiller-1,1
+2008,Clemson,ACC,JR,RB,12,116,629,5.4,7,34,436,12.8,3,150,1065,7.1,10,cj-spiller-1,1
+2009,Clemson,ACC,SR,RB,14,216,1212,5.6,12,36,503,14.0,4,252,1715,6.8,16,cj-spiller-1,1
+2006,Buffalo,MAC,FR,RB,12,175,704,4.0,6,34,226,6.6,0,209,930,4.4,6,james-starks-1,0
+2007,Buffalo,MAC,SO,RB,12,251,1103,4.4,12,41,311,7.6,2,292,1414,4.8,14,james-starks-1,0
+2008,Buffalo,MAC,JR,RB,12,272,1333,4.9,16,52,361,6.9,1,324,1694,5.2,17,james-starks-1,1
+2006,Auburn,SEC,FR,RB,9,54,392,7.3,3,2,-3,-1.5,0,56,389,6.9,3,ben-tate-1,1
+2007,Auburn,SEC,SO,RB,13,202,903,4.5,8,16,144,9.0,0,218,1047,4.8,8,ben-tate-1,1
+2008,Auburn,SEC,JR,RB,12,159,664,4.2,3,15,90,6.0,0,174,754,4.3,3,ben-tate-1,0
+2009,Auburn,SEC,SR,RB,13,263,1362,5.2,10,20,105,5.3,0,283,1467,5.2,10,ben-tate-1,1
+2006,Oklahoma State,Big 12,FR,RB,12,106,631,6.0,6,10,92,9.2,2,116,723,6.2,8,keith-toston-1,1
+2007,Oklahoma State,Big 12,SO,RB,11,38,190,5.0,1,8,92,11.5,0,46,282,6.1,1,keith-toston-1,1
+2008,Oklahoma State,Big 12,JR,RB,13,102,686,6.7,9,8,62,7.8,0,110,748,6.8,9,keith-toston-1,1
+2009,Oklahoma State,Big 12,SR,RB,13,227,1218,5.4,11,25,261,10.4,1,252,1479,5.9,12,keith-toston-1,1
+2006,LSU,SEC,FR,RB,9,76,436,5.7,5,4,14,3.5,0,80,450,5.6,5,keiland-williams-1,1
+2007,LSU,SEC,SO,RB,14,70,478,6.8,6,9,113,12.6,1,79,591,7.5,7,keiland-williams-1,1
+2008,LSU,SEC,JR,RB,13,83,417,5.0,2,11,124,11.3,1,94,541,5.8,3,keiland-williams-1,1
+2009,LSU,SEC,SR,RB,11,70,368,5.3,4,4,22,5.5,0,74,390,5.3,4,keiland-williams-1,1
+2007,Notre Dame,Ind,FR,RB,12,86,348,4.0,0,24,124,5.2,1,110,472,4.3,1,armando-allen-1,0
+2008,Notre Dame,Ind,SO,RB,13,134,585,4.4,3,50,355,7.1,2,184,940,5.1,5,armando-allen-1,1
+2009,Notre Dame,Ind,JR,RB,9,142,697,4.9,3,28,216,7.7,0,170,913,5.4,3,armando-allen-1,0
+2010,Notre Dame,Ind,SR,RB,8,107,514,4.8,2,17,138,8.1,0,124,652,5.3,2,armando-allen-1,1
+2006,Louisville,Big East,FR,RB,13,96,406,4.2,13,4,48,12.0,1,100,454,4.5,14,anthony-allen-1,1
+2007,Louisville,Big East,SO,RB,12,146,696,4.8,7,21,153,7.3,2,167,849,5.1,9,anthony-allen-1,0
+2009,Georgia Tech,ACC,JR,RB,14,64,618,9.7,6,5,112,22.4,1,69,730,10.6,7,anthony-allen-1,1
+2010,Georgia Tech,ACC,SR,RB,13,240,1316,5.5,7,3,88,29.3,1,243,1404,5.8,8,anthony-allen-1,1
+2007,Utah,MWC,JR,RB,1,4,16,4.0,0,,,,,4,16,4.0,0,matt-asiata-1,1
+2008,Utah,MWC,JR,RB,13,146,707,4.8,12,13,111,8.5,1,159,818,5.1,13,matt-asiata-1,1
+2009,Utah,MWC,SR,RB,4,74,330,4.5,4,9,88,9.8,0,83,418,5.0,4,matt-asiata-1,1
+2010,Utah,MWC,SR,RB,13,155,695,4.5,8,32,195,6.1,1,187,890,4.8,9,matt-asiata-1,1
+2007,Miami (FL),ACC,FR,DB,12,0,0,,0,0,0,,0,0,0,,0,damien-berry-1,0
+2008,Miami (FL),ACC,SO,DB,7,0,0,,0,0,0,,0,0,0,,0,damien-berry-1,1
+2009,Miami (FL),ACC,JR,RB,13,93,616,6.6,8,5,68,13.6,0,98,684,7.0,8,damien-berry-1,1
+2010,Miami (FL),ACC,SR,RB,12,190,899,4.7,5,10,97,9.7,1,200,996,5.0,6,damien-berry-1,1
+2006,USC,Pac-10,FR,RB,12,13,42,3.2,1,3,33,11.0,1,16,75,4.7,2,allen-bradford-1,1
+2007,USC,Pac-10,SO,RB,12,15,24,1.6,1,3,23,7.7,2,18,47,2.6,3,allen-bradford-1,1
+2008,USC,Pac-10,JR,RB,3,14,57,4.1,1,4,44,11.0,0,18,101,5.6,1,allen-bradford-1,1
+2009,USC,Pac-10,JR,RB,13,115,668,5.8,8,1,2,2.0,0,116,670,5.8,8,allen-bradford-1,1
+2010,USC,Pac-10,SR,RB,12,110,794,7.2,5,3,74,24.7,1,113,868,7.7,6,allen-bradford-1,0
+2006,Syracuse,Big East,FR,RB,12,156,713,4.6,4,9,46,5.1,0,165,759,4.6,4,delone-carter-1,0
+2008,Syracuse,Big East,SO,RB,5,23,137,6.0,0,,,,,23,137,6.0,0,delone-carter-1,0
+2009,Syracuse,Big East,SR,RB,12,236,1021,4.3,11,11,117,10.6,1,247,1138,4.6,12,delone-carter-1,0
+2010,Syracuse,Big East,SR,RB,13,231,1233,5.3,9,8,45,5.6,0,239,1278,5.3,9,delone-carter-1,1
+2008,Wisconsin,Big Ten,FR,RB,13,155,884,5.7,9,1,2,2.0,0,156,886,5.7,9,john-clay-1,1
+2009,Wisconsin,Big Ten,SO,RB,13,287,1517,5.3,18,9,61,6.8,0,296,1578,5.3,18,john-clay-1,1
+2010,Wisconsin,Big Ten,JR,RB,11,187,1012,5.4,14,1,9,9.0,0,188,1021,5.4,14,john-clay-1,1
+2007,Miami (FL),ACC,FR,RB,11,125,682,5.5,4,13,129,9.9,1,138,811,5.9,5,graig-cooper-1,0
+2008,Miami (FL),ACC,SO,RB,13,171,841,4.9,4,29,113,3.9,1,200,954,4.8,5,graig-cooper-1,1
+2009,Miami (FL),ACC,JR,RB,12,134,695,5.2,4,18,132,7.3,1,152,827,5.4,5,graig-cooper-1,1
+2010,Miami (FL),ACC,SR,RB,10,35,165,4.7,1,6,28,4.7,0,41,193,4.7,1,graig-cooper-1,1
+2007,West Virginia,Big East,FR,RB,12,73,627,8.6,6,7,90,12.9,0,80,717,9.0,6,noel-devine-1,1
+2008,West Virginia,Big East,SO,RB,13,206,1289,6.3,4,35,185,5.3,0,241,1474,6.1,4,noel-devine-1,1
+2009,West Virginia,Big East,JR,RB,13,241,1465,6.1,13,22,177,8.0,1,263,1642,6.2,14,noel-devine-1,1
+2010,West Virginia,Big East,SR,RB,13,208,934,4.5,6,34,258,7.6,1,242,1192,4.9,7,noel-devine-1,1
+2007,North Carolina,ACC,FR,DB,12,0,0,,0,0,0,,0,0,0,,0,shaun-draughn-1,0
+2008,North Carolina,ACC,SO,RB,13,198,866,4.4,3,16,81,5.1,1,214,947,4.4,4,shaun-draughn-1,1
+2009,North Carolina,ACC,JR,RB,10,124,567,4.6,1,21,125,6.0,0,145,692,4.8,1,shaun-draughn-1,1
+2010,North Carolina,ACC,SR,RB,12,129,637,4.9,6,13,62,4.8,0,142,699,4.9,6,shaun-draughn-1,1
+2008,Virginia Tech,ACC,FR,RB,14,287,1265,4.4,11,17,117,6.9,0,304,1382,4.5,11,darren-evans-1,1
+2010,Virginia Tech,ACC,JR,RB,14,151,854,5.7,11,9,100,11.1,0,160,954,6.0,11,darren-evans-1,1
+2007,Auburn,SEC,FR,RB,13,84,448,5.3,5,18,176,9.8,2,102,624,6.1,7,mario-fannin-1,1
+2008,Auburn,SEC,SO,RB,12,54,238,4.4,1,20,223,11.2,2,74,461,6.2,3,mario-fannin-1,0
+2009,Auburn,SEC,JR,RB,13,34,285,8.4,0,42,413,9.8,3,76,698,9.2,3,mario-fannin-1,1
+2010,Auburn,SEC,SR,RB,13,61,395,6.5,5,17,173,10.2,2,78,568,7.3,7,mario-fannin-1,1
+2009,Hawaii,WAC,JR,RB,13,86,453,5.3,2,11,98,8.9,1,97,551,5.7,3,alex-green-2,0
+2010,Hawaii,WAC,SR,RB,14,146,1199,8.2,18,27,363,13.4,1,173,1562,9.0,19,alex-green-2,1
+2008,Clemson,ACC,FR,RB,12,34,133,3.9,1,4,21,5.3,0,38,154,4.1,1,jamie-harper-1,1
+2009,Clemson,ACC,SO,RB,14,80,418,5.2,4,11,49,4.5,0,91,467,5.1,4,jamie-harper-1,1
+2010,Clemson,ACC,JR,RB,13,197,760,3.9,7,35,328,9.4,3,232,1088,4.7,10,jamie-harper-1,1
+2007,Oklahoma State,Big 12,FR,RB,12,107,696,6.5,4,10,137,13.7,1,117,833,7.1,5,kendall-hunter-1,1
+2008,Oklahoma State,Big 12,SO,RB,13,241,1555,6.5,16,22,198,9.0,1,263,1753,6.7,17,kendall-hunter-1,1
+2009,Oklahoma State,Big 12,JR,RB,8,89,382,4.3,1,11,83,7.5,0,100,465,4.7,1,kendall-hunter-1,1
+2010,Oklahoma State,Big 12,SR,RB,13,271,1548,5.7,16,20,101,5.1,0,291,1649,5.7,16,kendall-hunter-1,1
+2008,Alabama,SEC,FR,RB,14,143,728,5.1,12,7,54,7.7,0,150,782,5.2,12,mark-ingram-1,1
+2009,Alabama,SEC,SO,RB,14,271,1658,6.1,17,32,334,10.4,3,303,1992,6.6,20,mark-ingram-1,1
+2010,Alabama,SEC,JR,RB,11,158,875,5.5,13,21,282,13.4,1,179,1157,6.5,14,mark-ingram-1,1
+2008,Illinois,Big Ten,FR,RB,9,35,126,3.6,1,6,66,11.0,0,41,192,4.7,1,mikel-leshoure-1,0
+2009,Illinois,Big Ten,SO,RB,11,108,734,6.8,5,14,177,12.6,2,122,911,7.5,7,mikel-leshoure-1,0
+2010,Illinois,Big Ten,JR,RB,13,281,1697,6.0,17,17,196,11.5,3,298,1893,6.4,20,mikel-leshoure-1,1
+2009,Pitt,Big East,FR,RB,13,325,1799,5.5,17,25,189,7.6,1,350,1988,5.7,18,dion-lewis-1,1
+2010,Pitt,Big East,SO,RB,12,219,1061,4.8,13,27,216,8.0,0,246,1277,5.2,13,dion-lewis-1,1
+2007,Kentucky,SEC,FR,RB,12,94,521,5.5,5,7,86,12.3,0,101,607,6.0,5,derrick-locke-1,1
+2008,Kentucky,SEC,SO,RB,7,63,303,4.8,1,23,195,8.5,1,86,498,5.8,2,derrick-locke-1,1
+2009,Kentucky,SEC,JR,RB,12,195,907,4.7,6,31,284,9.2,2,226,1191,5.3,8,derrick-locke-1,1
+2010,Kentucky,SEC,SR,RB,9,166,887,5.3,10,34,318,9.4,0,200,1205,6.0,10,derrick-locke-1,1
+2007,Oklahoma,Big 12,FR,RB,11,127,764,6.0,13,14,60,4.3,0,141,824,5.8,13,demarco-murray-1,1
+2008,Oklahoma,Big 12,SO,RB,13,179,1002,5.6,14,31,395,12.7,4,210,1397,6.7,18,demarco-murray-1,1
+2009,Oklahoma,Big 12,JR,RB,12,171,705,4.1,8,41,522,12.7,4,212,1227,5.8,12,demarco-murray-1,1
+2010,Oklahoma,Big 12,SR,RB,14,282,1214,4.3,15,71,594,8.4,5,353,1808,5.1,20,demarco-murray-1,1
+2007,Louisville,Big East,FR,RB,8,24,187,7.8,2,3,25,8.3,0,27,212,7.9,2,bilal-powell-1,0
+2008,Louisville,Big East,SO,RB,11,75,354,4.7,2,12,58,4.8,0,87,412,4.7,2,bilal-powell-1,0
+2009,Louisville,Big East,JR,RB,11,108,392,3.6,4,12,103,8.6,0,120,495,4.1,4,bilal-powell-1,0
+2010,Louisville,Big East,SR,RB,12,229,1405,6.1,11,18,158,8.8,3,247,1563,6.3,14,bilal-powell-1,1
+2008,LSU,SEC,FR,RB,13,12,92,7.7,1,,,,,12,92,7.7,1,stevan-ridley-1,1
+2009,LSU,SEC,SO,RB,13,45,180,4.0,3,6,33,5.5,0,51,213,4.2,3,stevan-ridley-1,1
+2010,LSU,SEC,JR,RB,13,249,1147,4.6,15,11,61,5.5,0,260,1208,4.6,15,stevan-ridley-1,1
+2008,Oregon State,Pac-10,FR,RB,11,259,1253,4.8,11,29,247,8.5,1,288,1500,5.2,12,jacquizz-rodgers-1,1
+2009,Oregon State,Pac-10,SO,RB,13,273,1440,5.3,21,78,522,6.7,1,351,1962,5.6,22,jacquizz-rodgers-1,1
+2010,Oregon State,Pac-10,JR,RB,12,256,1184,4.6,14,44,287,6.5,3,300,1471,4.9,17,jacquizz-rodgers-1,0
+2007,Penn State,Big Ten,FR,RB,11,82,513,6.3,5,3,18,6.0,0,85,531,6.2,5,evan-royster-1,1
+2008,Penn State,Big Ten,SO,RB,13,191,1236,6.5,12,17,155,9.1,0,208,1391,6.7,12,evan-royster-1,1
+2009,Penn State,Big Ten,JR,RB,13,205,1169,5.7,6,16,187,11.7,2,221,1356,6.1,8,evan-royster-1,1
+2010,Penn State,Big Ten,SR,RB,13,208,1014,4.9,6,25,202,8.1,1,233,1216,5.2,7,evan-royster-1,1
+2007,Ohio State,Big Ten,FR,RB,11,60,267,4.5,2,12,160,13.3,1,72,427,5.9,3,brandon-saine-1,1
+2008,Ohio State,Big Ten,SO,RB,12,26,65,2.5,1,3,37,12.3,0,29,102,3.5,1,brandon-saine-1,1
+2009,Ohio State,Big Ten,JR,RB,13,145,739,5.1,4,17,224,13.2,2,162,963,5.9,6,brandon-saine-1,1
+2010,Ohio State,Big Ten,SR,RB,13,70,337,4.8,2,23,195,8.5,5,93,532,5.7,7,brandon-saine-1,1
+2007,Maryland,ACC,FR,RB,9,14,135,9.6,0,1,57,57.0,1,15,192,12.8,1,darel-scott-1,1
+2008,Maryland,ACC,SO,RB,12,209,1133,5.4,8,21,171,8.1,0,230,1304,5.7,8,darel-scott-1,1
+2009,Maryland,ACC,JR,RB,7,85,425,5.0,4,12,111,9.3,0,97,536,5.5,4,darel-scott-1,0
+2010,Maryland,ACC,SR,RB,13,122,708,5.8,5,14,170,12.1,3,136,878,6.5,8,darel-scott-1,1
+2007,Nevada,WAC,FR,RB,8,19,112,5.9,1,1,3,3.0,0,20,115,5.8,1,vai-taua-1,1
+2008,Nevada,WAC,SO,RB,13,236,1521,6.4,15,30,243,8.1,3,266,1764,6.6,18,vai-taua-1,1
+2009,Nevada,WAC,JR,RB,11,172,1345,7.8,10,12,99,8.3,2,184,1444,7.8,12,vai-taua-1,1
+2010,Nevada,WAC,SR,RB,13,284,1610,5.7,19,18,226,12.6,3,302,1836,6.1,22,vai-taua-1,1
+2009,Kansas State,Big 12,JR,RB,12,247,1265,5.1,11,25,257,10.3,0,272,1522,5.6,11,daniel-thomas-1,0
+2010,Kansas State,Big 12,SR,RB,13,298,1585,5.3,19,27,171,6.3,0,325,1756,5.4,19,daniel-thomas-1,1
+2008,Connecticut,Big East,FR,RB,12,47,296,6.3,3,2,4,2.0,0,49,300,6.1,3,jordan-todman-1,1
+2009,Connecticut,Big East,SO,RB,13,235,1188,5.1,14,21,185,8.8,0,256,1373,5.4,14,jordan-todman-1,1
+2010,Connecticut,Big East,JR,RB,12,334,1695,5.1,14,19,94,4.9,0,353,1789,5.1,14,jordan-todman-1,1
+2008,California,Pac-10,FR,RB,13,142,715,5.0,4,27,221,8.2,1,169,936,5.5,5,shane-vereen-1,1
+2009,California,Pac-10,SO,RB,13,183,952,5.2,12,25,244,9.8,2,208,1196,5.8,14,shane-vereen-1,1
+2010,California,Pac-10,JR,RB,12,231,1167,5.1,13,22,209,9.5,3,253,1376,5.4,16,shane-vereen-1,0
+2007,North Carolina,ACC,FR,RB,12,95,399,4.2,0,15,159,10.6,0,110,558,5.1,0,johnny-white-1,0
+2008,North Carolina,ACC,SO,DB,12,2,0,0.0,0,1,-3,-3.0,0,3,-3,-1.0,0,johnny-white-1,1
+2009,North Carolina,ACC,JR,DB,13,19,143,7.5,1,7,66,9.4,1,26,209,8.0,2,johnny-white-1,1
+2010,North Carolina,ACC,SR,RB,9,130,720,5.5,7,24,288,12.0,0,154,1008,6.5,7,johnny-white-1,1
+2009,Virginia Tech,ACC,FR,RB,13,293,1655,5.6,21,16,180,11.3,1,309,1835,5.9,22,ryan-williams-2,1
+2010,Virginia Tech,ACC,SO,RB,10,110,477,4.3,9,10,109,10.9,1,120,586,4.9,10,ryan-williams-2,1
+2009,Michigan State,Big Ten,FR,RB,8,85,427,5.0,1,7,43,6.1,0,92,470,5.1,1,edwin-baker-1,1
+2010,Michigan State,Big Ten,SO,RB,13,207,1201,5.8,13,3,22,7.3,0,210,1223,5.8,13,edwin-baker-1,1
+2011,Michigan State,Big Ten,JR,RB,14,170,665,3.9,5,5,60,12.0,1,175,725,4.1,6,edwin-baker-1,1
+2009,Nevada,WAC,FR,RB,12,23,220,9.6,5,1,1,1.0,0,24,221,9.2,5,mike-ball-1,1
+2010,Nevada,WAC,SO,RB,11,38,259,6.8,4,11,73,6.6,2,49,332,6.8,6,mike-ball-1,1
+2011,Nevada,WAC,JR,RB,9,135,704,5.2,3,11,42,3.8,2,146,746,5.1,5,mike-ball-1,1
+2010,Mississippi State,SEC,JR,RB,12,186,968,5.2,19,10,106,10.6,1,196,1074,5.5,20,vick-ballard-1,1
+2011,Mississippi State,SEC,SR,RB,13,193,1189,6.2,10,20,187,9.4,1,213,1376,6.5,11,vick-ballard-1,1
+2008,Ole Miss,SEC,FR,RB,13,98,542,5.5,5,10,107,10.7,1,108,649,6.0,6,brandon-bolden-1,1
+2009,Ole Miss,SEC,SO,RB,13,129,614,4.8,4,20,209,10.5,1,149,823,5.5,5,brandon-bolden-1,1
+2010,Ole Miss,SEC,JR,RB,12,163,976,6.0,14,32,344,10.8,3,195,1320,6.8,17,brandon-bolden-1,0
+2011,Ole Miss,SEC,SR,RB,10,96,462,4.8,4,14,147,10.5,1,110,609,5.5,5,brandon-bolden-1,0
+2007,Tennessee,SEC,FR,RB,13,36,214,5.9,1,2,13,6.5,0,38,227,6.0,1,lennon-creer-1,1
+2008,Tennessee,SEC,SO,RB,11,73,388,5.3,4,3,10,3.3,0,76,398,5.2,4,lennon-creer-1,0
+2010,Louisiana Tech,WAC,JR,RB,12,212,1181,5.6,10,25,181,7.2,0,237,1362,5.7,10,lennon-creer-1,0
+2011,Louisiana Tech,WAC,SR,RB,10,198,838,4.2,9,18,93,5.2,1,216,931,4.3,10,lennon-creer-1,1
+2007,Houston,CUSA,FR,RB,13,109,550,5.0,6,,,,,109,550,5.0,6,terrance-ganaway-1,0
+2009,Baylor,Big 12,SO,RB,12,68,200,2.9,5,2,37,18.5,0,70,237,3.4,5,terrance-ganaway-1,0
+2010,Baylor,Big 12,JR,RB,13,46,295,6.4,2,4,44,11.0,0,50,339,6.8,2,terrance-ganaway-1,1
+2011,Baylor,Big 12,SR,RB,13,250,1547,6.2,21,6,52,8.7,1,256,1599,6.2,22,terrance-ganaway-1,1
+2008,Notre Dame,Ind,FR,RB,8,21,90,4.3,0,,,,,21,90,4.3,0,jonas-gray-1,1
+2009,Notre Dame,Ind,SO,RB,8,34,119,3.5,0,4,54,13.5,0,38,173,4.6,0,jonas-gray-1,0
+2010,Notre Dame,Ind,JR,RB,7,20,100,5.0,0,1,13,13.0,0,21,113,5.4,0,jonas-gray-1,1
+2011,Notre Dame,Ind,SR,RB,11,114,791,6.9,12,6,38,6.3,0,120,829,6.9,12,jonas-gray-1,1
+2008,Texas A&M,Big 12,FR,RB,12,75,363,4.8,1,10,60,6.0,0,85,423,5.0,1,cyrus-gray-1,0
+2009,Texas A&M,Big 12,SO,RB,13,159,757,4.8,5,28,226,8.1,2,187,983,5.3,7,cyrus-gray-1,1
+2010,Texas A&M,Big 12,JR,RB,13,200,1133,5.7,12,34,251,7.4,1,234,1384,5.9,13,cyrus-gray-1,1
+2011,Texas A&M,Big 12,SR,RB,11,198,1045,5.3,12,31,239,7.7,3,229,1284,5.6,15,cyrus-gray-1,1
+2008,Ohio State,Big Ten,FR,RB,11,89,439,4.9,6,6,29,4.8,0,95,468,4.9,6,dan-herron-1,1
+2009,Ohio State,Big Ten,SO,RB,10,153,600,3.9,7,11,66,6.0,1,164,666,4.1,8,dan-herron-1,1
+2010,Ohio State,Big Ten,JR,RB,13,216,1155,5.3,16,19,180,9.5,0,235,1335,5.7,16,dan-herron-1,1
+2011,Ohio State,Big Ten,SR,RB,7,134,675,5.0,3,8,34,4.3,0,142,709,5.0,3,dan-herron-1,1
+2010,San Diego State,MWC,FR,RB,13,262,1532,5.8,17,9,68,7.6,1,271,1600,5.9,18,ronnie-hillman-1,1
+2011,San Diego State,MWC,SO,RB,13,311,1711,5.5,19,24,270,11.3,1,335,1981,5.9,20,ronnie-hillman-1,1
+2009,Oregon,Pac-10,FR,RB,13,230,1546,6.7,14,17,168,9.9,0,247,1714,6.9,14,lamichael-james-1,1
+2010,Oregon,Pac-10,SO,RB,12,294,1731,5.9,21,17,208,12.2,3,311,1939,6.2,24,lamichael-james-1,1
+2011,Oregon,Pac-12,JR,RB,12,247,1805,7.3,18,17,210,12.4,1,264,2015,7.6,19,lamichael-james-1,1
+2007,Boise State,WAC,FR,RB,0,0,0,,0,0,0,,0,0,0,,0,doug-martin-1,1
+2008,Boise State,WAC,FR,RB,11,24,107,4.5,0,3,54,18.0,0,27,161,6.0,0,doug-martin-1,1
+2009,Boise State,WAC,SO,RB,14,129,765,5.9,15,8,68,8.5,0,137,833,6.1,15,doug-martin-1,1
+2010,Boise State,WAC,JR,RB,13,201,1260,6.3,12,28,338,12.1,2,229,1598,7.0,14,doug-martin-1,1
+2011,Boise State,MWC,SR,RB,13,263,1299,4.9,16,28,255,9.1,2,291,1554,5.3,18,doug-martin-1,1
+2008,Maryland,ACC,FR,RB,13,89,457,5.1,4,9,79,8.8,0,98,536,5.5,4,davin-meggett-1,1
+2009,Maryland,ACC,SO,RB,12,99,338,3.4,6,14,175,12.5,1,113,513,4.5,7,davin-meggett-1,0
+2010,Maryland,ACC,JR,RB,13,126,720,5.7,4,6,59,9.8,0,132,779,5.9,4,davin-meggett-1,1
+2011,Maryland,ACC,SR,RB,12,171,896,5.2,4,17,141,8.3,1,188,1037,5.5,5,davin-meggett-1,0
+2010,Miami (FL),ACC,FR,RB,11,108,646,6.0,6,11,96,8.7,0,119,742,6.2,6,lamar-miller-1,1
+2011,Miami (FL),ACC,SO,RB,12,227,1272,5.6,9,17,85,5.0,1,244,1357,5.6,10,lamar-miller-1,0
+2008,Florida Atlantic,Sun Belt,SO,RB,11,7,23,3.3,0,,,,,7,23,3.3,0,alfred-morris-1,0
+2009,Florida Atlantic,Sun Belt,SO,RB,12,263,1392,5.3,11,7,114,16.3,2,270,1506,5.6,13,alfred-morris-1,0
+2010,Florida Atlantic,Sun Belt,JR,RB,12,227,928,4.1,7,8,47,5.9,1,235,975,4.1,8,alfred-morris-1,0
+2011,Florida Atlantic,Sun Belt,SR,RB,12,236,1186,5.0,9,15,139,9.3,1,251,1325,5.3,10,alfred-morris-1,0
+2008,Cincinnati,Big East,FR,RB,7,30,194,6.5,0,2,11,5.5,0,32,205,6.4,0,isaiah-pead-1,1
+2009,Cincinnati,Big East,SO,RB,13,121,806,6.7,9,20,201,10.1,2,141,1007,7.1,11,isaiah-pead-1,1
+2010,Cincinnati,Big East,JR,RB,11,157,1029,6.6,6,26,190,7.3,1,183,1219,6.7,7,isaiah-pead-1,0
+2011,Cincinnati,Big East,SR,RB,13,237,1259,5.3,12,39,319,8.2,3,276,1578,5.7,15,isaiah-pead-1,1
+2009,Temple,MAC,FR,RB,12,236,1361,5.8,16,8,39,4.9,0,244,1400,5.7,16,bernard-pierce-1,1
+2010,Temple,MAC,SO,RB,10,154,728,4.7,10,8,87,10.9,1,162,815,5.0,11,bernard-pierce-1,0
+2011,Temple,MAC,JR,RB,12,273,1481,5.4,27,3,52,17.3,0,276,1533,5.6,27,bernard-pierce-1,1
+2008,Washington,Pac-10,FR,RB,2,20,33,1.7,0,1,0,0.0,0,21,33,1.6,0,chris-polk-1,0
+2009,Washington,Pac-10,FR,RB,12,226,1113,4.9,5,25,171,6.8,0,251,1284,5.1,5,chris-polk-1,0
+2010,Washington,Pac-10,SO,RB,13,260,1415,5.4,9,22,180,8.2,0,282,1595,5.7,9,chris-polk-1,1
+2011,Washington,Pac-12,JR,RB,13,293,1488,5.1,12,31,332,10.7,4,324,1820,5.6,16,chris-polk-1,1
+2008,Tennessee,SEC,FR,RB,12,22,86,3.9,0,1,-1,-1.0,0,23,85,3.7,0,tauren-poole-1,0
+2009,Tennessee,SEC,SO,RB,13,10,85,8.5,0,1,9,9.0,0,11,94,8.5,0,tauren-poole-1,1
+2010,Tennessee,SEC,JR,RB,13,204,1034,5.1,11,22,171,7.8,1,226,1205,5.3,12,tauren-poole-1,1
+2011,Tennessee,SEC,SR,RB,12,187,693,3.7,5,21,164,7.8,0,208,857,4.1,5,tauren-poole-1,0
+2007,Florida,SEC,FR,RB,5,1,10,10.0,0,,,,,1,10,10.0,0,chris-rainey-1,1
+2008,Florida,SEC,SO,RB,14,84,652,7.8,4,3,37,12.3,0,87,689,7.9,4,chris-rainey-1,1
+2009,Florida,SEC,JR,RB,14,89,575,6.5,5,10,161,16.1,1,99,736,7.4,6,chris-rainey-1,1
+2010,Florida,SEC,JR,RB,8,51,366,7.2,2,25,216,8.6,3,76,582,7.7,5,chris-rainey-1,1
+2011,Florida,SEC,SR,RB,12,171,861,5.0,2,31,381,12.3,2,202,1242,6.1,4,chris-rainey-1,1
+2009,Alabama,SEC,FR,RB,14,145,751,5.2,8,16,126,7.9,0,161,877,5.4,8,trent-richardson-1,1
+2010,Alabama,SEC,SO,RB,11,112,700,6.3,6,23,266,11.6,4,135,966,7.2,10,trent-richardson-1,1
+2011,Alabama,SEC,JR,RB,13,283,1679,5.9,21,29,338,11.7,3,312,2017,6.5,24,trent-richardson-1,1
+2008,Colorado,Big 12,FR,RB,11,87,343,3.9,1,9,105,11.7,0,96,448,4.7,1,darrell-scott-1,0
+2009,Colorado,Big 12,SO,RB,5,23,95,4.1,0,4,35,8.8,0,27,130,4.8,0,darrell-scott-1,0
+2011,South Florida,Big East,JR,RB,11,153,814,5.3,5,15,169,11.3,1,168,983,5.9,6,darrell-scott-1,0
+2007,Utah State,WAC,FR,RB,1,3,17,5.7,0,,,,,3,17,5.7,0,robert-turbin-1,0
+2008,Utah State,WAC,FR,RB,12,106,485,4.6,8,20,256,12.8,2,126,741,5.9,10,robert-turbin-1,0
+2009,Utah State,WAC,SO,RB,12,207,1296,6.3,13,30,418,13.9,5,237,1714,7.2,18,robert-turbin-1,0
+2011,Utah State,WAC,JR,RB,13,249,1517,6.1,19,17,171,10.1,4,266,1688,6.3,23,robert-turbin-1,1
+2008,USC,Pac-10,FR,RB,8,36,198,5.5,1,1,10,10.0,1,37,208,5.6,2,marc-tyler-1,1
+2009,USC,Pac-10,SO,RB,1,5,72,14.4,1,,,,,5,72,14.4,1,marc-tyler-1,1
+2010,USC,Pac-10,JR,RB,13,171,913,5.3,9,17,127,7.5,1,188,1040,5.5,10,marc-tyler-1,0
+2011,USC,Pac-12,SR,RB,10,122,568,4.7,4,11,108,9.8,0,133,676,5.1,4,marc-tyler-1,0
+2011,Texas,Big 12,SR,RB,9,66,386,5.8,6,16,145,9.1,1,82,531,6.5,7,fozzy-whittaker-1,1
+2009,Virginia Tech,ACC,FR,RB,13,59,334,5.7,4,,,,,59,334,5.7,4,david-wilson-1,1
+2010,Virginia Tech,ACC,SO,RB,13,113,619,5.5,5,15,234,15.6,4,128,853,6.7,9,david-wilson-1,1
+2011,Virginia Tech,ACC,JR,RB,14,290,1709,5.9,9,22,129,5.9,1,312,1838,5.9,10,david-wilson-1,1
+2011,California,Pac-12,JR,RB,13,72,345,4.8,8,7,186,26.6,1,79,531,6.7,9,cj-anderson-1,1
+2012,California,Pac-12,SR,RB,12,126,790,6.3,4,15,164,10.9,1,141,954,6.8,5,cj-anderson-1,0
+2009,Wisconsin,Big Ten,FR,RB,9,98,391,4.0,4,9,92,10.2,0,107,483,4.5,4,montee-ball-1,1
+2010,Wisconsin,Big Ten,SO,RB,12,163,996,6.1,18,16,128,8.0,0,179,1124,6.3,18,montee-ball-1,1
+2011,Wisconsin,Big Ten,JR,RB,14,307,1923,6.3,33,24,306,12.8,6,331,2229,6.7,39,montee-ball-1,1
+2012,Wisconsin,Big Ten,SR,RB,14,356,1830,5.1,22,10,72,7.2,0,366,1902,5.2,22,montee-ball-1,1
+2009,Oregon,Pac-10,FR,DB,13,61,366,6.0,3,4,30,7.5,0,65,396,6.1,3,kenjon-barner-1,1
+2010,Oregon,Pac-10,SO,RB,11,91,551,6.1,6,13,121,9.3,2,104,672,6.5,8,kenjon-barner-1,1
+2011,Oregon,Pac-12,JR,RB,12,152,939,6.2,11,17,184,10.8,3,169,1123,6.6,14,kenjon-barner-1,1
+2012,Oregon,Pac-12,SR,RB,13,278,1767,6.4,21,20,256,12.8,2,298,2023,6.8,23,kenjon-barner-1,1
+2010,Michigan State,Big Ten,FR,RB,13,107,605,5.7,8,11,97,8.8,0,118,702,5.9,8,leveon-bell-1,1
+2011,Michigan State,Big Ten,SO,RB,14,182,948,5.2,13,35,267,7.6,0,217,1215,5.6,13,leveon-bell-1,1
+2012,Michigan State,Big Ten,JR,RB,13,382,1793,4.7,12,32,167,5.2,1,414,1960,4.7,13,leveon-bell-1,1
+2011,North Carolina,ACC,FR,RB,13,239,1253,5.2,13,45,362,8.0,1,284,1615,5.7,14,giovani-bernard-1,1
+2012,North Carolina,ACC,SO,RB,10,184,1228,6.7,12,47,490,10.4,5,231,1718,7.4,17,giovani-bernard-1,0
+2009,Nebraska,Big 12,FR,RB,9,81,346,4.3,3,13,90,6.9,1,94,436,4.6,4,rex-burkhead-1,1
+2010,Nebraska,Big 12,SO,RB,14,172,951,5.5,7,15,148,9.9,0,187,1099,5.9,7,rex-burkhead-1,1
+2011,Nebraska,Big Ten,JR,RB,13,284,1357,4.8,15,21,177,8.4,2,305,1534,5.0,17,rex-burkhead-1,1
+2012,Nebraska,Big Ten,SR,RB,8,98,675,6.9,5,11,92,8.4,2,109,767,7.0,7,rex-burkhead-1,1
+2009,Arkansas,SEC,FR,RB,13,33,163,4.9,4,2,4,2.0,0,35,167,4.8,4,knile-davis-1,1
+2010,Arkansas,SEC,SO,RB,13,204,1322,6.5,13,19,136,7.2,1,223,1458,6.5,14,knile-davis-1,1
+2012,Arkansas,SEC,JR,RB,10,112,377,3.4,2,11,157,14.3,1,123,534,4.3,3,knile-davis-1,0
+2009,Clemson,ACC,FR,RB,14,68,491,7.2,4,11,55,5.0,0,79,546,6.9,4,andre-ellington-1,1
+2010,Clemson,ACC,SO,RB,9,118,686,5.8,10,12,109,9.1,1,130,795,6.1,11,andre-ellington-1,1
+2011,Clemson,ACC,JR,RB,13,223,1178,5.3,11,22,109,5.0,0,245,1287,5.3,11,andre-ellington-1,1
+2012,Clemson,ACC,SR,RB,13,212,1081,5.1,8,14,232,16.6,1,226,1313,5.8,9,andre-ellington-1,1
+2010,LSU,SEC,FR,RB,10,45,244,5.4,3,2,30,15.0,1,47,274,5.8,4,michael-ford-2,1
+2011,LSU,SEC,SO,RB,14,127,756,6.0,7,4,10,2.5,0,131,766,5.8,7,michael-ford-2,1
+2012,LSU,SEC,JR,RB,13,71,392,5.5,3,2,29,14.5,0,73,421,5.8,3,michael-ford-2,1
+2009,UCLA,Pac-10,FR,RB,13,126,566,4.5,5,6,57,9.5,0,132,623,4.7,5,johnathan-franklin-1,1
+2010,UCLA,Pac-10,SO,RB,12,214,1127,5.3,8,10,63,6.3,0,224,1190,5.3,8,johnathan-franklin-1,0
+2011,UCLA,Pac-12,JR,RB,14,166,976,5.9,5,9,74,8.2,1,175,1050,6.0,6,johnathan-franklin-1,1
+2012,UCLA,Pac-12,SR,RB,14,282,1734,6.1,13,33,323,9.8,2,315,2057,6.5,15,johnathan-franklin-1,1
+2009,Florida,SEC,FR,RB,13,31,267,8.6,1,1,6,6.0,1,32,273,8.5,2,mike-gillislee-1,1
+2010,Florida,SEC,SO,RB,12,58,325,5.6,7,6,17,2.8,0,64,342,5.3,7,mike-gillislee-1,1
+2011,Florida,SEC,JR,RB,11,56,328,5.9,2,,,,,56,328,5.9,2,mike-gillislee-1,1
+2012,Florida,SEC,SR,RB,13,244,1152,4.7,10,16,159,9.9,1,260,1311,5.0,11,mike-gillislee-1,1
+2009,Pitt,Big East,FR,RB,13,61,349,5.7,4,8,46,5.8,0,69,395,5.7,4,ray-graham-1,1
+2010,Pitt,Big East,SO,RB,12,148,922,6.2,8,24,213,8.9,2,172,1135,6.6,10,ray-graham-1,1
+2011,Pitt,Big East,JR,RB,8,164,958,5.8,9,30,200,6.7,0,194,1158,6.0,9,ray-graham-1,1
+2012,Pitt,Big East,SR,RB,13,222,1042,4.7,11,36,340,9.4,2,258,1382,5.4,13,ray-graham-1,1
+2007,Boise State,WAC,FR,RB,10,87,376,4.3,6,3,13,4.3,0,90,389,4.3,6,dj-harper-1,1
+2008,Boise State,WAC,SO,RB,13,55,265,4.8,4,4,37,9.3,0,59,302,5.1,4,dj-harper-1,1
+2009,Boise State,WAC,JR,RB,3,44,284,6.5,3,1,7,7.0,0,45,291,6.5,3,dj-harper-1,1
+2010,Boise State,WAC,JR,RB,3,18,160,8.9,2,4,36,9.0,0,22,196,8.9,2,dj-harper-1,1
+2011,Boise State,MWC,SR,RB,12,115,557,4.8,9,19,140,7.4,1,134,697,5.2,10,dj-harper-1,1
+2012,Boise State,MWC,SR,RB,13,228,1137,5.0,15,23,163,7.1,1,251,1300,5.2,16,dj-harper-1,1
+2008,Boston College,ACC,FR,RB,13,179,900,5.0,5,20,160,8.0,1,199,1060,5.3,6,montel-harris-1,1
+2009,Boston College,ACC,SO,RB,13,308,1457,4.7,14,8,69,8.6,1,316,1526,4.8,15,montel-harris-1,1
+2010,Boston College,ACC,JR,RB,12,269,1243,4.6,8,18,112,6.2,1,287,1355,4.7,9,montel-harris-1,1
+2011,Boston College,ACC,SR,RB,2,31,135,4.4,0,3,36,12.0,0,34,171,5.0,0,montel-harris-1,0
+2012,Temple,Big East,SR,RB,10,186,1054,5.7,12,10,90,9.0,0,196,1144,5.8,12,montel-harris-1,0
+2009,Miami (FL),ACC,FR,RB,13,15,46,3.1,1,15,105,7.0,0,30,151,5.0,1,mike-james-1,1
+2010,Miami (FL),ACC,SO,RB,13,70,398,5.7,3,13,56,4.3,1,83,454,5.5,4,mike-james-1,1
+2011,Miami (FL),ACC,JR,RB,12,72,275,3.8,7,9,80,8.9,1,81,355,4.4,8,mike-james-1,0
+2012,Miami (FL),ACC,SR,RB,12,147,621,4.2,6,30,344,11.5,3,177,965,5.5,9,mike-james-1,0
+2011,Rutgers,Big East,SO,RB,12,231,897,3.9,9,8,62,7.8,0,239,959,4.0,9,jawan-jamison-1,1
+2012,Rutgers,Big East,SO,RB,13,255,1075,4.2,4,28,323,11.5,2,283,1398,4.9,6,jawan-jamison-1,1
+2010,Nevada,WAC,FR,RB,7,3,26,8.7,1,,,,,3,26,8.7,1,stefphon-jefferson-1,1
+2011,Nevada,WAC,SO,RB,13,70,429,6.1,5,7,48,6.9,0,77,477,6.2,5,stefphon-jefferson-1,1
+2012,Nevada,MWC,JR,RB,13,375,1883,5.0,24,22,170,7.7,1,397,2053,5.2,25,stefphon-jefferson-1,1
+2010,Alabama,SEC,FR,RB,12,56,406,7.3,6,2,18,9.0,0,58,424,7.3,6,eddie-lacy-1,1
+2011,Alabama,SEC,SO,RB,12,95,674,7.1,7,11,131,11.9,0,106,805,7.6,7,eddie-lacy-1,1
+2012,Alabama,SEC,JR,RB,14,204,1322,6.5,17,22,189,8.6,2,226,1511,6.7,19,eddie-lacy-1,1
+2010,South Carolina,SEC,FR,RB,13,249,1197,4.8,17,29,412,14.2,2,278,1609,5.8,19,marcus-lattimore-1,1
+2011,South Carolina,SEC,SO,RB,7,163,818,5.0,10,19,182,9.6,1,182,1000,5.5,11,marcus-lattimore-1,1
+2012,South Carolina,SEC,JR,RB,9,143,662,4.6,11,26,173,6.7,0,169,835,4.9,11,marcus-lattimore-1,1
+2009,Auburn,SEC,FR,RB,11,105,565,5.4,4,6,58,9.7,0,111,623,5.6,4,onterio-mccalebb-1,1
+2010,Auburn,SEC,SO,RB,14,95,810,8.5,9,7,86,12.3,1,102,896,8.8,10,onterio-mccalebb-1,1
+2011,Auburn,SEC,JR,RB,13,112,641,5.7,5,32,344,10.8,2,144,985,6.8,7,onterio-mccalebb-1,1
+2012,Auburn,SEC,SR,RB,12,94,570,6.1,6,18,132,7.3,0,112,702,6.3,6,onterio-mccalebb-1,0
+2009,Texas A&M,Big 12,FR,RB,12,166,844,5.1,10,15,66,4.4,0,181,910,5.0,10,christine-michael-1,1
+2010,Texas A&M,Big 12,SO,RB,8,126,631,5.0,4,13,174,13.4,0,139,805,5.8,4,christine-michael-1,1
+2011,Texas A&M,Big 12,JR,RB,9,149,899,6.0,8,8,35,4.4,1,157,934,5.9,9,christine-michael-1,1
+2012,Texas A&M,SEC,SR,RB,11,88,417,4.7,12,8,48,6.0,0,96,465,4.8,12,christine-michael-1,1
+2010,Oklahoma State,Big 12,FR,RB,13,82,452,5.5,2,37,427,11.5,1,119,879,7.4,3,joseph-randle-1,1
+2011,Oklahoma State,Big 12,SO,RB,13,208,1216,5.8,24,43,266,6.2,2,251,1482,5.9,26,joseph-randle-1,1
+2012,Oklahoma State,Big 12,JR,RB,13,274,1417,5.2,14,28,224,8.0,0,302,1641,5.4,14,joseph-randle-1,1
+2009,Notre Dame,Ind,FR,RB,12,29,160,5.5,0,6,43,7.2,0,35,203,5.8,0,theo-riddick-1,0
+2010,Notre Dame,Ind,SO,WR,9,11,29,2.6,0,40,414,10.4,3,51,443,8.7,3,theo-riddick-1,1
+2011,Notre Dame,Ind,JR,WR,11,14,63,4.5,0,38,436,11.5,3,52,499,9.6,3,theo-riddick-1,1
+2012,Notre Dame,Ind,SR,RB,13,190,917,4.8,5,36,370,10.3,2,226,1287,5.7,7,theo-riddick-1,1
+2009,Fresno State,WAC,FR,RB,13,82,479,5.8,4,,,,,82,479,5.8,4,robbie-rouse-1,1
+2010,Fresno State,WAC,SO,RB,11,205,1129,5.5,8,15,131,8.7,2,220,1260,5.7,10,robbie-rouse-1,1
+2011,Fresno State,WAC,JR,RB,13,329,1549,4.7,13,32,228,7.1,1,361,1777,4.9,14,robbie-rouse-1,0
+2012,Fresno State,MWC,SR,RB,13,282,1490,5.3,12,63,435,6.9,2,345,1925,5.6,14,robbie-rouse-1,1
+2009,Vanderbilt,SEC,FR,RB,10,107,478,4.5,3,7,72,10.3,0,114,550,4.8,3,zac-stacy-1,0
+2010,Vanderbilt,SEC,SO,RB,9,66,331,5.0,3,9,32,3.6,0,75,363,4.8,3,zac-stacy-1,0
+2011,Vanderbilt,SEC,JR,RB,13,201,1193,5.9,14,20,106,5.3,0,221,1299,5.9,14,zac-stacy-1,1
+2012,Vanderbilt,SEC,SR,RB,13,207,1141,5.5,10,10,205,20.5,0,217,1346,6.2,10,zac-stacy-1,1
+2009,Stanford,Pac-10,FR,RB,13,56,303,5.4,2,3,43,14.3,0,59,346,5.9,2,stepfan-taylor-1,1
+2010,Stanford,Pac-10,SO,RB,13,223,1137,5.1,15,28,266,9.5,1,251,1403,5.6,16,stepfan-taylor-1,1
+2011,Stanford,Pac-12,JR,RB,13,242,1330,5.5,10,25,182,7.3,2,267,1512,5.7,12,stepfan-taylor-1,1
+2012,Stanford,Pac-12,SR,RB,14,322,1530,4.8,13,41,287,7.0,2,363,1817,5.0,15,stepfan-taylor-1,1
+2009,Florida State,ACC,FR,RB,11,23,120,5.2,2,2,10,5.0,0,25,130,5.2,2,chris-thompson-1,1
+2010,Florida State,ACC,SO,RB,14,134,845,6.3,6,19,155,8.2,1,153,1000,6.5,7,chris-thompson-1,1
+2011,Florida State,ACC,JR,RB,5,29,83,2.9,1,3,17,5.7,0,32,100,3.1,1,chris-thompson-1,1
+2012,Florida State,ACC,SR,RB,9,91,687,7.5,5,21,248,11.8,0,112,935,8.3,5,chris-thompson-1,1
+2009,Texas Christian,MWC,FR,RB,13,105,676,6.4,8,3,19,6.3,0,108,695,6.4,8,matthew-tucker-1,1
+2010,Texas Christian,MWC,SO,RB,13,148,709,4.8,7,8,97,12.1,0,156,806,5.2,7,matthew-tucker-1,1
+2011,Texas Christian,MWC,JR,RB,13,123,702,5.7,12,8,77,9.6,0,131,779,5.9,12,matthew-tucker-1,1
+2012,Texas Christian,Big 12,SR,RB,12,118,515,4.4,6,10,69,6.9,1,128,584,4.6,7,matthew-tucker-1,1
+2010,LSU,SEC,FR,RB,11,24,175,7.3,1,10,101,10.1,0,34,276,8.1,1,spencer-ware-1,1
+2011,LSU,SEC,SO,RB,13,177,707,4.0,8,11,73,6.6,1,188,780,4.1,9,spencer-ware-1,1
+2012,LSU,SEC,JR,RB,12,94,367,3.9,1,18,230,12.8,1,112,597,5.3,2,spencer-ware-1,1
+2009,Utah State,WAC,FR,RB,11,2,10,5.0,0,,,,,2,10,5.0,0,kerwynn-williams-1,0
+2010,Utah State,WAC,SO,RB,12,81,451,5.6,4,12,110,9.2,0,93,561,6.0,4,kerwynn-williams-1,0
+2011,Utah State,WAC,JR,RB,13,81,542,6.7,3,7,63,9.0,0,88,605,6.9,3,kerwynn-williams-1,1
+2012,Utah State,WAC,SR,RB,13,218,1512,6.9,15,45,697,15.5,5,263,2209,8.4,20,kerwynn-williams-1,1
+2009,Cincinnati,Big East,FR,RB,1,5,12,2.4,0,1,19,19.0,0,6,31,5.2,0,george-winn-1,1
+2010,Cincinnati,Big East,JR,RB,10,33,145,4.4,0,1,6,6.0,0,34,151,4.4,0,george-winn-1,0
+2011,Cincinnati,Big East,SR,RB,13,40,219,5.5,2,2,6,3.0,0,42,225,5.4,2,george-winn-1,1
+2012,Cincinnati,Big East,SR,RB,13,243,1334,5.5,13,15,128,8.5,0,258,1462,5.7,13,george-winn-1,1
+2010,Notre Dame,Ind,SO,RB,13,119,603,5.1,3,20,170,8.5,2,139,773,5.6,5,cierre-wood-1,1
+2011,Notre Dame,Ind,JR,RB,13,217,1102,5.1,9,27,189,7.0,0,244,1291,5.3,9,cierre-wood-1,1
+2012,Notre Dame,Ind,SR,RB,11,114,742,6.5,4,5,25,5.0,0,119,767,6.4,4,cierre-wood-1,1
+2010,Western Kentucky,Sun Belt,FR,RB,9,32,174,5.4,2,5,37,7.4,0,37,211,5.7,2,antonio-andrews-1,0
+2011,Western Kentucky,Sun Belt,SO,RB,8,15,42,2.8,0,2,16,8.0,0,17,58,3.4,0,antonio-andrews-1,0
+2012,Western Kentucky,Sun Belt,JR,RB,13,304,1728,5.7,11,37,432,11.7,3,341,2160,6.3,14,antonio-andrews-1,1
+2013,Western Kentucky,Sun Belt,SR,RB,12,267,1730,6.5,16,41,478,11.7,0,308,2208,7.2,16,antonio-andrews-1,0
+2013,Colorado State,MWC,SO,RB,14,281,1741,6.2,31,8,59,7.4,0,289,1800,6.2,31,kapri-bibbs-1,1
+2010,LSU,SEC,,RB,11,20,101,5.1,1,1,1,1.0,0,21,102,4.9,1,alfred-blue-1,1
+2011,LSU,SEC,SO,RB,13,78,539,6.9,7,3,-3,-1.0,0,81,536,6.6,7,alfred-blue-1,1
+2012,LSU,SEC,JR,RB,4,40,270,6.8,2,7,45,6.4,0,47,315,6.7,2,alfred-blue-1,1
+2013,LSU,SEC,SR,RB,13,71,343,4.8,1,5,62,12.4,0,76,405,5.3,1,alfred-blue-1,1
+2011,Arizona,Pac-12,FR,RB,11,91,425,4.7,6,15,203,13.5,2,106,628,5.9,8,kadeem-carey-1,0
+2012,Arizona,Pac-12,SO,RB,13,303,1929,6.4,23,36,303,8.4,1,339,2232,6.6,24,kadeem-carey-1,1
+2013,Arizona,Pac-12,JR,RB,12,349,1885,5.4,19,26,173,6.7,1,375,2058,5.5,20,kadeem-carey-1,1
+2010,UNLV,MWC,FR,RB,13,144,546,3.8,6,13,98,7.5,2,157,644,4.1,8,tim-cornett-1,0
+2011,UNLV,MWC,SO,RB,11,119,671,5.6,7,10,54,5.4,0,129,725,5.6,7,tim-cornett-1,0
+2012,UNLV,MWC,JR,RB,13,242,1232,5.1,7,14,108,7.7,0,256,1340,5.2,7,tim-cornett-1,0
+2013,UNLV,MWC,SR,RB,13,264,1284,4.9,15,30,164,5.5,0,294,1448,4.9,15,tim-cornett-1,1
+2010,Toledo,MAC,FR,RB,9,38,224,5.9,1,5,39,7.8,0,43,263,6.1,1,david-fluellen-1,1
+2011,Toledo,MAC,SO,RB,13,97,493,5.1,4,16,155,9.7,2,113,648,5.7,6,david-fluellen-1,1
+2012,Toledo,MAC,JR,RB,12,259,1498,5.8,13,32,246,7.7,0,291,1744,6.0,13,david-fluellen-1,1
+2013,Toledo,MAC,SR,RB,9,167,1121,6.7,10,27,222,8.2,0,194,1343,6.9,10,david-fluellen-1,0
+2011,Florida State,ACC,FR,RB,12,120,579,4.8,8,15,111,7.4,0,135,690,5.1,8,devonta-freeman-1,1
+2012,Florida State,ACC,SO,RB,14,111,660,5.9,8,10,86,8.6,0,121,746,6.2,8,devonta-freeman-1,1
+2013,Florida State,ACC,JR,RB,14,173,1016,5.9,14,22,278,12.6,1,195,1294,6.6,15,devonta-freeman-1,1
+2009,Stanford,Pac-10,FR,RB,12,22,87,4.0,1,2,39,19.5,0,24,126,5.3,1,tyler-gaffney-1,1
+2010,Stanford,Pac-10,SO,RB,10,60,255,4.3,4,3,60,20.0,2,63,315,5.0,6,tyler-gaffney-1,1
+2011,Stanford,Pac-12,JR,RB,13,74,449,6.1,7,12,79,6.6,1,86,528,6.1,8,tyler-gaffney-1,1
+2013,Stanford,Pac-12,SR,RB,14,330,1709,5.2,21,15,86,5.7,1,345,1795,5.2,22,tyler-gaffney-1,1
+2012,Arizona State,Pac-12,JR,RB,13,103,679,6.6,11,41,425,10.4,8,144,1104,7.7,19,marion-grice-1,1
+2013,Arizona State,Pac-12,,RB,11,191,996,5.2,14,50,438,8.8,6,241,1434,6.0,20,marion-grice-1,1
+2012,LSU,SEC,FR,RB,12,142,755,5.3,12,8,73,9.1,0,150,828,5.5,12,jeremy-hill-2,1
+2013,LSU,SEC,SO,RB,12,203,1401,6.9,16,18,181,10.1,0,221,1582,7.2,16,jeremy-hill-2,1
+2010,Ohio State,Big Ten,FR,RB,7,24,141,5.9,0,,,,,24,141,5.9,0,carlos-hyde-1,1
+2011,Ohio State,Big Ten,SO,RB,13,106,566,5.3,6,10,73,7.3,0,116,639,5.5,6,carlos-hyde-1,1
+2012,Ohio State,Big Ten,JR,RB,10,185,970,5.2,16,8,51,6.4,1,193,1021,5.3,17,carlos-hyde-1,0
+2013,Ohio State,Big Ten,SR,RB,11,208,1521,7.3,15,16,147,9.2,3,224,1668,7.4,18,carlos-hyde-1,1
+2010,Miami (FL),ACC,FR,RB,10,9,119,13.2,1,1,9,9.0,0,10,128,12.8,1,storm-johnson-1,1
+2012,UCF,CUSA,SO,RB,13,113,507,4.5,4,10,20,2.0,0,123,527,4.3,4,storm-johnson-1,1
+2013,UCF,American,JR,RB,13,213,1139,5.3,14,30,260,8.7,3,243,1399,5.8,17,storm-johnson-1,1
+2010,Missouri,Big 12,FR,RB,13,76,437,5.8,5,4,19,4.8,0,80,456,5.7,5,henry-josey-1,1
+2011,Missouri,Big 12,SO,RB,10,145,1168,8.1,9,10,91,9.1,0,155,1259,8.1,9,henry-josey-1,1
+2013,Missouri,SEC,JR,HB,14,174,1166,6.7,16,10,65,6.5,1,184,1231,6.7,17,henry-josey-1,1
+2011,Florida State,ACC,FR,RB,12,35,160,4.6,1,2,14,7.0,0,37,174,4.7,1,james-wilder-jr-1,1
+2012,Florida State,ACC,SO,RB,14,110,640,5.8,11,19,141,7.4,2,129,781,6.1,13,james-wilder-jr-1,1
+2013,Florida State,ACC,JR,RB,13,81,563,7.0,8,3,27,9.0,0,84,590,7.0,8,james-wilder-jr-1,1
+2011,Auburn,SEC,FR,RB,12,28,161,5.8,1,,,,,28,161,5.8,1,tre-mason-1,1
+2012,Auburn,SEC,SO,RB,12,171,1002,5.9,8,7,86,12.3,0,178,1088,6.1,8,tre-mason-1,0
+2013,Auburn,SEC,JR,RB,14,317,1816,5.7,23,12,163,13.6,1,329,1979,6.0,24,tre-mason-1,1
+2011,San Diego State,MWC,FR,RB,6,42,253,6.0,3,2,3,1.5,1,44,256,5.8,4,adam-muema-1,1
+2012,San Diego State,MWC,SO,RB,13,237,1458,6.2,16,9,147,16.3,1,246,1605,6.5,17,adam-muema-1,1
+2013,San Diego State,MWC,JR,RB,13,256,1244,4.9,15,18,98,5.4,0,274,1342,4.9,15,adam-muema-1,1
+2010,Mississippi State,SEC,FR,RB,13,101,566,5.6,3,9,247,27.4,3,110,813,7.4,6,ladarius-perkins-1,1
+2011,Mississippi State,SEC,SO,RB,13,87,422,4.9,2,13,59,4.5,2,100,481,4.8,4,ladarius-perkins-1,1
+2012,Mississippi State,SEC,JR,RB,12,205,1024,5.0,8,19,160,8.4,2,224,1184,5.3,10,ladarius-perkins-1,1
+2013,Mississippi State,SEC,SR,RB,12,137,542,4.0,2,27,248,9.2,3,164,790,4.8,5,ladarius-perkins-1,1
+2010,Penn State,Big Ten,,RB,12,77,437,5.7,2,4,27,6.8,0,81,464,5.7,2,silas-redd-1,1
+2011,Penn State,Big Ten,SO,RB,13,244,1241,5.1,7,9,40,4.4,0,253,1281,5.1,7,silas-redd-1,1
+2012,USC,Pac-12,JR,RB,12,167,905,5.4,9,9,113,12.6,1,176,1018,5.8,10,silas-redd-1,1
+2013,USC,Pac-12,SR,RB,6,81,376,4.6,1,10,45,4.5,1,91,421,4.6,2,silas-redd-1,1
+2011,Washington,Pac-12,FR,RB,12,28,187,6.7,1,6,14,2.3,0,34,201,5.9,1,bishop-sankey-1,1
+2012,Washington,Pac-12,SO,RB,13,289,1439,5.0,16,33,249,7.5,0,322,1688,5.2,16,bishop-sankey-1,1
+2013,Washington,Pac-12,JR,RB,13,327,1870,5.7,20,28,304,10.9,1,355,2174,6.1,21,bishop-sankey-1,1
+2012,Baylor,Big 12,SO,RB,13,131,1012,7.7,7,9,107,11.9,1,140,1119,8.0,8,lache-seastrunk-1,1
+2013,Baylor,Big 12,JR,RB,11,158,1177,7.4,11,0,0,,0,158,1177,7.4,11,lache-seastrunk-1,1
+2011,Syracuse,Big East,SO,RB,12,37,134,3.6,1,1,4,4.0,0,38,138,3.6,1,jerome-smith-1,0
+2012,Syracuse,Big East,JR,RB,13,227,1171,5.2,3,8,83,10.4,0,235,1254,5.3,3,jerome-smith-1,1
+2013,Syracuse,ACC,JR,RB,13,200,914,4.6,12,8,74,9.3,1,208,988,4.8,13,jerome-smith-1,1
+2011,Oregon,Pac-12,FR,RB,14,55,595,10.8,7,46,605,13.2,9,101,1200,11.9,16,deanthony-thomas-1,1
+2012,Oregon,Pac-12,SO,RB,13,92,701,7.6,11,45,445,9.9,5,137,1146,8.4,16,deanthony-thomas-1,1
+2013,Oregon,Pac-12,JR,RB,10,96,594,6.2,8,22,246,11.2,1,118,840,7.1,9,deanthony-thomas-1,1
+2010,Wisconsin,Big Ten,FR,RB,12,156,1052,6.7,14,11,88,8.0,0,167,1140,6.8,14,james-white-2,1
+2011,Wisconsin,Big Ten,SO,RB,13,141,713,5.1,6,15,150,10.0,0,156,863,5.5,6,james-white-2,1
+2012,Wisconsin,Big Ten,JR,RB,14,125,806,6.4,12,8,132,16.5,1,133,938,7.1,13,james-white-2,1
+2013,Wisconsin,Big Ten,SR,RB,13,221,1444,6.5,13,39,300,7.7,2,260,1744,6.7,15,james-white-2,1
+2010,Boston College,ACC,FR,RB,12,95,461,4.9,2,4,15,3.8,0,99,476,4.8,2,andre-williams-2,1
+2011,Boston College,ACC,SO,RB,10,124,517,4.2,4,2,11,5.5,0,126,528,4.2,4,andre-williams-2,0
+2012,Boston College,ACC,JR,RB,9,130,584,4.5,4,4,34,8.5,0,134,618,4.6,4,andre-williams-2,0
+2013,Boston College,ACC,SR,RB,13,355,2177,6.1,18,0,0,,0,355,2177,6.1,18,andre-williams-2,1
+2012,Oklahoma,Big 12,JR,RB,13,176,946,5.4,11,34,320,9.4,1,210,1266,6.0,12,damien-williams-1,1
+2013,Oklahoma,Big 12,SR,RB,9,114,553,4.9,7,9,90,10.0,0,123,643,5.2,7,damien-williams-1,1
+2011,Nebraska,Big Ten,FR,RB,13,42,150,3.6,3,1,11,11.0,0,43,161,3.7,3,ameer-abdullah-1,1
+2012,Nebraska,Big Ten,SO,RB,14,226,1137,5.0,8,24,178,7.4,2,250,1315,5.3,10,ameer-abdullah-1,1
+2013,Nebraska,Big Ten,JR,RB,13,281,1690,6.0,9,26,232,8.9,2,307,1922,6.3,11,ameer-abdullah-1,1
+2014,Nebraska,Big Ten,SR,RB,13,264,1611,6.1,19,22,269,12.2,3,286,1880,6.6,22,ameer-abdullah-1,0
+2012,Boise State,MWC,FR,RB,11,82,548,6.7,4,1,14,14.0,0,83,562,6.8,4,jay-ajayi-1,1
+2013,Boise State,MWC,SO,RB,13,249,1425,5.7,18,22,222,10.1,1,271,1647,6.1,19,jay-ajayi-1,1
+2014,Boise State,MWC,JR,RB,14,347,1823,5.3,28,50,535,10.7,4,397,2358,5.9,32,jay-ajayi-1,1
+2012,USC,Pac-12,FR,RB,3,6,32,5.3,0,,,,,6,32,5.3,0,javorius-allen-1,1
+2013,USC,Pac-12,SO,RB,13,135,785,5.8,14,22,252,11.5,1,157,1037,6.6,15,javorius-allen-1,1
+2014,USC,Pac-12,JR,RB,13,276,1489,5.4,11,41,458,11.2,1,317,1947,6.1,12,javorius-allen-1,1
+2013,Auburn,SEC,JR,RB,13,91,610,6.7,6,1,4,4.0,0,92,614,6.7,6,cameron-artis-payne-1,1
+2014,Auburn,SEC,SR,RB,13,303,1608,5.3,13,13,147,11.3,0,316,1755,5.6,13,cameron-artis-payne-1,1
+2011,Texas,Big 12,FR,RB,10,172,742,4.3,5,3,17,5.7,0,175,759,4.3,5,malcolm-brown-2,1
+2012,Texas,Big 12,SO,RB,8,61,324,5.3,4,15,112,7.5,1,76,436,5.7,5,malcolm-brown-2,1
+2013,Texas,Big 12,SO,RB,13,214,904,4.2,9,17,195,11.5,2,231,1099,4.8,11,malcolm-brown-2,1
+2014,Texas,Big 12,SR,RB,13,183,708,3.9,6,16,58,3.6,0,199,766,3.8,6,malcolm-brown-2,1
+2010,Louisville,Big East,,QB,10,20,59,3.0,0,3,32,10.7,0,23,91,4.0,0,dominique-brown-1,1
+2011,Louisville,Big East,SO,QB,12,140,533,3.8,4,16,98,6.1,1,156,631,4.0,5,dominique-brown-1,1
+2013,Louisville,American,JR,RB,13,163,825,5.1,8,24,228,9.5,1,187,1053,5.6,9,dominique-brown-1,1
+2014,Louisville,ACC,SR,RB,8,96,378,3.9,4,7,85,12.1,0,103,463,4.5,4,dominique-brown-1,1
+2012,Texas Christian,Big 12,FR,RB,13,123,582,4.7,0,23,152,6.6,1,146,734,5.0,1,bj-catalon-1,1
+2013,Texas Christian,Big 12,SO,RB,11,107,569,5.3,6,11,78,7.1,0,118,647,5.5,6,bj-catalon-1,0
+2014,Texas Christian,Big 12,JR,RB,8,98,493,5.0,10,14,163,11.6,1,112,656,5.9,11,bj-catalon-1,1
+2011,Minnesota,Big Ten,,RB,4,10,57,5.7,0,,,,,10,57,5.7,0,david-cobb-1,0
+2012,Minnesota,Big Ten,SO,RB,5,1,8,8.0,0,1,3,3.0,0,2,11,5.5,0,david-cobb-1,1
+2013,Minnesota,Big Ten,JR,RB,13,237,1202,5.1,7,17,174,10.2,0,254,1376,5.4,7,david-cobb-1,0
+2014,Minnesota,Big Ten,SR,RB,13,315,1629,5.2,13,16,162,10.1,0,331,1791,5.4,13,david-cobb-1,1
+2012,Indiana,Big Ten,FR,RB,12,51,225,4.4,1,10,49,4.9,0,61,274,4.5,1,tevin-coleman-1,0
+2013,Indiana,Big Ten,SO,RB,9,131,958,7.3,12,19,193,10.2,0,150,1151,7.7,12,tevin-coleman-1,0
+2014,Indiana,Big Ten,JR,RB,12,270,2036,7.5,15,25,141,5.6,0,295,2177,7.4,15,tevin-coleman-1,0
+2012,South Carolina,SEC,FR,RB,,52,275,5.3,2,4,35,8.8,0,56,310,5.5,2,mike-davis-9,1
+2013,South Carolina,SEC,SO,RB,12,203,1183,5.8,11,34,352,10.4,0,237,1535,6.5,11,mike-davis-9,1
+2014,South Carolina,SEC,JR,RB,13,199,982,4.9,9,32,368,11.5,2,231,1350,5.8,11,mike-davis-9,1
+2010,Auburn,SEC,FR,RB,14,182,1093,6.0,5,1,9,9.0,0,183,1102,6.0,5,michael-dyer-1,1
+2011,Auburn,SEC,SO,RB,12,242,1242,5.1,10,2,7,3.5,0,244,1249,5.1,10,michael-dyer-1,1
+2013,Louisville,American,JR,RB,7,44,223,5.1,2,2,8,4.0,0,46,231,5.0,2,michael-dyer-1,1
+2014,Louisville,ACC,SR,RB,8,110,481,4.4,5,3,40,13.3,0,113,521,4.6,5,michael-dyer-1,1
+2011,Ball State,MAC,,,12,178,786,4.4,11,11,43,3.9,0,189,829,4.4,11,jahwan-edwards-1,0
+2012,Ball State,MAC,SO,RB,13,232,1410,6.1,14,10,51,5.1,0,242,1461,6.0,14,jahwan-edwards-1,1
+2013,Ball State,MAC,JR,RB,11,212,1110,5.2,14,7,31,4.4,0,219,1141,5.2,14,jahwan-edwards-1,1
+2014,Ball State,MAC,SR,RB,12,262,1252,4.8,12,29,236,8.1,0,291,1488,5.1,12,jahwan-edwards-1,0
+2011,Wisconsin,Big Ten,FR,RB,4,20,98,4.9,1,,,,,20,98,4.9,1,melvin-gordon-1,1
+2012,Wisconsin,Big Ten,FR,RB,14,62,621,10.0,3,2,65,32.5,1,64,686,10.7,4,melvin-gordon-1,1
+2013,Wisconsin,Big Ten,SO,RB,13,206,1609,7.8,12,1,10,10.0,0,207,1619,7.8,12,melvin-gordon-1,1
+2014,Wisconsin,Big Ten,JR,RB,14,343,2587,7.5,29,19,153,8.1,3,362,2740,7.6,32,melvin-gordon-1,1
+2012,Georgia,SEC,FR,RB,14,222,1385,6.2,17,16,117,7.3,0,238,1502,6.3,17,todd-gurley-1,1
+2013,Georgia,SEC,SO,RB,10,165,989,6.0,10,37,441,11.9,6,202,1430,7.1,16,todd-gurley-1,1
+2014,Georgia,SEC,JR,RB,6,123,911,7.4,9,12,57,4.8,0,135,968,7.2,9,todd-gurley-1,1
+2012,Alabama,SEC,FR,RB,5,21,88,4.2,0,2,18,9.0,0,23,106,4.6,0,dee-hart-1,1
+2013,Alabama,SEC,,RB,9,22,78,3.5,1,0,0,,0,22,78,3.5,1,dee-hart-1,1
+2014,Colorado State,MWC,SR,RB,13,194,1275,6.6,16,18,189,10.5,2,212,1464,6.9,18,dee-hart-1,1
+2011,Nebraska,Big Ten,FR,RB,7,25,114,4.6,1,1,1,1.0,0,26,115,4.4,1,braylon-heard-1,1
+2012,Nebraska,Big Ten,SO,RB,12,52,348,6.7,3,3,18,6.0,0,55,366,6.7,3,braylon-heard-1,1
+2014,Kentucky,SEC,JR,RB,11,72,366,5.1,4,21,108,5.1,0,93,474,5.1,4,braylon-heard-1,0
+2011,LSU,SEC,FR,RB,13,62,336,5.4,8,3,13,4.3,1,65,349,5.4,9,kenny-hilliard-1,1
+2012,LSU,SEC,SO,RB,12,82,464,5.7,6,3,21,7.0,0,85,485,5.7,6,kenny-hilliard-1,1
+2013,LSU,SEC,JR,RB,12,68,310,4.6,7,1,0,0.0,0,69,310,4.5,7,kenny-hilliard-1,1
+2014,LSU,SEC,SR,RB,11,90,447,5.0,6,4,35,8.8,0,94,482,5.1,6,kenny-hilliard-1,1
+2012,Miami (FL),ACC,FR,RB,12,139,947,6.8,10,27,221,8.2,1,166,1168,7.0,11,duke-johnson-1,0
+2013,Miami (FL),ACC,SO,RB,8,145,920,6.3,6,4,77,19.3,0,149,997,6.7,6,duke-johnson-1,1
+2014,Miami (FL),ACC,JR,RB,13,242,1652,6.8,10,38,421,11.1,3,280,2073,7.4,13,duke-johnson-1,1
+2012,Florida,SEC,FR,RB,12,52,275,5.3,3,3,10,3.3,0,55,285,5.2,3,matt-jones-3,1
+2013,Florida,SEC,SO,RB,5,79,339,4.3,2,5,25,5.0,0,84,364,4.3,2,matt-jones-3,0
+2014,Florida,SEC,JR,RB,11,166,817,4.9,6,11,65,5.9,1,177,882,5.0,7,matt-jones-3,1
+2011,Michigan State,Big Ten,FR,DB,13,0,0,,0,0,0,,0,0,0,,0,jeremy-langford-1,1
+2012,Michigan State,Big Ten,SO,RB,9,9,23,2.6,0,,,,,9,23,2.6,0,jeremy-langford-1,1
+2013,Michigan State,Big Ten,JR,RB,14,292,1422,4.9,18,28,157,5.6,1,320,1579,4.9,19,jeremy-langford-1,1
+2014,Michigan State,Big Ten,SR,RB,13,276,1522,5.5,22,11,62,5.6,0,287,1584,5.5,22,jeremy-langford-1,1
+2011,LSU,SEC,FR,RB,5,27,133,4.9,1,,,,,27,133,4.9,1,terrence-magee-1,1
+2012,LSU,SEC,SO,WR,9,1,0,0.0,0,1,7,7.0,0,2,7,3.5,0,terrence-magee-1,1
+2013,LSU,SEC,JR,RB,13,86,626,7.3,8,6,49,8.2,0,92,675,7.3,8,terrence-magee-1,1
+2014,LSU,SEC,SR,RB,13,112,571,5.1,3,17,171,10.1,0,129,742,5.8,3,terrence-magee-1,1
+2010,Missouri,Big 12,FR,RB,12,22,181,8.2,2,2,5,2.5,0,24,186,7.8,2,marcus-murphy-1,1
+2012,Missouri,SEC,SO,RB,12,46,251,5.5,1,9,22,2.4,0,55,273,5.0,1,marcus-murphy-1,0
+2013,Missouri,SEC,JR,HB,14,92,601,6.5,9,11,79,7.2,1,103,680,6.6,10,marcus-murphy-1,1
+2014,Missouri,SEC,SR,HB,14,177,924,5.2,4,28,212,7.6,1,205,1136,5.5,5,marcus-murphy-1,1
+2011,Michigan,Big Ten,FR,RB,10,13,79,6.1,0,,,,,13,79,6.1,0,thomas-rawls-1,1
+2012,Michigan,Big Ten,SO,RB,8,57,242,4.2,4,1,6,6.0,0,58,248,4.3,4,thomas-rawls-1,1
+2013,Michigan,Big Ten,JR,RB,1,3,12,4.0,1,0,0,,0,3,12,4.0,1,thomas-rawls-1,1
+2014,Central Michigan,MAC,SR,RB,9,210,1103,5.3,10,10,93,9.3,0,220,1196,5.4,10,thomas-rawls-1,1
+2012,Mississippi State,SEC,FR,RB,12,55,335,6.1,1,3,8,2.7,0,58,343,5.9,1,josh-robinson-2,1
+2013,Mississippi State,SEC,SO,RB,13,78,459,5.9,3,12,115,9.6,0,90,574,6.4,3,josh-robinson-2,1
+2014,Mississippi State,SEC,JR,RB,13,190,1203,6.3,11,28,370,13.2,1,218,1573,7.2,12,josh-robinson-2,1
+2011,Florida State,ACC,FR,DB,12,,,,,,,,,0,0,,0,karlos-williams-1,1
+2012,Florida State,ACC,SO,DB,13,,,,,,,,,0,0,,0,karlos-williams-1,1
+2013,Florida State,ACC,SO,DB,14,91,730,8.0,11,8,63,7.9,0,99,793,8.0,11,karlos-williams-1,1
+2014,Florida State,ACC,SR,RB,12,150,689,4.6,11,29,265,9.1,1,179,954,5.3,12,karlos-williams-1,1
+2012,Texas A&M,SEC,FR,RB,13,65,376,5.8,5,12,171,14.3,0,77,547,7.1,5,trey-williams-2,1
+2013,Texas A&M,SEC,SO,RB,11,58,407,7.0,6,10,54,5.4,0,68,461,6.8,6,trey-williams-2,1
+2014,Texas A&M,SEC,JR,RB,12,81,560,6.9,7,16,105,6.6,1,97,665,6.9,8,trey-williams-2,1
+2012,Alabama,SEC,FR,RB,14,175,1108,6.3,12,11,131,11.9,1,186,1239,6.7,13,tj-yeldon-1,1
+2013,Alabama,SEC,,RB,12,207,1235,6.0,14,20,183,9.2,0,227,1418,6.2,14,tj-yeldon-1,1
+2014,Alabama,SEC,JR,RB,13,194,979,5.0,11,15,180,12.0,1,209,1159,5.5,12,tj-yeldon-1,1
+2014,Auburn,SEC,FR,RB,5,10,54,5.4,0,0,0,,0,10,54,5.4,0,peyton-barber-1,1
+2015,Auburn,SEC,SO,RB,13,238,1017,4.3,13,11,112,10.2,0,249,1129,4.5,13,peyton-barber-1,1
+2014,Utah,Pac-12,JR,RB,13,292,1512,5.2,10,43,306,7.1,2,335,1818,5.4,12,devontae-booker-1,1
+2015,Utah,Pac-12,SR,RB,10,268,1261,4.7,11,37,316,8.5,0,305,1577,5.2,11,devontae-booker-1,1
+2011,Oregon,Pac-12,FR,RB,10,45,254,5.6,1,1,6,6.0,0,46,260,5.7,1,tra-carson-1,1
+2013,Texas A&M,SEC,SO,RB,11,62,329,5.3,7,3,38,12.7,0,65,367,5.6,7,tra-carson-1,1
+2014,Texas A&M,SEC,JR,RB,12,124,581,4.7,5,9,78,8.7,0,133,659,5.0,5,tra-carson-1,1
+2015,Texas A&M,SEC,SR,RB,13,242,1165,4.8,7,29,183,6.3,1,271,1348,5.0,8,tra-carson-1,1
+2013,Arkansas,SEC,FR,RB,12,190,1026,5.4,4,11,63,5.7,0,201,1089,5.4,4,alex-collins-1,0
+2014,Arkansas,SEC,SO,RB,13,204,1100,5.4,12,3,9,3.0,0,207,1109,5.4,12,alex-collins-1,1
+2015,Arkansas,SEC,JR,RB,13,271,1577,5.8,20,13,95,7.3,0,284,1672,5.9,20,alex-collins-1,1
+2012,Louisiana Tech,WAC,FR,RB,12,200,1194,6.0,27,10,35,3.5,1,210,1229,5.9,28,kenneth-dixon-1,0
+2013,Louisiana Tech,CUSA,SO,RB,10,151,917,6.1,4,14,85,6.1,1,165,1002,6.1,5,kenneth-dixon-1,0
+2014,Louisiana Tech,CUSA,JR,RB,14,253,1299,5.1,22,30,385,12.8,6,283,1684,6.0,28,kenneth-dixon-1,1
+2015,Louisiana Tech,CUSA,SR,RB,11,198,1073,5.4,19,33,464,14.1,7,231,1537,6.7,26,kenneth-dixon-1,1
+2012,Alabama,SEC,FR,RB,12,42,281,6.7,5,,,,,42,281,6.7,5,kenyan-drake-1,1
+2013,Alabama,SEC,,RB,11,92,694,7.5,8,12,135,11.3,1,104,829,8.0,9,kenyan-drake-1,1
+2014,Alabama,SEC,JR,RB,5,22,112,5.1,4,5,159,31.8,2,27,271,10.0,6,kenyan-drake-1,1
+2015,Alabama,SEC,SR,RB,13,77,408,5.3,1,29,276,9.5,1,106,684,6.5,2,kenyan-drake-1,1
+2013,Ohio State,Big Ten,FR,RB,7,30,262,8.7,2,3,23,7.7,1,33,285,8.6,3,ezekiel-elliott-1,1
+2014,Ohio State,Big Ten,SO,RB,15,273,1878,6.9,18,28,220,7.9,0,301,2098,7.0,18,ezekiel-elliott-1,1
+2015,Ohio State,Big Ten,JR,RB,13,289,1821,6.3,23,27,206,7.6,0,316,2027,6.4,23,ezekiel-elliott-1,1
+2011,San Jose State,WAC,FR,RB,12,29,107,3.7,1,3,17,5.7,0,32,124,3.9,1,tyler-ervin-1,0
+2012,San Jose State,WAC,SO,RB,9,45,205,4.6,1,10,126,12.6,1,55,331,6.0,2,tyler-ervin-1,1
+2013,San Jose State,MWC,JR,RB,1,2,2,1.0,0,0,0,,0,2,2,1.0,0,tyler-ervin-1,0
+2014,San Jose State,MWC,SR,RB,12,158,888,5.6,4,29,306,10.6,1,187,1194,6.4,5,tyler-ervin-1,0
+2015,San Jose State,MWC,SR,RB,13,294,1601,5.4,13,45,334,7.4,2,339,1935,5.7,15,tyler-ervin-1,1
+2011,Illinois,Big Ten,FR,RB,3,14,52,3.7,0,2,14,7.0,0,16,66,4.1,0,josh-ferguson-3,1
+2012,Illinois,Big Ten,FR,RB,10,75,312,4.2,0,29,251,8.7,0,104,563,5.4,0,josh-ferguson-3,0
+2013,Illinois,Big Ten,SO,RB,12,141,779,5.5,7,50,535,10.7,4,191,1314,6.9,11,josh-ferguson-3,0
+2014,Illinois,Big Ten,JR,RB,13,146,735,5.0,8,50,427,8.5,2,196,1162,5.9,10,josh-ferguson-3,1
+2015,Illinois,Big Ten,SR,RB,9,129,708,5.5,3,37,280,7.6,2,166,988,6.0,5,josh-ferguson-3,0
+2013,Alabama,SEC,FR,RB,10,35,382,10.9,3,1,61,61.0,1,36,443,12.3,4,derrick-henry-2,1
+2014,Alabama,SEC,SO,RB,14,172,990,5.8,11,5,133,26.6,2,177,1123,6.3,13,derrick-henry-2,1
+2015,Alabama,SEC,JR,RB,15,395,2219,5.6,28,11,91,8.3,0,406,2310,5.7,28,derrick-henry-2,1
+2013,UAB,CUSA,FR,RB,11,145,881,6.1,2,4,83,20.8,1,149,964,6.5,3,jordan-howard-1,0
+2014,UAB,CUSA,SO,RB,12,306,1587,5.2,13,9,72,8.0,1,315,1659,5.3,14,jordan-howard-1,0
+2015,Indiana,Big Ten,JR,RB,9,196,1213,6.2,9,11,106,9.6,1,207,1319,6.4,10,jordan-howard-1,1
+2012,Marshall,CUSA,FR,LB,11,,,,,3,21,7.0,1,3,21,7.0,1,devon-johnson-1,0
+2013,Marshall,CUSA,SO,LB,12,5,13,2.6,3,12,218,18.2,2,17,231,13.6,5,devon-johnson-1,1
+2014,Marshall,CUSA,JR,TE,13,206,1767,8.6,17,6,121,20.2,2,212,1888,8.9,19,devon-johnson-1,1
+2015,Marshall,CUSA,SR,RB,7,94,593,6.3,5,6,63,10.5,1,100,656,6.6,6,devon-johnson-1,1
+2016,Marshall,CUSA,JR,DB,1,0,0,,0,0,0,,0,0,0,,0,devon-johnson-1,0
+2017,Marshall,CUSA,SR,DB,,,,,,,,,,0,0,,0,devon-johnson-1,1
+2012,California,Pac-12,FR,RB,12,6,109,18.2,1,,,,,6,109,18.2,1,daniel-lasco-1,0
+2013,California,Pac-12,SO,RB,8,67,317,4.7,2,11,78,7.1,0,78,395,5.1,2,daniel-lasco-1,0
+2014,California,Pac-12,JR,RB,12,210,1115,5.3,12,33,356,10.8,2,243,1471,6.1,14,daniel-lasco-1,0
+2015,California,Pac-12,SR,RB,9,65,331,5.1,3,4,24,6.0,0,69,355,5.1,3,daniel-lasco-1,1
+2011,USC,Pac-12,FR,LB,12,0,0,,0,0,0,,0,0,0,,0,tre-madden-1,0
+2013,USC,Pac-12,JR,RB,11,138,703,5.1,3,15,201,13.4,4,153,904,5.9,7,tre-madden-1,1
+2015,USC,Pac-12,SR,RB,9,85,452,5.3,5,17,133,7.8,1,102,585,5.7,6,tre-madden-1,1
+2012,Georgia,SEC,FR,RB,14,117,759,6.5,8,11,91,8.3,1,128,850,6.6,9,keith-marshall-1,1
+2013,Georgia,SEC,SO,RB,5,56,246,4.4,1,8,111,13.9,1,64,357,5.6,2,keith-marshall-1,1
+2014,Georgia,SEC,JR,RB,3,12,24,2.0,0,1,-5,-5.0,0,13,19,1.5,0,keith-marshall-1,1
+2015,Georgia,SEC,SR,RB,11,68,350,5.1,3,4,28,7.0,1,72,378,5.3,4,keith-marshall-1,1
+2013,UCLA,Pac-12,FR,RB,13,134,573,4.3,6,24,296,12.3,0,158,869,5.5,6,paul-perkins-1,1
+2014,UCLA,Pac-12,SO,RB,13,250,1572,6.3,9,26,201,7.7,2,276,1773,6.4,11,paul-perkins-1,1
+2015,UCLA,Pac-12,JR,RB,13,237,1343,5.7,14,30,242,8.1,1,267,1585,5.9,15,paul-perkins-1,1
+2013,Notre Dame,Ind,SO,WR,9,0,0,,0,7,72,10.3,0,7,72,10.3,0,cj-prosise-1,1
+2014,Notre Dame,Ind,JR,WR,13,10,126,12.6,1,29,516,17.8,2,39,642,16.5,3,cj-prosise-1,0
+2015,Notre Dame,Ind,SR,RB,10,157,1029,6.6,11,26,308,11.8,1,183,1337,7.3,12,cj-prosise-1,1
+2013,West Virginia,Big 12,FR,RB,12,39,221,5.7,1,11,132,12.0,0,50,353,7.1,1,wendell-smallwood-1,0
+2014,West Virginia,Big 12,SO,RB,13,148,722,4.9,2,31,326,10.5,0,179,1048,5.9,2,wendell-smallwood-1,1
+2015,West Virginia,Big 12,JR,RB,13,238,1519,6.4,9,26,160,6.2,0,264,1679,6.4,9,wendell-smallwood-1,1
+2013,Florida,SEC,FR,RB,9,111,508,4.6,4,5,37,7.4,0,116,545,4.7,4,kelvin-taylor-1,0
+2014,Florida,SEC,SO,RB,12,116,565,4.9,6,2,-8,-4.0,0,118,557,4.7,6,kelvin-taylor-1,1
+2015,Florida,SEC,JR,RB,14,259,1035,4.0,13,17,150,8.8,0,276,1185,4.3,13,kelvin-taylor-1,1
+2012,North Carolina State,ACC,FR,RB,10,154,694,4.5,3,30,274,9.1,1,184,968,5.3,4,shadrach-thornton-1,1
+2013,North Carolina State,ACC,SO,RB,11,165,768,4.7,4,16,97,6.1,0,181,865,4.8,4,shadrach-thornton-1,0
+2014,North Carolina State,ACC,JR,RB,13,164,907,5.5,9,15,133,8.9,1,179,1040,5.8,10,shadrach-thornton-1,1
+2015,North Carolina State,ACC,SR,RB,2,30,203,6.8,3,0,0,,0,30,203,6.8,3,shadrach-thornton-1,1
+2011,Texas Tech,Big 12,FR,RB,12,77,366,4.8,3,19,109,5.7,0,96,475,4.9,3,deandre-washington-1,0
+2013,Texas Tech,Big 12,SO,RB,12,107,450,4.2,4,34,269,7.9,0,141,719,5.1,4,deandre-washington-1,1
+2014,Texas Tech,Big 12,JR,RB,12,188,1103,5.9,2,30,328,10.9,2,218,1431,6.6,4,deandre-washington-1,0
+2015,Texas Tech,Big 12,SR,RB,13,233,1492,6.4,14,41,385,9.4,2,274,1877,6.9,16,deandre-washington-1,1
+2011,South Carolina,SEC,FR,RB,13,107,486,4.5,3,15,136,9.1,0,122,622,5.1,3,brandon-wilds-1,1
+2013,South Carolina,SEC,SO,RB,7,43,221,5.1,3,9,119,13.2,2,52,340,6.5,5,brandon-wilds-1,1
+2014,South Carolina,SEC,JR,RB,12,106,570,5.4,4,18,143,7.9,1,124,713,5.8,5,brandon-wilds-1,1
+2015,South Carolina,SEC,SR,RB,9,123,567,4.6,3,17,142,8.4,0,140,709,5.1,3,brandon-wilds-1,0
+2012,Arkansas,SEC,FR,RB,11,45,231,5.1,0,8,208,26.0,2,53,439,8.3,2,jonathan-williams-2,0
+2013,Arkansas,SEC,SO,RB,12,150,900,6.0,4,7,72,10.3,2,157,972,6.2,6,jonathan-williams-2,0
+2014,Arkansas,SEC,JR,RB,13,211,1190,5.6,12,11,65,5.9,2,222,1255,5.7,14,jonathan-williams-2,1
+2015,Arkansas,SEC,SR,RB,,,,,,,,,,0,0,,0,jonathan-williams-2,1
+2015,Oklahoma State,Big 12,JR,RB,12,131,517,3.9,4,17,170,10.0,0,148,687,4.6,4,chris-carson-1,1
+2016,Oklahoma State,Big 12,SR,RB,9,82,559,6.8,9,13,128,9.8,1,95,687,7.2,10,chris-carson-1,1
+2013,Wisconsin,Big Ten,FR,RB,8,67,547,8.2,7,1,9,9.0,0,68,556,8.2,7,corey-clement-1,1
+2014,Wisconsin,Big Ten,SO,RB,14,147,949,6.5,9,14,119,8.5,2,161,1068,6.6,11,corey-clement-1,1
+2015,Wisconsin,Big Ten,JR,RB,4,48,221,4.6,5,2,19,9.5,0,50,240,4.8,5,corey-clement-1,1
+2016,Wisconsin,Big Ten,SR,RB,13,314,1375,4.4,15,12,132,11.0,0,326,1507,4.6,15,corey-clement-1,1
+2013,Pitt,ACC,FR,RB,12,146,799,5.5,8,3,33,11.0,0,149,832,5.6,8,james-conner-1,1
+2014,Pitt,ACC,SO,RB,13,298,1765,5.9,26,5,70,14.0,0,303,1835,6.1,26,james-conner-1,1
+2015,Pitt,ACC,JR,RB,1,8,77,9.6,2,1,7,7.0,0,9,84,9.3,2,james-conner-1,1
+2016,Pitt,ACC,JR,RB,13,216,1092,5.1,16,21,302,14.4,4,237,1394,5.9,20,james-conner-1,1
+2014,Florida State,ACC,FR,RB,13,170,1008,5.9,8,22,203,9.2,0,192,1211,6.3,8,dalvin-cook-1,1
+2015,Florida State,ACC,SO,RB,12,229,1691,7.4,19,24,244,10.2,1,253,1935,7.6,20,dalvin-cook-1,1
+2016,Florida State,ACC,JR,RB,13,288,1765,6.1,19,33,488,14.8,1,321,2253,7.0,20,dalvin-cook-1,1
+2013,USC,Pac-12,FR,RB,7,53,361,6.8,6,1,7,7.0,0,54,368,6.8,6,justin-davis-2,1
+2014,USC,Pac-12,SO,RB,13,129,595,4.6,4,13,92,7.1,2,142,687,4.8,6,justin-davis-2,1
+2015,USC,Pac-12,JR,RB,13,169,902,5.3,7,18,189,10.5,0,187,1091,5.8,7,justin-davis-2,1
+2016,USC,Pac-12,SR,RB,10,110,607,5.5,2,14,112,8.0,0,124,719,5.8,2,justin-davis-2,1
+2013,North Carolina State,ACC,FR,RB,11,63,252,4.0,4,10,173,17.3,1,73,425,5.8,5,matt-dayes-1,0
+2014,North Carolina State,ACC,SO,RB,13,104,573,5.5,8,32,321,10.0,5,136,894,6.6,13,matt-dayes-1,1
+2015,North Carolina State,ACC,JR,RB,8,134,865,6.5,12,24,172,7.2,0,158,1037,6.6,12,matt-dayes-1,1
+2016,North Carolina State,ACC,SR,RB,13,249,1166,4.7,10,32,271,8.5,0,281,1437,5.1,10,matt-dayes-1,1
+2014,Texas,Big 12,FR,RB,6,14,74,5.3,0,1,7,7.0,0,15,81,5.4,0,donta-foreman-1,1
+2015,Texas,Big 12,SO,RB,10,94,672,7.1,5,5,64,12.8,0,99,736,7.4,5,donta-foreman-1,0
+2016,Texas,Big 12,JR,RB,11,323,2028,6.3,15,7,75,10.7,0,330,2103,6.4,15,donta-foreman-1,0
+2014,LSU,SEC,FR,RB,13,187,1034,5.5,10,7,127,18.1,0,194,1161,6.0,10,leonard-fournette-1,1
+2015,LSU,SEC,SO,RB,12,300,1953,6.5,22,19,253,13.3,1,319,2206,6.9,23,leonard-fournette-1,1
+2016,LSU,SEC,JR,RB,7,129,843,6.5,8,15,146,9.7,0,144,989,6.9,8,leonard-fournette-1,1
+2014,Clemson,ACC,FR,RB,13,161,769,4.8,4,24,108,4.5,1,185,877,4.7,5,wayne-gallman-1,1
+2015,Clemson,ACC,SO,RB,14,282,1514,5.4,13,22,226,10.3,1,304,1740,5.7,14,wayne-gallman-1,1
+2016,Clemson,ACC,JR,RB,15,232,1133,4.9,17,20,152,7.6,0,252,1285,5.1,17,wayne-gallman-1,1
+2014,Wyoming,MWC,FR,RB,11,145,796,5.5,7,13,204,15.7,0,158,1000,6.3,7,brian-hill-4,0
+2015,Wyoming,MWC,SO,RB,12,281,1631,5.8,6,20,132,6.6,0,301,1763,5.9,6,brian-hill-4,0
+2016,Wyoming,MWC,JR,RB,14,349,1860,5.3,22,8,67,8.4,0,357,1927,5.4,22,brian-hill-4,1
+2014,North Carolina,ACC,FR,RB,8,67,259,3.9,4,2,-2,-1.0,0,69,257,3.7,4,elijah-hood-1,1
+2015,North Carolina,ACC,SO,RB,14,218,1463,6.7,17,13,71,5.5,0,231,1534,6.6,17,elijah-hood-1,1
+2016,North Carolina,ACC,JR,RB,11,145,858,5.9,8,25,142,5.7,0,170,1000,5.9,8,elijah-hood-1,1
+2013,Toledo,MAC,FR,RB,11,137,866,6.3,6,12,68,5.7,0,149,934,6.3,6,kareem-hunt-1,0
+2014,Toledo,MAC,SO,RB,10,205,1631,8.0,16,9,39,4.3,0,214,1670,7.8,16,kareem-hunt-1,1
+2015,Toledo,MAC,JR,RB,10,178,973,5.5,12,11,45,4.1,0,189,1018,5.4,12,kareem-hunt-1,1
+2016,Toledo,MAC,SR,RB,13,262,1475,5.6,10,41,403,9.8,1,303,1878,6.2,11,kareem-hunt-1,1
+2014,West Virginia,Big 12,SO,RB,12,176,788,4.5,7,21,140,6.7,0,197,928,4.7,7,rushel-shell-3,1
+2015,West Virginia,Big 12,JR,RB,13,161,708,4.4,8,16,101,6.3,0,177,809,4.6,8,rushel-shell-3,1
+2016,West Virginia,Big 12,SR,RB,10,113,514,4.5,5,12,100,8.3,0,125,614,4.9,5,rushel-shell-3,1
+2013,UTEP,CUSA,FR,RB,9,155,811,5.2,4,4,14,3.5,0,159,825,5.2,4,aaron-jones-6,0
+2014,UTEP,CUSA,SO,RB,12,242,1321,5.5,11,30,293,9.8,3,272,1614,5.9,14,aaron-jones-6,1
+2015,UTEP,CUSA,JR,RB,2,32,209,6.5,1,9,106,11.8,1,41,315,7.7,2,aaron-jones-6,0
+2016,UTEP,CUSA,JR,RB,12,229,1773,7.7,17,28,233,8.3,3,257,2006,7.8,20,aaron-jones-6,0
+2017,UTEP,CUSA,SR,RB,,,,,,,,,,0,0,,0,aaron-jones-6,0
+2015,Tennessee,SEC,SO,RB,13,107,698,6.5,7,34,291,8.6,3,141,989,7.0,10,alvin-kamara-1,1
+2016,Tennessee,SEC,JR,RB,11,103,596,5.8,9,40,392,9.8,4,143,988,6.9,13,alvin-kamara-1,1
+2013,North Carolina,ACC,FR,RB,9,93,533,5.7,4,10,124,12.4,0,103,657,6.4,4,tj-logan-1,1
+2014,North Carolina,ACC,SO,RB,13,119,582,4.9,3,26,144,5.5,0,145,726,5.0,3,tj-logan-1,1
+2015,North Carolina,ACC,JR,RB,14,66,400,6.1,5,11,151,13.7,1,77,551,7.2,6,tj-logan-1,1
+2016,North Carolina,ACC,SR,RB,13,120,650,5.4,7,29,244,8.4,3,149,894,6.0,10,tj-logan-1,1
+2014,South Florida,American,FR,RB,12,202,1041,5.2,9,21,160,7.6,0,223,1201,5.4,9,marlon-mack-1,0
+2015,South Florida,American,SO,RB,12,210,1381,6.6,8,16,111,6.9,1,226,1492,6.6,9,marlon-mack-1,1
+2016,South Florida,American,JR,RB,12,174,1187,6.8,15,28,227,8.1,0,202,1414,7.0,15,marlon-mack-1,1
+2014,Stanford,Pac-12,FR,RB,12,42,300,7.1,0,17,251,14.8,2,59,551,9.3,2,christian-mccaffrey-1,1
+2015,Stanford,Pac-12,SO,RB,14,337,2019,6.0,8,45,645,14.3,5,382,2664,7.0,13,christian-mccaffrey-1,1
+2016,Stanford,Pac-12,JR,RB,11,253,1603,6.3,13,37,310,8.4,3,290,1913,6.6,16,christian-mccaffrey-1,1
+2013,Louisiana,Sun Belt,FR,RB,13,103,863,8.4,8,22,384,17.5,3,125,1247,10.0,11,elijah-mcguire-1,1
+2014,Louisiana,Sun Belt,SO,RB,13,166,1264,7.6,14,45,468,10.4,2,211,1732,8.2,16,elijah-mcguire-1,1
+2015,Louisiana,Sun Belt,JR,RB,12,209,1047,5.0,13,34,304,8.9,3,243,1351,5.6,16,elijah-mcguire-1,0
+2016,Louisiana,Sun Belt,SR,RB,13,232,1127,4.9,7,29,238,8.2,2,261,1365,5.2,9,elijah-mcguire-1,1
+2014,Boise State,MWC,FR,RB,9,17,159,9.4,1,15,155,10.3,1,32,314,9.8,2,jeremy-mcnichols-1,1
+2015,Boise State,MWC,SO,RB,12,240,1337,5.6,20,51,460,9.0,6,291,1797,6.2,26,jeremy-mcnichols-1,1
+2016,Boise State,MWC,JR,RB,13,314,1709,5.4,23,37,474,12.8,4,351,2183,6.2,27,jeremy-mcnichols-1,1
+2013,Wisconsin,Big Ten,FR,DB,2,0,0,,0,0,0,,0,0,0,,0,dare-ogunbowale-1,1
+2014,Wisconsin,Big Ten,SO,CB,11,34,193,5.7,1,0,0,,0,34,193,5.7,1,dare-ogunbowale-1,1
+2015,Wisconsin,Big Ten,JR,RB,13,194,819,4.2,7,36,299,8.3,1,230,1118,4.9,8,dare-ogunbowale-1,1
+2016,Wisconsin,Big Ten,SR,RB,14,91,506,5.6,5,24,208,8.7,1,115,714,6.2,6,dare-ogunbowale-1,1
+2014,Oklahoma,Big 12,FR,RB,13,263,1713,6.5,21,15,108,7.2,0,278,1821,6.6,21,samaje-perine-1,1
+2015,Oklahoma,Big 12,SO,RB,13,226,1349,6.0,16,15,107,7.1,1,241,1456,6.0,17,samaje-perine-1,1
+2016,Oklahoma,Big 12,JR,RB,10,196,1060,5.4,12,10,106,10.6,1,206,1166,5.7,13,samaje-perine-1,1
+2013,San Diego State,MWC,FR,RB,13,125,752,6.0,8,22,234,10.6,2,147,986,6.7,10,donnel-pumphrey-1,1
+2014,San Diego State,MWC,SO,RB,13,276,1867,6.8,20,23,160,7.0,0,299,2027,6.8,20,donnel-pumphrey-1,1
+2015,San Diego State,MWC,JR,RB,14,309,1653,5.3,17,27,414,15.3,3,336,2067,6.2,20,donnel-pumphrey-1,1
+2016,San Diego State,MWC,SR,RB,14,349,2133,6.1,17,27,231,8.6,0,376,2364,6.3,17,donnel-pumphrey-1,1
+2014,Indiana,Big Ten,FR,RB,7,29,118,4.1,1,1,14,14.0,0,30,132,4.4,1,devine-redding-1,0
+2015,Indiana,Big Ten,SO,RB,13,226,1012,4.5,9,12,85,7.1,0,238,1097,4.6,9,devine-redding-1,1
+2016,Indiana,Big Ten,JR,RB,13,253,1122,4.4,7,27,146,5.4,2,280,1268,4.5,9,devine-redding-1,1
+2013,Michigan,Big Ten,FR,RB,4,26,117,4.5,0,0,0,,0,26,117,4.5,0,deveon-smith-1,1
+2014,Michigan,Big Ten,SO,RB,12,108,519,4.8,6,3,26,8.7,0,111,545,4.9,6,deveon-smith-1,0
+2015,Michigan,Big Ten,JR,RB,12,180,753,4.2,6,19,159,8.4,1,199,912,4.6,7,deveon-smith-1,1
+2016,Michigan,Big Ten,SR,RB,13,181,846,4.7,10,16,66,4.1,0,197,912,4.6,10,deveon-smith-1,1
+2013,Temple,American,FR,RB,8,0,0,,0,0,0,,0,0,0,,0,jahad-thomas-1,0
+2014,Temple,American,SO,DB,12,80,384,4.8,0,14,364,26.0,1,94,748,8.0,1,jahad-thomas-1,0
+2015,Temple,American,JR,RB,14,276,1262,4.6,17,22,216,9.8,1,298,1478,5.0,18,jahad-thomas-1,1
+2016,Temple,American,SR,RB,12,207,953,4.6,13,33,418,12.7,6,240,1371,5.7,19,jahad-thomas-1,1
+2014,Kentucky,SEC,FR,RB,10,75,488,6.5,5,17,162,9.5,1,92,650,7.1,6,stanley-boom-williams-1,0
+2015,Kentucky,SEC,SO,RB,10,121,855,7.1,6,13,74,5.7,0,134,929,6.9,6,stanley-boom-williams-1,0
+2016,Kentucky,SEC,SO,RB,13,171,1170,6.8,7,8,56,7.0,1,179,1226,6.8,8,stanley-boom-williams-1,1
+2015,Utah,Pac-12,JR,RB,10,104,477,4.6,3,11,84,7.6,0,115,561,4.9,3,joe-williams-7,1
+2016,Utah,Pac-12,SR,RB,9,210,1407,6.7,10,9,107,11.9,0,219,1514,6.9,10,joe-williams-7,1
+2012,Brigham Young,Ind,FR,RB,13,166,775,4.7,12,27,315,11.7,1,193,1090,5.6,13,jamaal-williams-1,1
+2013,Brigham Young,Ind,SO,RB,12,217,1233,5.7,7,18,125,6.9,0,235,1358,5.8,7,jamaal-williams-1,1
+2014,Brigham Young,Ind,JR,RB,8,109,518,4.8,4,8,47,5.9,0,117,565,4.8,4,jamaal-williams-1,1
+2016,Brigham Young,Ind,SR,RB,10,234,1375,5.9,12,7,80,11.4,0,241,1455,6.0,12,jamaal-williams-1,1
+2015,Notre Dame,Ind,FR,RB,12,116,838,7.2,6,7,42,6.0,1,123,880,7.2,7,josh-adams-2,1
+2016,Notre Dame,Ind,SO,RB,12,158,933,5.9,5,21,193,9.2,1,179,1126,6.3,6,josh-adams-2,0
+2017,Notre Dame,Ind,JR,RB,13,206,1430,6.9,9,13,101,7.8,0,219,1531,7.0,9,josh-adams-2,1
+2014,Arizona State,Pac-12,FR,RB,11,42,126,3.0,3,6,64,10.7,1,48,190,4.0,4,kalen-ballage-1,1
+2015,Arizona State,Pac-12,SO,RB,10,125,653,5.2,4,12,60,5.0,0,137,713,5.2,4,kalen-ballage-1,1
+2016,Arizona State,Pac-12,JR,RB,12,126,536,4.3,14,44,469,10.7,1,170,1005,5.9,15,kalen-ballage-1,0
+2017,Arizona State,Pac-12,SR,RB,13,157,669,4.3,6,20,91,4.6,0,177,760,4.3,6,kalen-ballage-1,1
+2015,Penn State,Big Ten,FR,RB,11,182,1076,5.9,7,20,161,8.1,1,202,1237,6.1,8,saquon-barkley-1,1
+2016,Penn State,Big Ten,SO,RB,14,272,1496,5.5,18,28,402,14.4,4,300,1898,6.3,22,saquon-barkley-1,1
+2017,Penn State,Big Ten,JR,RB,13,217,1271,5.9,18,54,632,11.7,3,271,1903,7.0,21,saquon-barkley-1,1
+2014,Georgia,SEC,FR,RB,13,219,1547,7.1,14,18,213,11.8,2,237,1760,7.4,16,nick-chubb-1,1
+2015,Georgia,SEC,SO,RB,6,92,747,8.1,7,4,32,8.0,1,96,779,8.1,8,nick-chubb-1,1
+2016,Georgia,SEC,JR,RB,13,224,1130,5.0,8,5,86,17.2,1,229,1216,5.3,9,nick-chubb-1,1
+2017,Georgia,SEC,SR,RB,15,223,1345,6.0,15,4,30,7.5,0,227,1375,6.1,15,nick-chubb-1,1
+2014,Washington,Pac-12,FR,HB,11,138,565,4.1,1,9,35,3.9,0,147,600,4.1,1,lavon-coleman-1,1
+2015,Washington,Pac-12,SO,RB,9,33,176,5.3,0,4,31,7.8,0,37,207,5.6,0,lavon-coleman-1,1
+2016,Washington,Pac-12,JR,RB,14,114,852,7.5,7,5,31,6.2,0,119,883,7.4,7,lavon-coleman-1,1
+2017,Washington,Pac-12,SR,RB,12,89,407,4.6,4,13,155,11.9,3,102,562,5.5,7,lavon-coleman-1,1
+2016,West Virginia,Big 12,JR,RB,13,163,1184,7.3,4,14,68,4.9,1,177,1252,7.1,5,justin-crawford-1,1
+2017,West Virginia,Big 12,SR,RB,12,191,1060,5.5,7,8,38,4.8,0,199,1098,5.5,7,justin-crawford-1,1
+2017,Oklahoma,Big 12,SR,FB,13,14,22,1.6,4,26,464,17.8,5,40,486,12.2,9,dmitri-flowers-1,1
+2014,Western Michigan,MAC,FR,RB,13,306,1551,5.1,24,14,163,11.6,1,320,1714,5.4,25,jarvion-franklin-1,1
+2015,Western Michigan,MAC,SO,RB,13,153,735,4.8,5,17,184,10.8,0,170,919,5.4,5,jarvion-franklin-1,1
+2016,Western Michigan,MAC,JR,RB,14,248,1353,5.5,12,25,288,11.5,2,273,1641,6.0,14,jarvion-franklin-1,1
+2017,Western Michigan,MAC,SR,RB,12,235,1228,5.2,11,5,35,7.0,1,240,1263,5.3,12,jarvion-franklin-1,0
+2014,Oregon,Pac-12,FR,RB,15,252,1365,5.4,18,16,158,9.9,1,268,1523,5.7,19,royce-freeman-1,1
+2015,Oregon,Pac-12,SO,RB,13,283,1836,6.5,17,26,348,13.4,2,309,2184,7.1,19,royce-freeman-1,1
+2016,Oregon,Pac-12,JR,RB,11,168,945,5.6,9,23,144,6.3,1,191,1089,5.7,10,royce-freeman-1,0
+2017,Oregon,Pac-12,SR,RB,12,244,1475,6.0,16,14,164,11.7,0,258,1639,6.4,16,royce-freeman-1,1
+2015,LSU,SEC,FR,RB,11,51,436,8.5,3,5,20,4.0,0,56,456,8.1,3,derrius-guice-1,1
+2016,LSU,SEC,SO,RB,12,183,1387,7.6,15,9,106,11.8,1,192,1493,7.8,16,derrius-guice-1,1
+2017,LSU,SEC,JR,RB,12,237,1251,5.3,11,18,124,6.9,2,255,1375,5.4,13,derrius-guice-1,1
+2014,Texas Christian,Big 12,FR,RB,11,46,160,3.5,0,12,118,9.8,0,58,278,4.8,0,kyle-hicks-1,1
+2015,Texas Christian,Big 12,SO,RB,11,56,262,4.7,3,13,104,8.0,1,69,366,5.3,4,kyle-hicks-1,1
+2016,Texas Christian,Big 12,JR,RB,13,203,1042,5.1,12,47,417,8.9,2,250,1459,5.8,14,kyle-hicks-1,1
+2017,Texas Christian,Big 12,SR,RB,12,139,637,4.6,4,30,291,9.7,1,169,928,5.5,5,kyle-hicks-1,1
+2015,North Carolina State,ACC,FR,WR,13,48,243,5.1,1,20,256,12.8,1,68,499,7.3,2,nyheim-hines-1,1
+2016,North Carolina State,ACC,SO,RB,12,13,44,3.4,0,43,525,12.2,0,56,569,10.2,0,nyheim-hines-1,1
+2017,North Carolina State,ACC,JR,RB,13,197,1113,5.6,12,26,152,5.8,0,223,1265,5.7,12,nyheim-hines-1,1
+2014,Northwestern,Big Ten,FR,RB,12,245,1187,4.8,10,22,201,9.1,1,267,1388,5.2,11,justin-jackson-5,0
+2015,Northwestern,Big Ten,SO,RB,13,312,1418,4.5,5,21,162,7.7,0,333,1580,4.7,5,justin-jackson-5,1
+2016,Northwestern,Big Ten,JR,RB,13,298,1524,5.1,15,35,219,6.3,0,333,1743,5.2,15,justin-jackson-5,1
+2017,Northwestern,Big Ten,SR,RB,13,287,1311,4.6,11,44,276,6.3,0,331,1587,4.8,11,justin-jackson-5,1
+2015,Auburn,SEC,FR,RB,12,52,208,4.0,3,14,159,11.4,0,66,367,5.6,3,kerryon-johnson-1,1
+2016,Auburn,SEC,SO,RB,12,182,895,4.9,11,17,125,7.4,0,199,1020,5.1,11,kerryon-johnson-1,1
+2017,Auburn,SEC,JR,RB,12,285,1391,4.9,18,24,194,8.1,2,309,1585,5.1,20,kerryon-johnson-1,1
+2015,USC,Pac-12,FR,RB,14,153,987,6.5,8,7,39,5.6,1,160,1026,6.4,9,ronald-jones-4,1
+2016,USC,Pac-12,SO,RB,13,177,1082,6.1,12,11,76,6.9,1,188,1158,6.2,13,ronald-jones-4,1
+2017,USC,Pac-12,JR,RB,13,261,1550,5.9,19,14,187,13.4,1,275,1737,6.3,20,ronald-jones-4,1
+2015,Tennessee,SEC,FR,RB,7,40,165,4.1,1,0,0,,0,40,165,4.1,1,john-kelly-6,1
+2016,Tennessee,SEC,SO,RB,11,98,630,6.4,5,6,51,8.5,0,104,681,6.5,5,john-kelly-6,1
+2017,Tennessee,SEC,JR,RB,11,189,778,4.1,9,37,299,8.1,0,226,1077,4.8,9,john-kelly-6,0
+2014,Georgia,SEC,FR,RB,8,64,410,6.4,5,7,106,15.1,1,71,516,7.3,6,sony-michel-1,1
+2015,Georgia,SEC,SO,RB,13,218,1136,5.2,8,26,270,10.4,3,244,1406,5.8,11,sony-michel-1,1
+2016,Georgia,SEC,JR,RB,12,152,840,5.5,4,22,149,6.8,1,174,989,5.7,5,sony-michel-1,1
+2017,Georgia,SEC,SR,RB,14,156,1227,7.9,16,9,96,10.7,1,165,1323,8.0,17,sony-michel-1,1
+2015,Oregon State,Pac-12,FR,TE,9,73,455,6.2,3,7,109,15.6,0,80,564,7.1,3,ryan-nail-1,0
+2016,Oregon State,Pac-12,SO,RB,10,147,951,6.5,13,22,214,9.7,2,169,1165,6.9,15,ryan-nail-1,0
+2017,Oregon State,Pac-12,JR,RB,11,165,810,4.9,8,27,240,8.9,2,192,1050,5.5,10,ryan-nail-1,0
+2014,San Diego State,MWC,FR,RB,10,2,22,11.0,0,0,0,,0,2,22,11.0,0,rashaad-penny-1,1
+2015,San Diego State,MWC,SO,RB,14,61,368,6.0,4,8,120,15.0,1,69,488,7.1,5,rashaad-penny-1,1
+2016,San Diego State,MWC,JR,RB,14,136,1018,7.5,11,15,224,14.9,3,151,1242,8.2,14,rashaad-penny-1,1
+2017,San Diego State,MWC,SR,RB,13,289,2248,7.8,23,19,135,7.1,2,308,2383,7.7,25,rashaad-penny-1,1
+2015,Auburn,SEC,FR,FB,2,0,0,,0,1,12,12.0,0,1,12,12.0,0,kamryn-pettway-1,1
+2016,Auburn,SEC,SO,RB,9,209,1224,5.9,7,2,14,7.0,0,211,1238,5.9,7,kamryn-pettway-1,1
+2017,Auburn,SEC,JR,RB,5,76,305,4.0,6,3,32,10.7,0,79,337,4.3,6,kamryn-pettway-1,1
+2015,Alabama,SEC,FR,RB,4,18,104,5.8,1,0,0,,0,18,104,5.8,1,bo-scarbrough-1,1
+2016,Alabama,SEC,SO,RB,13,125,812,6.5,11,4,22,5.5,0,129,834,6.5,11,bo-scarbrough-1,1
+2017,Alabama,SEC,JR,RB,14,124,596,4.8,8,17,109,6.4,0,141,705,5.0,8,bo-scarbrough-1,1
+2014,Iowa,Big Ten,SO,RB,5,33,186,5.6,1,1,-1,-1.0,0,34,185,5.4,1,akrum-wadley-1,1
+2015,Iowa,Big Ten,SO,RB,8,83,496,6.0,7,6,94,15.7,1,89,590,6.6,8,akrum-wadley-1,1
+2016,Iowa,Big Ten,JR,RB,13,168,1081,6.4,10,36,315,8.8,3,204,1396,6.8,13,akrum-wadley-1,1
+2017,Iowa,Big Ten,SR,RB,13,252,1109,4.4,10,28,353,12.6,3,280,1462,5.2,13,akrum-wadley-1,1
+2015,Miami (FL),ACC,FR,RB,13,130,461,3.5,9,22,293,13.3,1,152,754,5.0,10,mark-walton-1,1
+2016,Miami (FL),ACC,SO,RB,13,209,1117,5.3,14,27,240,8.9,1,236,1357,5.8,15,mark-walton-1,1
+2017,Miami (FL),ACC,JR,RB,5,56,428,7.6,3,7,91,13.0,0,63,519,8.2,3,mark-walton-1,1
+2014,Ole Miss,SEC,FR,RB,13,52,361,6.9,1,1,6,6.0,0,53,367,6.9,1,jordan-wilkins-1,1
+2015,Ole Miss,SEC,SO,RB,13,72,379,5.3,4,5,75,15.0,0,77,454,5.9,4,jordan-wilkins-1,1
+2017,Ole Miss,SEC,SR,RB,12,155,1011,6.5,9,26,241,9.3,1,181,1252,6.9,10,jordan-wilkins-1,0
+2014,LSU,SEC,FR,RB,11,64,302,4.7,3,6,63,10.5,0,70,365,5.2,3,darrel-williams-1,1
+2015,LSU,SEC,SO,RB,11,60,296,4.9,4,4,31,7.8,0,64,327,5.1,4,darrel-williams-1,1
+2016,LSU,SEC,JR,RB,9,52,233,4.5,3,5,37,7.4,0,57,270,4.7,3,darrel-williams-1,1
+2017,LSU,SEC,SR,RB,13,145,820,5.7,9,23,331,14.4,0,168,1151,6.9,9,darrel-williams-1,1
